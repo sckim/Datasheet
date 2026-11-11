@@ -1,0 +1,10 @@
+try
+    x=1;
+    y=z;
+    x=100;
+catch
+    y=x+1;
+end
+x
+y
+z=x+y

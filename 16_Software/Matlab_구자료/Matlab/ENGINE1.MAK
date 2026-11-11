@@ -1,0 +1,17 @@
+ENGINE1.FRM
+D:\VB\ENGINE.BAS
+Object={F9043C88-F6F2-101A-A3C9-08002B2F49FB}#1.0#0; COMDLG16.OCX
+Object={FAEEE763-117E-101B-8933-08002B2F4F5A}#1.0#0; DBLIST16.OCX
+ProjWinSize=78,70,255,173
+ProjWinShow=2
+IconForm="Form1"
+Name="Project1"
+HelpContextID="0"
+StartMode=0
+VersionCompatible="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+VersionCompanyName="BME"
+Reference=*\G{00025E01-0000-0000-C000-000000000046}#0.0#0#C:\PROGRAM FILES\COMMON FILES\MICROSOFT SHARED\DC:\PROGRAM FIL#Microsoft DAO 2.5 Object Library

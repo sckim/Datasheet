@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://www.eelab.usyd.edu.au/labview/main.html
+[DOC#4#5]
+BASEURL=http://www.eelab.usyd.edu.au/labview/index2.html
+ORIGURL=index2.html
+[InternetShortcut]
+URL=http://www.eelab.usyd.edu.au/labview/main.html
+Modified=10CEF370F2C9C201BF

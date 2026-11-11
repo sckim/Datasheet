@@ -1,0 +1,841 @@
+******************************************************************************
+              TMS320C55x Linker PC v4.3.6                      
+******************************************************************************
+>> Linked Mon May 24 12:13:19 2010
+
+OUTPUT FILE NAME:   <./Debug/ECGSystem.out>
+ENTRY POINT SYMBOL: "reset_isr"  address: 00009bcc
+
+
+MEMORY CONFIGURATION
+
+         name            origin    length      used     unused   attr    fill
+                        (bytes)   (bytes)    (bytes)   (bytes)
+----------------------  --------  ---------  --------  --------  ----  --------
+  MMR                   00000000   000000c0  00000000  000000c0  RW  
+  VEC                   000000c0   00000300  00000200  00000100  R  X
+  DARAM                 00000400   0000fa00  0000a86a  00005196  RW  
+  SARAM_0               00010000   00002000  00000000  00002000  RW  
+  SARAM_1               00012000   00002000  00000000  00002000  RW  
+  SARAM_2               00014000   00002000  00000000  00002000  RW  
+  SARAM_3               00016000   00034000  00005ac8  0002e538  RW  
+  EMIF_CS0              00050000   007b0000  00000000  007b0000  RW  
+  EMIF_CS2              00800000   00400000  00000000  00400000  RW  
+  EMIF_CS3              00c00000   00200000  00000000  00200000  RW  
+  EMIF_CS4              00e00000   00100000  00000000  00100000  RW  
+  EMIF_CS5              00f00000   000e0000  00000000  000e0000  RW  
+  SAROM_0               00fe0000   00008000  00000000  00008000  R  X
+  SAROM_1               00fe8000   00008000  00000000  00008000  R  X
+  SAROM_2               00ff0000   00008000  00000000  00008000  R  X
+  SAROM_3               00ff8000   00008000  00000000  00008000  R  X
+
+
+SECTION ALLOCATION MAP
+(Addresses surrounded by []'s are displayed for convenience only!)
+
+output                                                          attributes/
+section   page  orgn(bytes) orgn(words) len(bytes) len(words)   input sections
+--------  ----  ----------- ----------- ---------- ----------   --------------
+vectors      0     00000100  [ 00000080 ] 00000200          *   
+                   00000100  [ 00000080 ] 00000100          *   rts55x.lib : vectors.obj (vectors)
+                   00000200  [ 00000100 ] 00000100          *   vectors.obj (vectors)
+
+.text        0     00000400  [ 00000200 ] 00009f36          *   
+                   00000400  [ 00000200 ] 0000167b          *   ECGSystemFunctions.obj (.text)
+                   00001a7b  [ 00000d3d+] 00001623          *   ddc_uart.obj (.text)
+                   0000309e  [ 0000184f ] 000015d2          *   ddc_dma.obj (.text)
+                   00004670  [ 00002338 ] 00000e7c          *   dda_uart.obj (.text)
+                   000054ec  [ 00002a76 ] 000008f7          *   ECGSystem_main.obj (.text)
+                   00005de3  [ 00002ef1+] 000007ad          *   lcd.obj (.text)
+                   00006590  [ 000032c8 ] 000006b6          *   pal_osList.obj (.text)
+                   00006c46  [ 00003623 ] 00000660          *   InterruptHandlers.obj (.text)
+                   000072a6  [ 00003953 ] 00000621          *   llc_uart.obj (.text)
+                   000078c7  [ 00003c63+] 000005a4          *   ddc_spi.obj (.text)
+                   00007e6b  [ 00003f35+] 0000052f          *   ECGSystemInit.obj (.text)
+                   0000839a  [ 000041cd ] 0000043c          *   llc_spi.obj (.text)
+                   000087d6  [ 000043eb ] 0000038d          *   dda_spi.obj (.text)
+                   00008b63  [ 000045b1+] 0000036c          *   rts55x.lib : divd.obj (.text)
+                   00008ecf  [ 00004767+] 00000259          *              : addd.obj (.text)
+                   00009128  [ 00004894 ] 000001ea          *              : cmpd.obj (.text)
+                   00009312  [ 00004989 ] 000001c3          *   util_circ.obj (.text)
+                   000094d5  [ 00004a6a+] 000001bc          *   I2C.obj (.text)
+                   00009691  [ 00004b48+] 0000019e          *   cpu_clock_init.obj (.text)
+                   0000982f  [ 00004c17+] 00000189          *   dda_dma.obj (.text)
+                   000099b8  [ 00004cdc ] 0000014c          *   rts55x.lib : mpyd.obj (.text)
+                   00009b04  [ 00004d82 ] 000000c8          *              : frcmpyd_div.obj (.text)
+                   00009bcc  [ 00004de6 ] 000000aa          *   vectors.obj (.text)
+                   00009c76  [ 00004e3b ] 000000a1          *   rts55x.lib : divul.obj (.text)
+                   00009d17  [ 00004e8b+] 00000098          *              : fltllid.obj (.text)
+                   00009daf  [ 00004ed7+] 00000077          *              : fixdul.obj (.text)
+                   00009e26  [ 00004f13 ] 00000076          *              : frcmpyd.obj (.text)
+                   00009e9c  [ 00004f4e ] 00000072          *              : remul.obj (.text)
+                   00009f0e  [ 00004f87 ] 0000006f          *              : fixdli.obj (.text)
+                   00009f7d  [ 00004fbe+] 00000067          *              : fltlid.obj (.text)
+                   00009fe4  [ 00004ff2 ] 0000005e          *   pal_osSem.obj (.text)
+                   0000a042  [ 00005021 ] 0000005b          *   rts55x.lib : fltuld.obj (.text)
+                   0000a09d  [ 0000504e+] 00000058          *   sar.obj (.text)
+                   0000a0f5  [ 0000507a+] 0000004d          *   rts55x.lib : autoinit.obj (.text)
+                   0000a142  [ 000050a1 ] 0000004b          *              : args_main.obj (.text)
+                   0000a18d  [ 000050c6+] 00000048          *   pal_osTime.obj (.text)
+                   0000a1d5  [ 000050ea+] 0000003e          *   rts55x.lib : exit.obj (.text)
+                   0000a213  [ 00005109+] 0000003a          *   pal_osprotect.obj (.text)
+                   0000a24d  [ 00005126+] 00000034          *   rts55x.lib : boot.obj (.text)
+                   0000a281  [ 00005140+] 0000002a          *              : udiv.obj (.text)
+                   0000a2ab  [ 00005155+] 0000001a          *   timer.obj (.text)
+                   0000a2c5  [ 00005162+] 00000014          *   rts55x.lib : subd.obj (.text)
+                   0000a2d9  [ 0000516c+] 00000013          *              : lmpy.obj (.text)
+                   0000a2ec  [ 00005176 ] 00000012          *              : _lock.obj (.text)
+                   0000a2fe  [ 0000517f ] 00000011          *              : memset.obj (.text)
+                   0000a30f  [ 00005187+] 00000011          *              : strlen.obj (.text)
+                   0000a320  [ 00005190 ] 0000000c          *              : fltid.obj (.text)
+                   0000a32c  [ 00005196 ] 00000007          *              : exit.obj (.text:CIO_breakpoint)
+                   0000a333  [ 00005199+] 00000002          *              : vectors.obj (.text)
+                   0000a335  [ 0000519a ] 00000001          *   --HOLE-- [fill = 20]
+
+.data        0   [ 00000400 ]  00000200          *   00000000   UNINITIALIZED
+
+.const       0   [ 0000a338 ]  0000519c          *   000000b2   
+                 [ 0000a338 ]  0000519c          *   00000030   InterruptHandlers.obj (.const:.string)
+                 [ 0000a398 ]  000051cc          *   00000023   dda_uart.obj (.const:.string)
+                 [ 0000a3de ]  000051ef          *   00000001   --HOLE-- [fill = 0]
+                 [ 0000a3e0 ]  000051f0          *   00000018   ECGSystemFunctions.obj (.const)
+                 [ 0000a410 ]  00005208          *   00000016   lcd.obj (.const:.string)
+                 [ 0000a43c ]  0000521e          *   00000014   dda_uart.obj (.const:_$P$T0$1)
+                 [ 0000a464 ]  00005232          *   00000008   rts55x.lib : divd.obj (.const:_initial_approx$1)
+                 [ 0000a474 ]  0000523a          *   00000005   ECGSystemFunctions.obj (.const:_$P$T0$3)
+                 [ 0000a47e ]  0000523f          *   00000001   --HOLE-- [fill = 0]
+                 [ 0000a480 ]  00005240          *   00000004   dda_uart.obj (.const:_$P$T2$4)
+                 [ 0000a488 ]  00005244          *   00000002   dda_uart.obj (.const:_$P$T1$3)
+                 [ 0000a48c ]  00005246          *   00000002   rts55x.lib : divd.obj (.const)
+                 [ 0000a490 ]  00005248          *   00000002              : fltlid.obj (.const)
+                 [ 0000a494 ]  0000524a          *   00000002              : fltllid.obj (.const)
+                 [ 0000a498 ]  0000524c          *   00000002              : fltuld.obj (.const)
+
+.stack       0   [ 0000a49c ]  0000524e          *   000001f4   UNINITIALIZED
+                 [ 0000a49c ]  0000524e          *   000001f4   --HOLE--
+
+.sysstack 
+*            0   [ 0000a884 ]  00005442          *   000001f4   UNINITIALIZED
+                 [ 0000a884 ]  00005442          *   000001f4   --HOLE--
+
+.bss         0   [ 00016000 ]  0000b000          *   00002749   
+                 [ 00016000 ]  0000b000          *   000014f2   ECGSystemFunctions.obj (.bss) [fill = 0]
+                 [ 000189e4 ]  0000c4f2          *   0000080e   ECGSystem_main.obj (.bss) [fill = 0]
+                 [ 00019a00 ]  0000cd00          *   00000486   dda_uart.obj (.bss) [fill = 0]
+                 [ 0001a30c ]  0000d186          *   000002d9   lcd.obj (.bss) [fill = 0]
+                 [ 0001a8be ]  0000d45f          *   0000015f   ECG_Filter_Co-efficients.obj (.bss) [fill = 0]
+                 [ 0001ab7c ]  0000d5be          *   0000014c   ddc_dma.obj (.bss) [fill = 0]
+                 [ 0001ae14 ]  0000d70a          *   00000012   ddc_spi.obj (.bss) [fill = 0]
+                 [ 0001ae38 ]  0000d71c          *   00000010   dda_uartCfg.obj (.bss) [fill = 0]
+                 [ 0001ae58 ]  0000d72c          *   0000000b   ECGSystemInit.obj (.bss) [fill = 0]
+                 [ 0001ae6e ]  0000d737          *   00000006   dda_spi.obj (.bss) [fill = 0]
+                 [ 0001ae7a ]  0000d73d          *   00000001   InterruptHandlers.obj (.bss) [fill = 0]
+                 [ 0001ae7c ]  0000d73e          *   00000004   rts55x.lib : _lock.obj (.bss) [fill = 0]
+                 [ 0001ae84 ]  0000d742          *   00000004              : exit.obj (.bss) [fill = 0]
+                 [ 0001ae8c ]  0000d746          *   00000002   cpu_clock_init.obj (.bss) [fill = 0]
+                 [ 0001ae90 ]  0000d748          *   00000001   util_circ.obj (.bss) [fill = 0]
+
+.cinit       0   [ 0001ae92 ]  0000d749          *   000005d1   
+                 [ 0001ae92 ]  0000d749          *   000002db   lcd.obj (.cinit)
+                 [ 0001b448 ]  0000da24          *   00000162   ECG_Filter_Co-efficients.obj (.cinit)
+                 [ 0001b70c ]  0000db86          *   000000bd   ECGSystemFunctions.obj (.cinit)
+                 [ 0001b886 ]  0000dc43          *   0000004a   ddc_dma.obj (.cinit)
+                 [ 0001b91a ]  0000dc8d          *   00000044   ECGSystem_main.obj (.cinit)
+                 [ 0001b9a2 ]  0000dcd1          *   00000016   dda_uartCfg.obj (.cinit)
+                 [ 0001b9ce ]  0000dce7          *   0000000d   ECGSystemInit.obj (.cinit)
+                 [ 0001b9e8 ]  0000dcf4          *   0000000a   rts55x.lib : _lock.obj (.cinit)
+                 [ 0001b9fc ]  0000dcfe          *   0000000a              : exit.obj (.cinit)
+                 [ 0001ba10 ]  0000dd08          *   00000005   cpu_clock_init.obj (.cinit)
+                 [ 0001ba1a ]  0000dd0d          *   00000004   InterruptHandlers.obj (.cinit)
+                 [ 0001ba22 ]  0000dd11          *   00000004   dda_uart.obj (.cinit)
+                 [ 0001ba2a ]  0000dd15          *   00000004   util_circ.obj (.cinit)
+                 [ 0001ba32 ]  0000dd19          *   00000001   --HOLE-- [fill = 0]
+
+.switch      0   [ 0001ba34 ]  0000dd1a          *   0000004a   
+                 [ 0001ba34 ]  0000dd1a          *   0000001e   dda_uart.obj (.switch)
+                 [ 0001ba70 ]  0000dd38          *   00000018   ECGSystemFunctions.obj (.switch)
+                 [ 0001baa0 ]  0000dd50          *   00000014   ddc_uart.obj (.switch)
+
+
+GLOBAL SYMBOLS: SORTED ALPHABETICALLY BY Name 
+
+abs. value/
+byte addr   word addr   name
+---------   ---------   ----
+00000002                $TI_capability$C5500$CallingConvention
+00000002                $TI_capability$C5500$MemoryModel
+00000001                $TI_capability_requires_rev3
+            0000b000    .bss
+            00000200    .data
+00000400                .text
+0000a32d                C$$EXIT
+0000a2d9                I$$LMPY
+0000a281                I$$UDIV
+0000a296                I$$UMOD
+00000200                RST
+            0000d72c    _ADS1258RegVal
+00000fcb                _ADS1258_Read_ChannelData
+            0000c4f2    _AqsnBuff
+            0000c512    _AqsnBuffFullInt
+            0000d45f    _CoeffBuf
+            0000ccec    _Count
+00009691                _CpuClockInit
+            0000c513    _CurrAqsnChan
+000010e9                _CurrInp_Voltage
+00008a77                _DDA_SPI_DeviceConfigToWrite
+00008983                _DDA_spiConfiguration
+000089e6                _DDA_spiSlaveSelect
+00003f94                _DDC_DMAAdjustAddrOffset
+0000402e                _DDC_DMAChangeDestAddr
+00004008                _DDC_DMAChangeSrcAddr
+00004587                _DDC_DMACheckTxComplete
+00003533                _DDC_DMAConfigChan
+0000309e                _DDC_DMADrvInit
+00003215                _DDC_DMAReleaseChan
+00003122                _DDC_DMARequestChan
+00004057                _DDC_DMAStartTransfer
+00004134                _DDC_DMAStopTransfer
+00007e15                _DDC_DeviceConfig
+00007a64                _DDC_SPI_Close
+0000798c                _DDC_SPI_DeInit
+0000795f                _DDC_SPI_Init
+000079a3                _DDC_SPI_Open
+00007aa7                _DDC_SpiDataTransaction
+0000995a                _DMA_AdjustAddrOffset
+00009994                _DMA_ChangeDestAddr
+0000440b                _DMA_ChangeI2SDestAddr
+0000428f                _DMA_ChangeI2SSrcAddr
+00009970                _DMA_ChangeSrcAddr
+000098f2                _DMA_ConfigChan
+000098a8                _DMA_DrvInit
+0000982f                _DMA_HwInit
+00004205                _DMA_Isr
+000098d4                _DMA_ReleaseChan
+000098b2                _DMA_RequestChan
+0000991e                _DMA_StartTransfer
+0000993c                _DMA_StopTransfer
+00008239                _ECG_ADS1258_INIT
+00007e6b                _ECG_C5505Init
+00007fbf                _ECG_DMA_INIT
+00005f4e                _ECG_DisplayLCDStartUpScreen
+00008100                _ECG_FE_INIT
+00000d41                _ECG_FilterProcess
+000080f8                _ECG_GPIO_INIT
+00000f93                _ECG_GetCurrAqsnSample
+00008020                _ECG_I2C_INIT
+            0000cce5    _ECG_Info
+000005ee                _ECG_LCDPlotCurrSample
+000057a4                _ECG_LCD_HRDisplay
+000082ab                _ECG_LCD_INIT
+000058bc                _ECG_LCD_LeadOffDisplay
+00008122                _ECG_LEADOFF_DETECT_INIT
+00000d68                _ECG_ProcessCurrSample
+00007f98                _ECG_SAR_INIT
+00007fd2                _ECG_SPI_INIT
+0000570c                _ECG_StartTimer0
+000054ec                _ECG_System
+00008375                _ECG_TIMER_INIT
+00000400                _ECG_UARTTxCurrSamples
+00007f3e                _ECG_UART_INIT
+            0000c252    _FB
+0000a0bb                _Get_Sar_Key
+            0000ccf1    _HR_display_count
+            0000ccef    _HR_flag
+00005fda                _Init_LCD
+0000a09d                _Init_SAR
+            0000c238    _InitialFill
+            0000ccee    _Initial_HR_Flag
+            0000c24e    _Key_Count
+00006407                _LCD_clear_window
+0000869a                _LLC_SPI_ByteRead
+0000873e                _LLC_SPI_ByteWrite
+000083df                _LLC_SPI_ClockSet
+00008611                _LLC_SPI_CmdSet
+000084de                _LLC_SPI_DataDelay
+000083d8                _LLC_SPI_Disable
+00008717                _LLC_SPI_DoubleWordRead
+00008767                _LLC_SPI_DoubleWordWrite
+000083d0                _LLC_SPI_Enable
+0000866b                _LLC_SPI_FLenGet
+0000863f                _LLC_SPI_FLenSet
+0000879a                _LLC_SPI_FrameInterruptEnable
+0000879e                _LLC_SPI_FrameIntrRx_Get
+00008560                _LLC_SPI_LoopBackGet
+00008534                _LLC_SPI_LoopBackMode
+0000844d                _LLC_SPI_ModeSelect
+00008438                _LLC_SPI_SlaveGet
+00008413                _LLC_SPI_SlaveSelect
+00008575                _LLC_SPI_SlaveSelectPolSet
+0000867f                _LLC_SPI_StatusRead
+000085fb                _LLC_SPI_WLenGet
+000085cb                _LLC_SPI_WLenSet
+00008789                _LLC_SPI_WordInterruptEnable
+0000879c                _LLC_SPI_WordIntrRx_Get
+000086d9                _LLC_SPI_WordRead
+00008754                _LLC_SPI_WordWrite
+0000839a                _LLC_spiInit
+000078a7                _LLC_uartClearLineStatus
+0000765f                _LLC_uartClearReceiverFifo
+0000764c                _LLC_uartClearXmitterFifo
+00007703                _LLC_uartDisableHwFlowControl
+0000749e                _LLC_uartDisableLoopback
+000076ce                _LLC_uartEnableHwFlowControl
+00007469                _LLC_uartEnableLoopback
+000074ca                _LLC_uartEnableParity
+00007413                _LLC_uartGetIntrNum
+0000778a                _LLC_uartHandleRxError
+000072ee                _LLC_uartHwSetup
+000072a6                _LLC_uartInit
+00007874                _LLC_uartIntrDisable
+00007844                _LLC_uartIntrEnable
+00007817                _LLC_uartIntrIsPending
+000077ea                _LLC_uartIntrIsXmitterEmpty
+0000772f                _LLC_uartRead
+0000768d                _LLC_uartReset
+0000757a                _LLC_uartSetBaudRate
+0000753d                _LLC_uartSetNumDataBits
+00007507                _LLC_uartSetNumStopBits
+00007672                _LLC_uartSetReceiverThreshold
+00007446                _LLC_uartSetTxFifoCntFull
+00007796                _LLC_uartStatusIsDataReady
+00007764                _LLC_uartStatusIsLineError
+000077ca                _LLC_uartWrite
+            0000cceb    _LeadOffStatus
+            0000ccf0    _LeadOff_Flag
+            0000c514    _Lead_Info
+0000a18f                _PAL_osCheckTimeOut
+0000a18d                _PAL_osGetCurrentTick
+00006590                _PAL_osListAppend
+00006893                _PAL_osListDequeue
+00006816                _PAL_osListEnqueue
+0000665d                _PAL_osListInsert
+00006902                _PAL_osListIsEmpty
+00006785                _PAL_osListPrepend
+000066d1                _PAL_osListRemove
+00006619                _PAL_osListRemoveHead
+0000693e                _PAL_osList_NP_Append
+00006bb8                _PAL_osList_NP_Dequeue
+00006b54                _PAL_osList_NP_Enqueue
+000069ce                _PAL_osList_NP_Insert
+00006c1c                _PAL_osList_NP_IsEmpty
+00006ad5                _PAL_osList_NP_Prepend
+00006a33                _PAL_osList_NP_Remove
+0000699b                _PAL_osList_NP_RemoveHead
+0000a213                _PAL_osProtectEntry
+0000a236                _PAL_osProtectExit
+00009fe4                _PAL_osSemCreate
+0000a012                _PAL_osSemDelete
+0000a034                _PAL_osSemGive
+0000a020                _PAL_osSemTake
+00004d27                _PSP_uartClose
+00004830                _PSP_uartCreate
+00004980                _PSP_uartDelete
+00004f8a                _PSP_uartIoctl
+000049fa                _PSP_uartOpen
+00004d96                _PSP_uartRead
+00004db5                _PSP_uartWrite
+            0000baf8    _PrevAqsnVal
+00001145                _QRS_Algorithm_Interface
+            0000bb17    _QRS_Calc_Maxima_Flag
+            0000c232    _QRS_Current_Sample
+0000163c                _QRS_Get_Heart_Rate
+            0000c228    _QRS_Heart_Rate
+            0000bb1a    _QRS_Lead_Data_Process_Ptr
+            0000c234    _QRS_Next_Sample
+            0000c230    _QRS_Prev_Sample
+            0000bb1c    _QRS_Proc_Data_Buffer4
+            0000c236    _QRS_Second_Next_Sample
+            0000c22e    _QRS_Second_Prev_Sample
+            0000c22c    _QRS_Threshold_New
+            0000c22a    _QRS_Threshold_Old
+f9ffffef                _RTDX_interrupt_mask
+00000100                _Reset
+00008a40                _SPI_DeInit
+00008827                _SPI_INIT
+0000889d                _SPI_READ_WRITE_N_BYTES
+00008969                _SPI_WRITE_BYTES
+            0000c241    _Start_Sample_Count_Flag
+0000a2ab                _Timer0_Routine
+0000a2b3                _Timer1_Routine
+0000a2bb                _Timer2_Routine
+0000a2c3                _Timer_UnknownRoutine
+            0000c3d2    _UARTPacket
+            0000c4d3    _UARTdataRdy
+            0000c4d2    _UARTend
+            0000c24f    _UARTstart
+00009312                _UTIL_circNew
+00009348                _UTIL_circReadChar
+000093be                _UTIL_circReadMultiple
+000094b5                _UTIL_circUnget
+00009383                _UTIL_circWriteChar
+0000943b                _UTIL_circWriteMultiple
+            0000b000    _WorkingBuff
+            0000c250    _Zoom_Factor
+            0000c243    _Zoom_Flag
+00005413                __DDA_uartIoComplete
+00002aa8                __DDC_uartCancelIo
+00001ece                __DDC_uartClose
+00001f3c                __DDC_uartControl
+00001b7b                __DDC_uartCreateInstance
+00001d6a                __DDC_uartDeInit
+00001be8                __DDC_uartDelInst
+00001c12                __DDC_uartInit
+00002cbf                __DDC_uartIsr
+00001daa                __DDC_uartOpen
+00002130                __DDC_uartSubmitIoReq
+            00005442    __STACK_END
+000003e8                __STACK_SIZE
+000003e8                __SYSSTACK_SIZE
+ffffffff                ___binit__
+            0000b000    ___bss__
+ffffffff                ___c_args__
+            0000d749    ___cinit__
+            00000200    ___data__
+            00000200    ___edata__
+            0000d749    ___end__
+0000a336                ___etext__
+ffffffff                ___pinit__
+00000400                ___text__
+00008ecf                __addd
+0000a142                __args_main
+            0000d742    __cleanup_ptr
+000092ba                __cmpd
+00008b85                __divd
+0000a281                __divu
+00009c76                __divul
+            0000d744    __dtors_ptr
+00009286                __eqld
+00009f0e                __fixdli
+00009daf                __fixdul
+0000a320                __fltid
+00009f7d                __fltlid
+00009d17                __fltllid
+0000a042                __fltuld
+00009e26                __frcmpyd
+00009b04                __frcmpyd_div
+0000923c                __geqd
+000091f1                __gtrd
+000091a4                __leqd
+            0000d73e    __lock
+0000915c                __lssd
+000099b8                __mpyd
+0000a2d9                __mpyli
+00009128                __neqd
+0000a2fc                __nop
+0000a2f4                __register_lock
+0000a2ec                __register_unlock
+0000a296                __remu
+00009e9c                __remul
+            0000524e    __stack
+0000a2c5                __subd
+            00005442    __sysstack
+            0000d740    __unlock
+0000a32c                _abort
+0000a0f5                _auto_init
+0000a24d                _c_int00
+            0000cd00    _checkDmaTimeout
+00005de3                _cmdWrite
+            0000c240    _col
+            0000c23e    _cs_flag
+00005df1                _dataWrite
+00004670                _dda_uartInit
+000046b9                _dda_uartRead
+000046f4                _dda_uartWrite
+            0000d6c6    _dmaChanLookUp
+            0000d5be    _dmaChanObj
+            0000d6be    _dmaEngObj
+            0000d6e0    _dmaEvtLookUp
+0000630c                _draw_font
+00006493                _draw_font_HR
+000062b9                _draw_string
+0000a1d5                _exit
+            0000c242    _first_peak_detect
+            0000d71c    _gDDAHwCfg
+            0000d72a    _gDDA_UartHwConfig
+            0000cd02    _gDDA_UartObj
+            0000bb18    _hUart
+            0000c23a    _i
+00006c46                _i2c_isr
+000095a1                _i2c_read_reg
+000094d5                _i2c_write_reg
+            0000bb16    _instNum
+00006cb6                _int0_isr
+00006cd2                _int1_isr
+            0000c23c    _j
+00005dff                _lcd_clear
+00006c7e                _lcd_isr
+00005e7b                _lcd_remove_waveform
+            0000ccf2    _lead_digit_count
+00005714                _main
+0000a2fe                _memset
+            0000d748    _offset
+            0000d71a    _pSpiInst
+            0000c226    _sample_count
+            0000c244    _sample_index
+00006f9d                _saradc_isr
+            0000d737    _spiConfig
+000087a0                _spiDivFun
+000078c7                _spiInitInstance
+            0000d70a    _spiInstance
+000087d6                _spiPreInit
+00007b43                _spiReadData
+            0000d73c    _spiSlavesOpen
+00007cff                _spiWriteCmd
+00007c02                _spiWriteData
+00006c62                _spi_isr
+0000a30f                _strlen
+            0000d746    _sysClk
+00006e90                _tim0_isr
+            0000bb08    _uartCfg
+00006c9a                _uart_isr
+000010ba                _wait
+ffffffff                binit
+            0000d749    cinit
+            00000200    edata
+            0000d749    end
+0000a336                etext
+ffffffff                pinit
+00009bcc                reset_isr
+
+
+GLOBAL SYMBOLS: SORTED BY Symbol Address 
+
+abs. value/
+byte addr   word addr   name
+---------   ---------   ----
+00000001                $TI_capability_requires_rev3
+00000002                $TI_capability$C5500$CallingConvention
+00000002                $TI_capability$C5500$MemoryModel
+00000100                _Reset
+00000200                RST
+000003e8                __STACK_SIZE
+000003e8                __SYSSTACK_SIZE
+            00000200    .data
+00000400                .text
+00000400                _ECG_UARTTxCurrSamples
+            00000200    ___data__
+            00000200    ___edata__
+00000400                ___text__
+            00000200    edata
+000005ee                _ECG_LCDPlotCurrSample
+00000d41                _ECG_FilterProcess
+00000d68                _ECG_ProcessCurrSample
+00000f93                _ECG_GetCurrAqsnSample
+00000fcb                _ADS1258_Read_ChannelData
+000010ba                _wait
+000010e9                _CurrInp_Voltage
+00001145                _QRS_Algorithm_Interface
+0000163c                _QRS_Get_Heart_Rate
+00001b7b                __DDC_uartCreateInstance
+00001be8                __DDC_uartDelInst
+00001c12                __DDC_uartInit
+00001d6a                __DDC_uartDeInit
+00001daa                __DDC_uartOpen
+00001ece                __DDC_uartClose
+00001f3c                __DDC_uartControl
+00002130                __DDC_uartSubmitIoReq
+00002aa8                __DDC_uartCancelIo
+00002cbf                __DDC_uartIsr
+0000309e                _DDC_DMADrvInit
+00003122                _DDC_DMARequestChan
+00003215                _DDC_DMAReleaseChan
+00003533                _DDC_DMAConfigChan
+00003f94                _DDC_DMAAdjustAddrOffset
+00004008                _DDC_DMAChangeSrcAddr
+0000402e                _DDC_DMAChangeDestAddr
+00004057                _DDC_DMAStartTransfer
+00004134                _DDC_DMAStopTransfer
+00004205                _DMA_Isr
+0000428f                _DMA_ChangeI2SSrcAddr
+0000440b                _DMA_ChangeI2SDestAddr
+00004587                _DDC_DMACheckTxComplete
+00004670                _dda_uartInit
+000046b9                _dda_uartRead
+000046f4                _dda_uartWrite
+00004830                _PSP_uartCreate
+00004980                _PSP_uartDelete
+000049fa                _PSP_uartOpen
+00004d27                _PSP_uartClose
+00004d96                _PSP_uartRead
+00004db5                _PSP_uartWrite
+00004f8a                _PSP_uartIoctl
+00005413                __DDA_uartIoComplete
+000054ec                _ECG_System
+0000570c                _ECG_StartTimer0
+00005714                _main
+000057a4                _ECG_LCD_HRDisplay
+000058bc                _ECG_LCD_LeadOffDisplay
+00005de3                _cmdWrite
+00005df1                _dataWrite
+00005dff                _lcd_clear
+00005e7b                _lcd_remove_waveform
+00005f4e                _ECG_DisplayLCDStartUpScreen
+00005fda                _Init_LCD
+000062b9                _draw_string
+0000630c                _draw_font
+00006407                _LCD_clear_window
+00006493                _draw_font_HR
+00006590                _PAL_osListAppend
+00006619                _PAL_osListRemoveHead
+0000665d                _PAL_osListInsert
+000066d1                _PAL_osListRemove
+00006785                _PAL_osListPrepend
+00006816                _PAL_osListEnqueue
+00006893                _PAL_osListDequeue
+00006902                _PAL_osListIsEmpty
+0000693e                _PAL_osList_NP_Append
+0000699b                _PAL_osList_NP_RemoveHead
+000069ce                _PAL_osList_NP_Insert
+00006a33                _PAL_osList_NP_Remove
+00006ad5                _PAL_osList_NP_Prepend
+00006b54                _PAL_osList_NP_Enqueue
+00006bb8                _PAL_osList_NP_Dequeue
+00006c1c                _PAL_osList_NP_IsEmpty
+00006c46                _i2c_isr
+00006c62                _spi_isr
+00006c7e                _lcd_isr
+00006c9a                _uart_isr
+00006cb6                _int0_isr
+00006cd2                _int1_isr
+00006e90                _tim0_isr
+00006f9d                _saradc_isr
+000072a6                _LLC_uartInit
+000072ee                _LLC_uartHwSetup
+00007413                _LLC_uartGetIntrNum
+00007446                _LLC_uartSetTxFifoCntFull
+00007469                _LLC_uartEnableLoopback
+0000749e                _LLC_uartDisableLoopback
+000074ca                _LLC_uartEnableParity
+00007507                _LLC_uartSetNumStopBits
+0000753d                _LLC_uartSetNumDataBits
+0000757a                _LLC_uartSetBaudRate
+0000764c                _LLC_uartClearXmitterFifo
+0000765f                _LLC_uartClearReceiverFifo
+00007672                _LLC_uartSetReceiverThreshold
+0000768d                _LLC_uartReset
+000076ce                _LLC_uartEnableHwFlowControl
+00007703                _LLC_uartDisableHwFlowControl
+0000772f                _LLC_uartRead
+00007764                _LLC_uartStatusIsLineError
+0000778a                _LLC_uartHandleRxError
+00007796                _LLC_uartStatusIsDataReady
+000077ca                _LLC_uartWrite
+000077ea                _LLC_uartIntrIsXmitterEmpty
+00007817                _LLC_uartIntrIsPending
+00007844                _LLC_uartIntrEnable
+00007874                _LLC_uartIntrDisable
+000078a7                _LLC_uartClearLineStatus
+000078c7                _spiInitInstance
+0000795f                _DDC_SPI_Init
+0000798c                _DDC_SPI_DeInit
+000079a3                _DDC_SPI_Open
+00007a64                _DDC_SPI_Close
+00007aa7                _DDC_SpiDataTransaction
+00007b43                _spiReadData
+00007c02                _spiWriteData
+00007cff                _spiWriteCmd
+00007e15                _DDC_DeviceConfig
+00007e6b                _ECG_C5505Init
+00007f3e                _ECG_UART_INIT
+00007f98                _ECG_SAR_INIT
+00007fbf                _ECG_DMA_INIT
+00007fd2                _ECG_SPI_INIT
+00008020                _ECG_I2C_INIT
+000080f8                _ECG_GPIO_INIT
+00008100                _ECG_FE_INIT
+00008122                _ECG_LEADOFF_DETECT_INIT
+00008239                _ECG_ADS1258_INIT
+000082ab                _ECG_LCD_INIT
+00008375                _ECG_TIMER_INIT
+0000839a                _LLC_spiInit
+000083d0                _LLC_SPI_Enable
+000083d8                _LLC_SPI_Disable
+000083df                _LLC_SPI_ClockSet
+00008413                _LLC_SPI_SlaveSelect
+00008438                _LLC_SPI_SlaveGet
+0000844d                _LLC_SPI_ModeSelect
+000084de                _LLC_SPI_DataDelay
+00008534                _LLC_SPI_LoopBackMode
+00008560                _LLC_SPI_LoopBackGet
+00008575                _LLC_SPI_SlaveSelectPolSet
+000085cb                _LLC_SPI_WLenSet
+000085fb                _LLC_SPI_WLenGet
+00008611                _LLC_SPI_CmdSet
+0000863f                _LLC_SPI_FLenSet
+0000866b                _LLC_SPI_FLenGet
+0000867f                _LLC_SPI_StatusRead
+0000869a                _LLC_SPI_ByteRead
+000086d9                _LLC_SPI_WordRead
+00008717                _LLC_SPI_DoubleWordRead
+0000873e                _LLC_SPI_ByteWrite
+00008754                _LLC_SPI_WordWrite
+00008767                _LLC_SPI_DoubleWordWrite
+00008789                _LLC_SPI_WordInterruptEnable
+0000879a                _LLC_SPI_FrameInterruptEnable
+0000879c                _LLC_SPI_WordIntrRx_Get
+0000879e                _LLC_SPI_FrameIntrRx_Get
+000087a0                _spiDivFun
+000087d6                _spiPreInit
+00008827                _SPI_INIT
+0000889d                _SPI_READ_WRITE_N_BYTES
+00008969                _SPI_WRITE_BYTES
+00008983                _DDA_spiConfiguration
+000089e6                _DDA_spiSlaveSelect
+00008a40                _SPI_DeInit
+00008a77                _DDA_SPI_DeviceConfigToWrite
+00008b85                __divd
+00008ecf                __addd
+00009128                __neqd
+0000915c                __lssd
+000091a4                __leqd
+000091f1                __gtrd
+0000923c                __geqd
+00009286                __eqld
+000092ba                __cmpd
+00009312                _UTIL_circNew
+00009348                _UTIL_circReadChar
+00009383                _UTIL_circWriteChar
+000093be                _UTIL_circReadMultiple
+0000943b                _UTIL_circWriteMultiple
+000094b5                _UTIL_circUnget
+000094d5                _i2c_write_reg
+000095a1                _i2c_read_reg
+00009691                _CpuClockInit
+0000982f                _DMA_HwInit
+000098a8                _DMA_DrvInit
+000098b2                _DMA_RequestChan
+000098d4                _DMA_ReleaseChan
+000098f2                _DMA_ConfigChan
+0000991e                _DMA_StartTransfer
+0000993c                _DMA_StopTransfer
+0000995a                _DMA_AdjustAddrOffset
+00009970                _DMA_ChangeSrcAddr
+00009994                _DMA_ChangeDestAddr
+000099b8                __mpyd
+00009b04                __frcmpyd_div
+00009bcc                reset_isr
+00009c76                __divul
+00009d17                __fltllid
+00009daf                __fixdul
+00009e26                __frcmpyd
+00009e9c                __remul
+00009f0e                __fixdli
+00009f7d                __fltlid
+00009fe4                _PAL_osSemCreate
+0000a012                _PAL_osSemDelete
+0000a020                _PAL_osSemTake
+0000a034                _PAL_osSemGive
+0000a042                __fltuld
+0000a09d                _Init_SAR
+0000a0bb                _Get_Sar_Key
+0000a0f5                _auto_init
+0000a142                __args_main
+0000a18d                _PAL_osGetCurrentTick
+0000a18f                _PAL_osCheckTimeOut
+0000a1d5                _exit
+0000a213                _PAL_osProtectEntry
+0000a236                _PAL_osProtectExit
+0000a24d                _c_int00
+0000a281                I$$UDIV
+0000a281                __divu
+0000a296                I$$UMOD
+0000a296                __remu
+0000a2ab                _Timer0_Routine
+0000a2b3                _Timer1_Routine
+0000a2bb                _Timer2_Routine
+0000a2c3                _Timer_UnknownRoutine
+0000a2c5                __subd
+0000a2d9                I$$LMPY
+0000a2d9                __mpyli
+0000a2ec                __register_unlock
+0000a2f4                __register_lock
+0000a2fc                __nop
+0000a2fe                _memset
+0000a30f                _strlen
+0000a320                __fltid
+0000a32c                _abort
+0000a32d                C$$EXIT
+0000a336                ___etext__
+0000a336                etext
+            0000524e    __stack
+            00005442    __STACK_END
+            00005442    __sysstack
+            0000b000    .bss
+            0000b000    _WorkingBuff
+            0000b000    ___bss__
+            0000baf8    _PrevAqsnVal
+            0000bb08    _uartCfg
+            0000bb16    _instNum
+            0000bb17    _QRS_Calc_Maxima_Flag
+            0000bb18    _hUart
+            0000bb1a    _QRS_Lead_Data_Process_Ptr
+            0000bb1c    _QRS_Proc_Data_Buffer4
+            0000c226    _sample_count
+            0000c228    _QRS_Heart_Rate
+            0000c22a    _QRS_Threshold_Old
+            0000c22c    _QRS_Threshold_New
+            0000c22e    _QRS_Second_Prev_Sample
+            0000c230    _QRS_Prev_Sample
+            0000c232    _QRS_Current_Sample
+            0000c234    _QRS_Next_Sample
+            0000c236    _QRS_Second_Next_Sample
+            0000c238    _InitialFill
+            0000c23a    _i
+            0000c23c    _j
+            0000c23e    _cs_flag
+            0000c240    _col
+            0000c241    _Start_Sample_Count_Flag
+            0000c242    _first_peak_detect
+            0000c243    _Zoom_Flag
+            0000c244    _sample_index
+            0000c24e    _Key_Count
+            0000c24f    _UARTstart
+            0000c250    _Zoom_Factor
+            0000c252    _FB
+            0000c3d2    _UARTPacket
+            0000c4d2    _UARTend
+            0000c4d3    _UARTdataRdy
+            0000c4f2    _AqsnBuff
+            0000c512    _AqsnBuffFullInt
+            0000c513    _CurrAqsnChan
+            0000c514    _Lead_Info
+            0000cce5    _ECG_Info
+            0000cceb    _LeadOffStatus
+            0000ccec    _Count
+            0000ccee    _Initial_HR_Flag
+            0000ccef    _HR_flag
+            0000ccf0    _LeadOff_Flag
+            0000ccf1    _HR_display_count
+            0000ccf2    _lead_digit_count
+            0000cd00    _checkDmaTimeout
+            0000cd02    _gDDA_UartObj
+            0000d45f    _CoeffBuf
+            0000d5be    _dmaChanObj
+            0000d6be    _dmaEngObj
+            0000d6c6    _dmaChanLookUp
+            0000d6e0    _dmaEvtLookUp
+            0000d70a    _spiInstance
+            0000d71a    _pSpiInst
+            0000d71c    _gDDAHwCfg
+            0000d72a    _gDDA_UartHwConfig
+            0000d72c    _ADS1258RegVal
+            0000d737    _spiConfig
+            0000d73c    _spiSlavesOpen
+            0000d73e    __lock
+            0000d740    __unlock
+            0000d742    __cleanup_ptr
+            0000d744    __dtors_ptr
+            0000d746    _sysClk
+            0000d748    _offset
+            0000d749    ___cinit__
+            0000d749    ___end__
+            0000d749    cinit
+            0000d749    end
+f9ffffef                _RTDX_interrupt_mask
+ffffffff                ___binit__
+ffffffff                ___c_args__
+ffffffff                ___pinit__
+ffffffff                binit
+ffffffff                pinit
+
+[334 symbols]

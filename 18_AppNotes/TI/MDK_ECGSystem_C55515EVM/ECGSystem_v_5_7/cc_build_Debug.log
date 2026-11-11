@@ -1,0 +1,74 @@
+--------------------------  ECG_NonBIOS.pjt - Debug  --------------------------
+[cpu_clock_init.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "cpu_clock_init.c"
+
+[dda_dma.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "dda_dma.c"
+
+[dda_spi.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "dda_spi.c"
+"dda_spi.c", line 168: warning: function declared implicitly
+
+[dda_uart.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "dda_uart.c"
+
+[dda_uartCfg.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "dda_uartCfg.c"
+
+[ddc_dma.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "ddc_dma.c"
+
+[ddc_spi.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "ddc_spi.c"
+"ddc_spi.c", line 228: warning: function declared implicitly
+
+[ddc_uart.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "ddc_uart.c"
+
+[ECG_Filter_Co-efficients.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "ECG_Filter_Co-efficients.c"
+"ECG_Filter_Co-efficients.c", line 47: warning: pragma can only be applied to a file level symbol, not 'Coeffbuf'
+
+[ECGSystem_main.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "ECGSystem_main.c"
+"ECGSystem_main.c", line 319: warning: argument of type "unsigned char *" is incompatible with parameter of type "const Char *"
+
+[ECGSystemFunctions.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "ECGSystemFunctions.c"
+"ECGSystemFunctions.c", line 55: warning: unrecognized #pragma
+"ECGSystemFunctions.c", line 1072: warning: variable "maximum_index" was set but never used
+
+[ECGSystemInit.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "ECGSystemInit.c"
+"ECGSystemInit.c", line 335: warning: integer conversion resulted in truncation
+"ECGSystemInit.c", line 447: warning: variable "FE_Active" was declared but never referenced
+"ECGSystemInit.c", line 478: warning: variable "i2cdata" was set but never used
+"ECGSystemInit.c", line 619: warning: integer conversion resulted in a change of sign
+"ECGSystemInit.c", line 623: warning: integer conversion resulted in a change of sign
+"ECGSystemInit.c", line 71: warning: variable "FE_Active" was declared but never referenced
+
+[I2C.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "I2C.c"
+
+[InterruptHandlers.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "InterruptHandlers.c"
+"InterruptHandlers.c", line 135: warning: function declared implicitly
+
+[lcd.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "lcd.c"
+"lcd.c", line 383: warning: function declared implicitly
+
+[llc_spi.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "llc_spi.c"
+
+[llc_uart.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "llc_uart.c"
+
+[pal_osList.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "pal_osList.c"
+
+[pal_osprotect.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "pal_osprotect.c"
+
+[pal_osSem.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "pal_osSem.c"
+"pal_osSem.c", line 54: warning: variable "temp" was set but never used
+"pal_osSem.c", line 85: warning: variable "semPendResult" was declared but never referenced
+
+[pal_osTime.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "pal_osTime.c"
+"pal_osTime.c", line 56: warning: missing return statement at end of non-void function "PAL_osGetCurrentTick"
+
+[sar.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "sar.c"
+
+[timer.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "timer.c"
+
+[util_circ.c] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "util_circ.c"
+
+[vectors.asm] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -g -mg -pdsw225 -fr"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/Debug" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_inc" -i"C:/WorkTI/SW/MDK/ECG_ADS1258/Full/PG2_0/MDK_ECGSystem_C55515EVM/ECGSystem/common_src" -d"_DEBUG" -ml -vcpu:3.3 -@"../Debug.lkf" "vectors.asm"
+
+[Linking...] "C:\Program Files\Texas Instruments\C5500 Code Generation Tools 4.3.6\bin\cl55" -@"Debug.lkf"
+<Linking>
+warning: entry-point symbol other than "_c_int00" specified:  "reset_isr"
+
+Build Complete,
+  0 Errors, 18 Warnings, 0 Remarks.

@@ -1,0 +1,54 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[11/30/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\atm3231-pv_rc battery_free_v03_sch_cr2032.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\atm3231-pv_rc battery_free_v03_sch_cr2032.dsn")
+      (Path "Design Resources"
+         ".\atm3231-pv_rc battery_free_v03_sch_cr2032.dsn"
+         "SCH-ATM3231_EH_BOOST_RC"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 691"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1131 26 711")
+        (Scroll "17 479")
+        (Zoom "86")
+        (Occurrence "/"))
+      (Path
+         "F:\ATMOSIC\PROJECT\ATMOSIC_HDK\SYDNEY\ATM3231_BATTERY_FREE_WITH_BOOSTER_REF_DESIGN\ATM3231-PV_RC_V02_BATTERY FREE_CR2032_HDK_20220803\SCH\ATM3231-PV_RC BATTERY_FREE_V03_SCH_CR2032.DSN")
+      (Schematic "SCH-ATM3231_EH_BOOST_RC")
+      (Page "3.ATM3231")))
+  (MPSSessionName "Lily.Lu"))

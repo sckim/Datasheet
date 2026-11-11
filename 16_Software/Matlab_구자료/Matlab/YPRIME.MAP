@@ -1,0 +1,23 @@
+
+ Start         Length Name               Class
+
+  0001:0000    23B0H  _TEXT              CODE
+  0002:0000    02EAH  YPRIME_TEXT        CODE
+  0002:02EA    0699H  CMEXMAIN_TEXT      CODE
+  0002:0984    07B1H  MATDLL_TEXT        CODE
+  0003:0000    0000H  _FARDATA           FAR_DATA
+  0003:0000    0000H  _FARBSS            FAR_BSS
+  0003:0000    0024H  NULL               BEGDATA
+  0003:0030    0902H  _DATA              DATA
+  0003:0932    0004H  _FPSEG             DATA
+  0003:0936    0002H  _CVTSEG            DATA
+  0003:0938    000CH  _SCNSEG            DATA
+  0003:0944    0000H  _CONST             CONST
+  0003:0944    000CH  _INIT_             INITDATA
+  0003:0950    0000H  _INITEND_          INITDATA
+  0003:0950    0000H  _EXIT_             EXITDATA
+  0003:0950    0000H  _EXITEND_          EXITDATA
+  0003:0950    00C8H  _BSS               BSS
+  0003:0A18    0000H  _BSSEND            BSSEND
+
+

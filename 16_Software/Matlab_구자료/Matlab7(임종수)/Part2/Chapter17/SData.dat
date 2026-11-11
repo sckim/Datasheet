@@ -1,0 +1,8 @@
+Legend: 
+  * - An event occurred.
+  > - A write operation occurred.
+  < - A read operation occurred.
+ 
+1      Recording on 11-May-2002 at 14:05:03.970. Binary data in little endian format.
+2    < 500 double precision values.
+3      Recording off.

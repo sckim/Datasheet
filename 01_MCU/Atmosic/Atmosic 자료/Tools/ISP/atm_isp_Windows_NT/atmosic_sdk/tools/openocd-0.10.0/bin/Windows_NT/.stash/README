@@ -1,0 +1,13 @@
+openocd.exe in the parent directory depends on msys-2.0.dll.
+
+msys-2.0.dll in this directory comes from an MSYS2 installation where
+openocd.exe was built.  Atmosic builds this executable from source with
+modifications.
+
+See https://www.msys2.org/ for more info on MSYS2.
+OpenOCD is cloned from https://git.code.sf.net/p/openocd/code.
+
+If openocd.exe is invoked in an MSYS environment such as an MSYS shell, the
+right msys-2.0.dll, and other DLLs that it depends on, will be used.  But to
+allow openocd.exe to be invoked outside an MSYS environment such as a DOS shell,
+msys-2.0.dll in this directory could be used by adding it to the PATH.

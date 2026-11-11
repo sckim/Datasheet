@@ -1,0 +1,469 @@
+action	orig	new
+MOVE	3_SPAL\2_연구원\2010-박민제\LabVIEW 원고\Master\Master programs\1182297827_Demo_v1d\Master1\Demo_v1d_release notes.pdf	6_Library\Manuals\Demo_v1d_release notes.pdf
+MOVE	3_SPAL\2_연구원\2015_김경록\9DOF Sensor\EBIMU\24G\0_시작하기\EBIMU24G_GetStarted_rev10.pdf	6_Library\Manuals\EBIMU24G_GetStarted_rev10.pdf
+MOVE	3_SPAL\2_연구원\2015_김경록\9DOF Sensor\EBIMU\24G3CH\0_시작하기\[1]EBRF24G3CH_GetStarted_rev10.pdf	6_Library\Manuals\[1]EBRF24G3CH_GetStarted_rev10.pdf
+MOVE	3_SPAL\2_연구원\2015_김경록\9DOF Sensor\EBIMU\24G3CH\0_시작하기\[2]EBMotion_GetStarted_rev10.pdf	6_Library\Manuals\[2]EBMotion_GetStarted_rev10.pdf
+MOVE	3_SPAL\2_연구원\2015_김경록\TI contest\AD8232.pdf	6_Library\Datasheets\AD8232.pdf
+MOVE	3_SPAL\2_연구원\2013_양주영\TI_Stellaris\doc\ST7637_Datasheet_v1_4.pdf	6_Library\Datasheets\ST7637_Datasheet_v1_4.pdf
+MOVE	3_SPAL\2_연구원\2013_양주영\TI_Stellaris\doc\S2E_RDK_Quickstart.pdf	6_Library\Manuals\S2E_RDK_Quickstart.pdf
+MOVE	3_SPAL\2_연구원\2013_양주영\TI_Stellaris\doc\Datasheet-LM3S6432.pdf	6_Library\Datasheets\Datasheet-LM3S6432.pdf
+MOVE	3_SPAL\2_연구원\2013_양주영\TI_Stellaris\doc\Datasheet-LM3S3748.pdf	6_Library\Datasheets\Datasheet-LM3S3748.pdf
+MOVE	3_SPAL\2_연구원\2013_양주영\내시경\DO3-오존측정기\APPLICATION NOTE DO3-01 R1.0.pdf	6_Library\Manuals\APPLICATION NOTE DO3-01 R1.0.pdf
+MOVE	3_SPAL\2_연구원\2013_양주영\라즈베리파이\quick-start-guide-v2_1.pdf	6_Library\Manuals\quick-start-guide-v2_1.pdf
+MOVE	3_SPAL\2_연구원\2015_박준상\Bluetooth\Bluetooth InterfaceBoard_FBDx5xHID\FB155Hid_Datasheet_V04Kor_20110922.pdf	6_Library\Datasheets\FB155Hid_Datasheet_V04Kor_20110922.pdf
+MOVE	3_SPAL\2_연구원\2015_박준상\Bluetooth\Bluetooth InterfaceBoard_FBDx5xHID\05_about ATMega128.pdf	6_Library\Datasheets\05_about ATMega128.pdf
+MOVE	3_SPAL\2_연구원\2014_강인철\Drivers\usbRelay\UsbRelay8UserManualV7.pdf	6_Library\Manuals\UsbRelay8UserManualV7.pdf
+MOVE	3_SPAL\2_연구원\2008_황언주\프로젝트\자동 염색기\문서\데이터 시트\AD620.pdf	6_Library\Datasheets\AD620.pdf
+MOVE	3_SPAL\2_연구원\2008_황언주\프로젝트\자동 염색기\문서\데이터 시트\LM7805.pdf	6_Library\Datasheets\LM7805.pdf
+MOVE	3_SPAL\2_연구원\2008_황언주\프로젝트\청소년 아이디어 전시회\문서\부품 관련\srf05.pdf	6_Library\Datasheets\srf05.pdf
+MOVE	3_SPAL\2_연구원\2008_황언주\프로젝트\청소년 아이디어 전시회\문서\부품 관련\sy RELAY - 5V.pdf	6_Library\Datasheets\sy RELAY - 5V.pdf
+MOVE	3_SPAL\2_연구원\2008_황언주\프로젝트\eye mouse 관련\video\LM1881(Video Sync Separator).pdf	6_Library\Datasheets\LM1881(Video Sync Separator).pdf
+MOVE	3_SPAL\2_연구원\2008_Au\Driver monitoring\References\ETG_Manual_Released Version 1.1.pdf	6_Library\Manuals\ETG_Manual_Released Version 1.1.pdf
+MOVE	3_SPAL\2_연구원\2008_Au\Other\ADS1298 (ECG)\ecg user guide.pdf	6_Library\Manuals\ecg user guide.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\9dof\Walking analysis\MotionNode\Getting Started.pdf	6_Library\Manuals\Getting Started.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\9dof\Walking Reference\IMU(MotionNode)\Getting Started.pdf	6_Library\Manuals\Getting Started__2.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\ACC and Gyro for Human Motion\Pedar-X\Manual\plianceX_v20_en.pdf	6_Library\Manuals\plianceX_v20_en.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\ACC and Gyro for Human Motion\Pedar-X\Manual\pedar-x_v20_en.pdf	6_Library\Manuals\pedar-x_v20_en.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\ACC and Gyro for Human Motion\Pedar-X\Manual\database_light_v21_en.pdf	6_Library\Manuals\database_light_v21_en.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Body sway\Body balance Instrumentation\BTS G-walk\G-WALK_CLINICAL MANUAL_ENG_v2.0.0.pdf	6_Library\Manuals\G-WALK_CLINICAL MANUAL_ENG_v2.0.0.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Body sway\Body balance Instrumentation\NIH Toolbox ( Sway body tools by using acelerometer)\Toolbox Standing Balance Test Technical Manual.pdf	6_Library\Manuals\Toolbox Standing Balance Test Technical Manual.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Body sway\Body balance Instrumentation\SwayStarSystem\Manual SwayStar .pdf	6_Library\Manuals\Manual SwayStar .pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Evaluation Board\AFE4300EVM datasheet.pdf	6_Library\Datasheets\AFE4300EVM datasheet.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Eye trackers\Eyetech software\QG-6.4-Software-Users-Manual.pdf	6_Library\Manuals\QG-6.4-Software-Users-Manual.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Eye trackers\SMI Eye tracking\iView\iView X SDK Manual.pdf	6_Library\Manuals\iView X SDK Manual.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Eye trackers\SMI Eye tracking\iViewNG (for using API)\iViewNG-SDK-Manual.pdf	6_Library\Manuals\iViewNG-SDK-Manual.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Eye trackers\SMI Eye tracking\SMI-BeGaze program manual\BeGaze2 Manual v3.1.pdf	6_Library\Manuals\BeGaze2 Manual v3.1.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Eye trackers\SMI Eye tracking\SMI-BeGaze program manual\iViewNG-SDK.pdf	6_Library\Manuals\iViewNG-SDK.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\For Phantom\Prof. ref recommended\Minimal implementation of an AFE4300-based.pdf	6_Library\Datasheets\Minimal implementation of an AFE4300-based.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\Nikel electrode experiments\References\SUDOSCAN-user-guide_version-2.40_130912.pdf	6_Library\Manuals\SUDOSCAN-user-guide_version-2.40_130912.pdf
+MOVE	3_SPAL\2_연구원\2012_CinGi\SpO2 Implementation\Documents\MDK_Quick Start Guide_SPRUGO1_final.pdf	6_Library\Manuals\MDK_Quick Start Guide_SPRUGO1_final.pdf
+MOVE	1_Lectures\41_융합종합설계\졸업작품모음\Projects\Gaze tracker\Eyecan\eyeCan SW 매뉴얼v1.0.pdf	6_Library\Manuals\eyeCan SW 매뉴얼v1.0.pdf
+MOVE	1_Lectures\99_Archive\70_원격수업운영\[붙임2]_원격교육지원 시스템 신청방법 상세 매뉴얼.pdf	6_Library\Manuals\[붙임2]_원격교육지원 시스템 신청방법 상세 매뉴얼.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\BSN Tutorial\Proc_BSN2014_Workshops\data\GettingStarted.pdf	6_Library\Manuals\GettingStarted.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Manuals\35670a operater's manual.pdf	6_Library\Manuals\35670a operater's manual.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Manuals\Agilent 35670A Quick Start Guide.pdf	6_Library\Manuals\Agilent 35670A Quick Start Guide.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Manuals\hp_4284A_ops.pdf	6_Library\Manuals\hp_4284A_ops.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Manuals\R9211 Series Digital Spectrum Analyzer Guidebook.pdf	6_Library\Manuals\R9211 Series Digital Spectrum Analyzer Guidebook.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Manuals\Z meas._Handbook_한글판.pdf	6_Library\Manuals\Z meas._Handbook_한글판.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Manuals\Agilent E3631A DC Power Supply.pdf	6_Library\Manuals\Agilent E3631A DC Power Supply.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Manuals\MR3 Communication Protocol.pdf	6_Library\Manuals\MR3 Communication Protocol.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Projects\Gaze tracker\Eyecan\eyeCanv1.0koreanmanual.pdf	6_Library\Manuals\eyeCanv1.0koreanmanual.pdf
+DUP	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Projects\Gaze tracker\Eyecan\eyeCan SW 매뉴얼v1.0.pdf	_to_delete\1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\Projects\Gaze tracker\Eyecan\eyeCan SW 매뉴얼v1.0.pdf
+DUP	1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\라즈베리파이\quick-start-guide-v2_1.pdf	_to_delete\1_Lectures\99_Archive\참고자료\참고자료\세미나 자료\라즈베리파이\quick-start-guide-v2_1.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\Write paper\2018 Mendeley Manual.pdf	6_Library\Manuals\2018 Mendeley Manual.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\Orcad\Orcad Manual.pdf	6_Library\Manuals\Orcad Manual.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\Orcad\강좌\OrCad 교재(유진)\(한글)OrCAD_Capture&Layout_Manual.pdf	6_Library\Manuals\(한글)OrCAD_Capture&Layout_Manual.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\BME Labs-2015-10-20\Labs\Lab 5 - Microcontrollers\ATmega328_Datasheet.pdf	6_Library\Datasheets\ATmega328_Datasheet.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\BME Labs-2015-10-20\Labs\Datasheets\LM741.pdf	6_Library\Datasheets\LM741.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\BME Labs-2015-10-20\Labs\Datasheets\FlexiForce Sensor.pdf	6_Library\Datasheets\FlexiForce Sensor.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\BME Labs-2015-10-20\Labs\Lab 6 - Sensors\HCSR04.pdf	6_Library\Datasheets\HCSR04.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\BME Labs-2015-10-20\Labs\Lab 6 - Sensors\HCSR04 - User Manual.pdf	6_Library\Manuals\HCSR04 - User Manual.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\hardware\Digital Filter Designer's Handbook.pdf	6_Library\Manuals\Digital Filter Designer's Handbook.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\labview\LabVIEW Code Interface Reference Manual.pdf	6_Library\Manuals\LabVIEW Code Interface Reference Manual.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\labview\pdf\LabVIEW-GetStart.pdf	6_Library\Manuals\LabVIEW-GetStart.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\labview\pdf\LabVIEW Data Acquisition Basics Manual.pdf	6_Library\Manuals\LabVIEW Data Acquisition Basics Manual.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\labview\pdf\LabVIEW Basics II Course Manual 6.0.PDF	6_Library\Manuals\LabVIEW Basics II Course Manual 6.0.PDF
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\VHDL 프로그램 바이블\Xilinx_Manual\ISE Design Suite 12_ Manual.pdf	6_Library\Manuals\ISE Design Suite 12_ Manual.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\VHDL 프로그램 바이블\Xilinx_Manual\ISE Design Suite Software Manuals and Help.pdf	6_Library\Manuals\ISE Design Suite Software Manuals and Help.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\VHDL 프로그램 바이블\Xilinx_Manual\Synthesis and Simulation Design Guide.pdf	6_Library\Manuals\Synthesis and Simulation Design Guide.pdf
+MOVE	1_Lectures\99_Archive\참고자료\참고자료\VHDL 프로그램 바이블\ModelSim\manual\modelsim_tut.pdf	6_Library\Manuals\modelsim_tut.pdf
+MOVE	1_Lectures\99_Archive\참고자료\03_기타_행정_및_일반_Administrative_Others\읽을 문서\077148702_AFG31000_Series_User_Manual_KO_Sept2019.pdf	6_Library\Manuals\077148702_AFG31000_Series_User_Manual_KO_Sept2019.pdf
+MOVE	1_Lectures\99_Archive\참고자료\03_전자회로_및_임베디드\2016사물인터넷_개발자료_HyBus\Documents\User Guide\Wi-Fi User Guide.pdf	6_Library\Manuals\Wi-Fi User Guide.pdf
+MOVE	1_Lectures\99_Archive\참고자료\03_전자회로_및_임베디드\2016사물인터넷_개발자료_HyBus\Documents\User Guide\Bluetooth User Guide.pdf	6_Library\Manuals\Bluetooth User Guide.pdf
+MOVE	1_Lectures\99_Archive\참고자료\03_전자회로_및_임베디드\2016사물인터넷_개발자료_HyBus\Example\Piezo Disk Vibration Sensor(DFR0052)\datasheet.pdf	6_Library\Datasheets\datasheet.pdf
+DUP	1_Lectures\99_Archive\참고자료\04_생체계측_및_의공학\BSN Tutorial\Proc_BSN2014_Conference\data\GettingStarted.pdf	_to_delete\1_Lectures\99_Archive\참고자료\04_생체계측_및_의공학\BSN Tutorial\Proc_BSN2014_Conference\data\GettingStarted.pdf
+DUP	1_Lectures\99_Archive\참고자료\04_생체계측_및_의공학\BSN Tutorial\Proc_BSN2014_Workshops\data\GettingStarted.pdf	_to_delete\1_Lectures\99_Archive\참고자료\04_생체계측_및_의공학\BSN Tutorial\Proc_BSN2014_Workshops\data\GettingStarted.pdf
+MOVE	1_Lectures\99_Archive\참고자료\05_설계_및_3D프린팅\CAD Tools\Multisim & Ultiboard\Tutorial - Getting Started with Multisim.pdf	6_Library\Manuals\Tutorial - Getting Started with Multisim.pdf
+MOVE	1_Lectures\99_Archive\참고자료\05_설계_및_3D프린팅\CAD Tools\Multisim & Ultiboard\ELVIS\참고자료\myDAQ_user_guide_and_specs.pdf	6_Library\Manuals\myDAQ_user_guide_and_specs.pdf
+MOVE	1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\digilent-openscope_workbook-final.pdf	6_Library\Manuals\digilent-openscope_workbook-final.pdf
+DUP	1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\35670a operater's manual.pdf	_to_delete\1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\35670a operater's manual.pdf
+DUP	1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\Agilent 35670A Quick Start Guide.pdf	_to_delete\1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\Agilent 35670A Quick Start Guide.pdf
+DUP	1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\hp_4284A_ops.pdf	_to_delete\1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\hp_4284A_ops.pdf
+DUP	1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\R9211 Series Digital Spectrum Analyzer Guidebook.pdf	_to_delete\1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\R9211 Series Digital Spectrum Analyzer Guidebook.pdf
+DUP	1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\Z meas._Handbook_한글판.pdf	_to_delete\1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\Z meas._Handbook_한글판.pdf
+DUP	1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\Agilent E3631A DC Power Supply.pdf	_to_delete\1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\Agilent E3631A DC Power Supply.pdf
+DUP	1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\MR3 Communication Protocol.pdf	_to_delete\1_Lectures\99_Archive\참고자료\07_장비_매뉴얼_및_가이드\Manuals\MR3 Communication Protocol.pdf
+MOVE	1_Lectures\99_Archive\과거수업\42_센서공학\관련자료\AD590.pdf	6_Library\Datasheets\AD590.pdf
+MOVE	1_Lectures\99_Archive\과거수업\전자공학\전자회로실험\2014\보고서\실험보고서(이종찬)\종찬CD\전자회로실험2\터치스위치\cd4049.pdf	6_Library\Datasheets\cd4049.pdf
+MOVE	1_Lectures\99_Archive\과거수업\전자공학\전자회로실험\2_2-전기회로 설계 및 실험II\GDS-2000A 시리즈 사용 설명서_1308.pdf	6_Library\Manuals\GDS-2000A 시리즈 사용 설명서_1308.pdf
+MOVE	1_Lectures\99_Archive\과거수업\02_프로그래밍\03_C 프로그래밍\01_Software_Analysis\03_LabVIEW\Introduction_to_NI_LabVIEW\Manual\Introduction to LabVIEW 8 in 3 Hours.pdf	6_Library\Manuals\Introduction to LabVIEW 8 in 3 Hours.pdf
+MOVE	1_Lectures\99_Archive\과거수업\02_프로그래밍\03_C 프로그래밍\01_Software_Analysis\05_C_Cpp\Visual C\Module자료\ECG\MM200 operating Manual_Normal.pdf	6_Library\Manuals\MM200 operating Manual_Normal.pdf
+MOVE	1_Lectures\99_Archive\과거수업\02_프로그래밍\03_C 프로그래밍\01_Software_Analysis\05_C_Cpp\Visual C\Module자료\NIBP\MM300P_manual_ver1.pdf	6_Library\Manuals\MM300P_manual_ver1.pdf
+MOVE	1_Lectures\99_Archive\과거수업\02_프로그래밍\03_C 프로그래밍\01_Software_Analysis\05_C_Cpp\Visual C\Module자료\Spo2\MM100P_manual_ver3.pdf	6_Library\Manuals\MM100P_manual_ver3.pdf
+MOVE	1_Lectures\42_산업의료원\융합수업\2014년\2014_2_Interdisciplinary\8_Wireless_Internet_Program\무선랜 사용자 매뉴얼(XP_Vista_Win7_Win8).pdf	6_Library\Manuals\무선랜 사용자 매뉴얼(XP_Vista_Win7_Win8).pdf
+DUP	1_Lectures\42_산업의료원\2014\2014_2_Interdisciplinary\8_Wireless_Internet_Program\무선랜 사용자 매뉴얼(XP_Vista_Win7_Win8).pdf	_to_delete\1_Lectures\42_산업의료원\2014\2014_2_Interdisciplinary\8_Wireless_Internet_Program\무선랜 사용자 매뉴얼(XP_Vista_Win7_Win8).pdf
+MOVE	1_Lectures\42_산업의료원\2016\SnapManual.pdf	6_Library\Manuals\SnapManual.pdf
+MOVE	1_Lectures\42_산업의료원\2016\gettingstartedguidev14.pdf	6_Library\Manuals\gettingstartedguidev14.pdf
+DUP	1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Datasheets\FlexiForce Sensor.pdf	_to_delete\1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Datasheets\FlexiForce Sensor.pdf
+DUP	1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Datasheets\LM741.pdf	_to_delete\1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Datasheets\LM741.pdf
+DUP	1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Lab 5 - Microcontrollers\ATmega328_Datasheet.pdf	_to_delete\1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Lab 5 - Microcontrollers\ATmega328_Datasheet.pdf
+DUP	1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Lab 6 - Sensors\HCSR04.pdf	_to_delete\1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Lab 6 - Sensors\HCSR04.pdf
+DUP	1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Lab 6 - Sensors\HCSR04 - User Manual.pdf	_to_delete\1_Lectures\80_의공학관련\A1_Bioinstrumentation\Luke\Lab 6 - Sensors\HCSR04 - User Manual.pdf
+MOVE	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\참고자료\uaf42.pdf	6_Library\Datasheets\uaf42.pdf
+MOVE	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\참고자료\OPA111.pdf	6_Library\Datasheets\OPA111.pdf
+MOVE	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\참고자료\opa404.pdf	6_Library\Datasheets\opa404.pdf
+MOVE	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\참고자료\opa128.pdf	6_Library\Datasheets\opa128.pdf
+MOVE	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\참고자료\UAF42-filter information.pdf	6_Library\Datasheets\UAF42-filter information.pdf
+MOVE	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\참고자료\ina110.pdf	6_Library\Datasheets\ina110.pdf
+DUP	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\생체계측\Instruments\Labs\Datasheets\FlexiForce Sensor.pdf	_to_delete\1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\생체계측\Instruments\Labs\Datasheets\FlexiForce Sensor.pdf
+DUP	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\생체계측\Instruments\Labs\Datasheets\LM741.pdf	_to_delete\1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\생체계측\Instruments\Labs\Datasheets\LM741.pdf
+DUP	1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\생체계측\Instruments\Labs\Lab 5 - Microcontrollers\ATmega328_Datasheet.pdf	_to_delete\1_Lectures\80_의공학관련\08_의공학_및_신경과학\42_의료전자공학\생체계측\Instruments\Labs\Lab 5 - Microcontrollers\ATmega328_Datasheet.pdf
+MOVE	1_Lectures\80_의공학관련\참고자료\의공학_서적\Biomedical Engineering Handbook - J.D.Bronzino.pdf	6_Library\Manuals\Biomedical Engineering Handbook - J.D.Bronzino.pdf
+MOVE	1_Lectures\80_의공학관련\참고자료\의공학_서적\Academic Press - Handbook Medical Imaging Processing Analysis.pdf	6_Library\Manuals\Academic Press - Handbook Medical Imaging Processing Analysis.pdf
+MOVE	0_Research\2_eyeTracking\Eye tracking\UserManual_MRC-Eye-Tracking_vers1.4.pdf	6_Library\Manuals\UserManual_MRC-Eye-Tracking_vers1.4.pdf
+MOVE	0_Research\2_eyeTracking\Eye tracking\MRC eye-tracking\UserManual_MRC-Eye-Tracking_vers1.4a.pdf	6_Library\Manuals\UserManual_MRC-Eye-Tracking_vers1.4a.pdf
+MOVE	0_Research\2_eyeTracking\Eye tracking\SMI\BeGaze_Experiment\Frame Grabber\docs\DVI2USB_3_0_UserGuide.pdf	6_Library\Manuals\DVI2USB_3_0_UserGuide.pdf
+MOVE	0_Research\2_eyeTracking\Eye tracking\SMI\BeGaze_Experiment\Manuals\ExperimentCenter.pdf	6_Library\Manuals\ExperimentCenter.pdf
+MOVE	0_Research\2_eyeTracking\Eye tracking\SMI\BeGaze_Experiment\Manuals\BeGaze2.pdf	6_Library\Manuals\BeGaze2.pdf
+MOVE	0_Research\2_eyeTracking\Tobii\TobiiProLab_Full\01.TobiiProLab_User_Manual_v1.111.pdf	6_Library\Manuals\01.TobiiProLab_User_Manual_v1.111.pdf
+MOVE	0_Research\2_eyeTracking\Eye movements와 치매\MRC camera\MR_CAM_12M-Mount_UserManual_en_v10.pdf	6_Library\Manuals\MR_CAM_12M-Mount_UserManual_en_v10.pdf
+MOVE	0_Research\2_eyeTracking\Eye movements와 치매\MRC camera\Manual_MRCam_HighResolution_en_v3.pdf	6_Library\Manuals\Manual_MRCam_HighResolution_en_v3.pdf
+MOVE	0_Research\3_연구계획서\2012-일반연구자\2012년도 일반연구 신청접수 전산매뉴얼\붙임2_연구사업통합시스템_접수안내매뉴얼(한글접수)_최종.pdf	6_Library\Manuals\붙임2_연구사업통합시스템_접수안내매뉴얼(한글접수)_최종.pdf
+MOVE	0_Research\3_연구계획서\2013-02-보건의료연구개발사업\양식\표준과제관리시스템_연구책임자 접수매뉴얼.pdf	6_Library\Manuals\표준과제관리시스템_연구책임자 접수매뉴얼.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\Scopes\opendaq manual 0.3.1.pdf	6_Library\Manuals\opendaq manual 0.3.1.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\Scopes\Diligent\X_CAN_Hardware_User_Guide_and_Specifications.pdf	6_Library\Manuals\X_CAN_Hardware_User_Guide_and_Specifications.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\Scopes\Diligent\MAX14878-MAX14880.pdf	6_Library\Datasheets\MAX14878-MAX14880.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\Scopes\Diligent\PIC32 Family Reference Manual, Sect. 35 Ethernet Controller.pdf	6_Library\Manuals\PIC32 Family Reference Manual, Sect. 35 Ethernet Controller.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\산학연기술개발(피에스디-한경대)\문서\고객사(사양서)_자동차전장품_FATC(온도컨트롤로)_DH(모델) 생산회사(동아전기부품)\CCM_BCAN_DBCv3.9 .pdf	6_Library\Datasheets\CCM_BCAN_DBCv3.9 .pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\KMI SYSTEM(주) Presentation(20160527).pdf	6_Library\Datasheets\KMI SYSTEM(주) Presentation(20160527).pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\선진사(Vector Co.,)_자동차전장품_FATC 테스트를 위한 HIL 시스템개발.pdf	6_Library\Datasheets\선진사(Vector Co.,)_자동차전장품_FATC 테스트를 위한 HIL 시스템개발.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\선진사(dSpace Co.,)_Automotive_HILs-자동차 개발에서 ECU테스트를 위한 기술.pdf	6_Library\Datasheets\선진사(dSpace Co.,)_Automotive_HILs-자동차 개발에서 ECU테스트를 위한 기술.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\차량용전장품_제어기(HILs)_업체_슈어소프트테크(주).pdf	6_Library\Datasheets\차량용전장품_제어기(HILs)_업체_슈어소프트테크(주).pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\차량용 임베디드 시스템 기술 개발-대구경북과학기술원(과제번호 10-IT-01).pdf	6_Library\Datasheets\차량용 임베디드 시스템 기술 개발-대구경북과학기술원(과제번호 10-IT-01).pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\2018_자동차 전장부품.pdf	6_Library\Datasheets\2018_자동차 전장부품.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\자동차전장부품_ATC 차종 사양별 검사기 구성품.pdf	6_Library\Datasheets\자동차전장부품_ATC 차종 사양별 검사기 구성품.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\SE_Vehicle.pdf	6_Library\Datasheets\SE_Vehicle.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\48v 구동 dio-spec.pdf	6_Library\Datasheets\48v 구동 dio-spec.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\48v 구동 dio-카타로그.pdf	6_Library\Datasheets\48v 구동 dio-카타로그.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\Automotive Climate Control.pdf	6_Library\Datasheets\Automotive Climate Control.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\2017_19년_중소중견기업_기술로드맵_요약보고서_1.pdf	6_Library\Datasheets\2017_19년_중소중견기업_기술로드맵_요약보고서_1.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\2017_19년_중소중견기업_기술로드맵_요약보고서_2.pdf	6_Library\Datasheets\2017_19년_중소중견기업_기술로드맵_요약보고서_2.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\회사소개서_kmisystem.pdf	6_Library\Datasheets\회사소개서_kmisystem.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\차세대 자동차 동향과 임베디드SW의 역활-오토에버시스템즈 유영수.pdf	6_Library\Datasheets\차세대 자동차 동향과 임베디드SW의 역활-오토에버시스템즈 유영수.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\차량용 SW의 현황과 발전방행_한국정보산업연합회(KESSIA) 이슈리포트.pdf	6_Library\Datasheets\차량용 SW의 현황과 발전방행_한국정보산업연합회(KESSIA) 이슈리포트.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\Fundamentals_of_Building_a_Test_System_CompleteGuide.pdf	6_Library\Datasheets\Fundamentals_of_Building_a_Test_System_CompleteGuide.pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\세계시장 (보고서).pdf	6_Library\Datasheets\세계시장 (보고서).pdf
+MOVE	0_Research\3_연구계획서\2019_PSD\자동차전장부품(ATC)_성능검사기 개발 참고자료\2차업체(동아전기부품) 배포자료\FFT 유효성검사_LM FL MTC 130226.pdf	6_Library\Datasheets\FFT 유효성검사_LM FL MTC 130226.pdf
+MOVE	0_Research\3_연구계획서\2024_중견(창의형_PLR)\[붙임3] 2024년도 과학기술정보통신부 개인기초연구사업 2차 신규과제 별첨\[별첨(매뉴얼)1-1] 연구개발과제 접수 전 필수 이행 사항(KISTEP IRIS운영단)_2024.2차\02. Required Actions that Researchers Must Do before Submitting an R&D Project Proposal.pdf	6_Library\Manuals\02. Required Actions that Researchers Must Do before Submitting an R&D Project Proposal.pdf
+MOVE	0_Research\3_연구계획서\2024_중견(창의형_PLR)\[붙임3] 2024년도 과학기술정보통신부 개인기초연구사업 2차 신규과제 별첨\[별첨(매뉴얼)1-2] IRIS 회원가입(연구자전환) 및 연구자정보 등록 매뉴얼_2024.2차\03. Instructions to Join for Foreigners (kor web).pdf	6_Library\Manuals\03. Instructions to Join for Foreigners (kor web).pdf
+MOVE	0_Research\3_연구계획서\2025_중견(창의형_mmWave)\양식\[붙임3] 2025년도 과학기술정보통신부 개인기초연구사업 2차 신규과제 온라인 신청 매뉴얼.pdf	6_Library\Manuals\[붙임3] 2025년도 과학기술정보통신부 개인기초연구사업 2차 신규과제 온라인 신청 매뉴얼.pdf
+MOVE	0_Research\3_연구계획서\2026\개인기초_PLR\[붙임] 2026년도 1차 개인기초연구사업 온라인 신청 매뉴얼.pdf	6_Library\Manuals\[붙임] 2026년도 1차 개인기초연구사업 온라인 신청 매뉴얼.pdf
+MOVE	0_Research\3_연구계획서\2026\개인기초_PLR\[붙임3] 2026년도 과학기술정보통신부 개인기초연구사업 신규과제 별첨\[별첨(매뉴얼)1-1] 연구개발과제 접수 전 필수 이행 사항(KISTEP IRIS운영단)_2026.1차\02. Required Actions that Researchers Must Do before Submitting an R&D Project Proposal.pdf	6_Library\Manuals\02. Required Actions that Researchers Must Do before Submitting an R&D Project Proposal__2.pdf
+MOVE	0_Research\3_연구계획서\2026\개인기초_PLR\[붙임3] 2026년도 과학기술정보통신부 개인기초연구사업 신규과제 별첨\[별첨(매뉴얼)1-2] IRIS 회원가입(연구자전환) 및 연구자정보 등록 매뉴얼_2026.1차\03. Instructions to Join for Foreigners (kor web).pdf	6_Library\Manuals\03. Instructions to Join for Foreigners (kor web)__2.pdf
+DUP	0_Research\0_Resume\09_외부세미나\2016사물인터넷_개발자료_HyBus\Documents\User Guide\Wi-Fi User Guide.pdf	_to_delete\0_Research\0_Resume\09_외부세미나\2016사물인터넷_개발자료_HyBus\Documents\User Guide\Wi-Fi User Guide.pdf
+DUP	0_Research\0_Resume\09_외부세미나\2016사물인터넷_개발자료_HyBus\Documents\User Guide\Bluetooth User Guide.pdf	_to_delete\0_Research\0_Resume\09_외부세미나\2016사물인터넷_개발자료_HyBus\Documents\User Guide\Bluetooth User Guide.pdf
+DUP	0_Research\0_Resume\09_외부세미나\2016사물인터넷_개발자료_HyBus\Example\Piezo Disk Vibration Sensor(DFR0052)\datasheet.pdf	_to_delete\0_Research\0_Resume\09_외부세미나\2016사물인터넷_개발자료_HyBus\Example\Piezo Disk Vibration Sensor(DFR0052)\datasheet.pdf
+MOVE	0_Research\0_Resume\09_외부세미나\휴인스\Raspberry Pi를 이용한 스마트팜\04. 교재-사용자 설명서\sensor-actu-all-20160429.pdf	6_Library\Manuals\sensor-actu-all-20160429.pdf
+MOVE	0_Research\0_Resume\09_외부세미나\휴인스\Raspberry Pi를 이용한 스마트팜\04. 교재-사용자 설명서\20160427_Smart IoT_iov5.pdf	6_Library\Manuals\20160427_Smart IoT_iov5.pdf
+DUP	0_Research\0_Resume\02_Conference\2010-06-06-BSN\Data\GettingStarted.pdf	_to_delete\0_Research\0_Resume\02_Conference\2010-06-06-BSN\Data\GettingStarted.pdf
+MOVE	0_Research\0_Resume\03_Papers\Journals-KCI\2006\BioMed2006\adaptdemos\adaptgettingstarted.pdf	6_Library\Manuals\adaptgettingstarted.pdf
+DUP	0_Research\0_Resume\03_Papers\2006\BioMed2006\adaptdemos\adaptgettingstarted.pdf	_to_delete\0_Research\0_Resume\03_Papers\2006\BioMed2006\adaptdemos\adaptgettingstarted.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\ionophoresis\관련부품 정보\LM555.pdf	6_Library\Datasheets\LM555.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\AD7520.PDF	6_Library\Datasheets\AD7520.PDF
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\AN9640.PDF	6_Library\Manuals\AN9640.PDF
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\INA101.PDF	6_Library\Datasheets\INA101.PDF
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\INA102.pdf	6_Library\Datasheets\INA102.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\INA121.pdf	6_Library\Datasheets\INA121.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\LM104.pdf	6_Library\Datasheets\LM104.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\LM134.PDF	6_Library\Datasheets\LM134.PDF
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\LM1496.pdf	6_Library\Datasheets\LM1496.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\LM2941.PDF	6_Library\Datasheets\LM2941.PDF
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\LM336-2_5.pdf	6_Library\Datasheets\LM336-2_5.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\LM336-5_0.pdf	6_Library\Datasheets\LM336-5_0.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\LM384(AudioAmp).pdf	6_Library\Datasheets\LM384(AudioAmp).pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\MAX4519.pdf	6_Library\Datasheets\MAX4519.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\OPA111.pdf	6_Library\Datasheets\OPA111__2.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\OPA2111.pdf	6_Library\Datasheets\OPA2111.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\OPA2604.pdf	6_Library\Datasheets\OPA2604.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\OPA602.pdf	6_Library\Datasheets\OPA602.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\TL479.pdf	6_Library\Datasheets\TL479.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\tl494.pdf	6_Library\Datasheets\tl494.pdf
+MOVE	0_Research\0_Resume\07_학위과정중\연구원\강승일(2001)\대학원에서 수행한 일\자료실\I S O amp\AD215.pdf	6_Library\Datasheets\AD215.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\S1SBP6A_Data_Sheet_REV1.00.pdf	6_Library\Datasheets\S1SBP6A_Data_Sheet_REV1.00.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\S3FBP5A_Users_Manual_REV0.52.pdf	6_Library\Manuals\S3FBP5A_Users_Manual_REV0.52.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\S1SBP6A_User Manual_ALL_REV 0.20_Preliminary.pdf	6_Library\Manuals\S1SBP6A_User Manual_ALL_REV 0.20_Preliminary.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\EVM Kit\S1SBP6A_EVK_NTF2432_User_Guide_REV1.0.pdf	6_Library\Manuals\S1SBP6A_EVK_NTF2432_User_Guide_REV1.0.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\EVM Kit\Datasheets\txs0108e.pdf	6_Library\Datasheets\txs0108e.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\EVM Kit\Datasheets\CP2102-9.pdf	6_Library\Datasheets\CP2102-9.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\EVM Kit\Datasheets\SOT143.pdf	6_Library\Datasheets\SOT143.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\EVM Kit\Datasheets\AP7365.pdf	6_Library\Datasheets\AP7365.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\EVM Kit\Datasheets\ts3a44159.pdf	6_Library\Datasheets\ts3a44159.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\EVM Kit\Datasheets\BSS138BKS.pdf	6_Library\Datasheets\BSS138BKS.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\EVM Kit\Datasheets\CX90B-16P_CL0480-0755-0-00_Catalog_D52488_en.pdf	6_Library\Datasheets\CX90B-16P_CL0480-0755-0-00_Catalog_D52488_en.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Platforms\framework-arduino-avr\firmwares\wifishield\wifi_dnld\src\Doc\gettingstarted.pdf	6_Library\Manuals\gettingstarted__2.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Samsung BP6A\S1SBP6AX00_Data Sheet_ALL_REV 1.01_Preliminary.pdf	6_Library\Datasheets\S1SBP6AX00_Data Sheet_ALL_REV 1.01_Preliminary.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Samsung BP6A\S1SBP6AX00_Data Sheet_ALL_REV 1.02.pdf	6_Library\Datasheets\S1SBP6AX00_Data Sheet_ALL_REV 1.02.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Samsung BP6A\S1SBP6AX00_User Manual_ALL_REV 1.01_Preliminary.pdf	6_Library\Manuals\S1SBP6AX00_User Manual_ALL_REV 1.01_Preliminary.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Samsung BP6A\S1SBP6AX00_User Manual_ALL_REV 1.02.pdf	6_Library\Manuals\S1SBP6AX00_User Manual_ALL_REV 1.02.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Watch\ATS3085S&S4 Datasheet V1.0 20230810.pdf	6_Library\Datasheets\ATS3085S&S4 Datasheet V1.0 20230810.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Watch\EVK_RV02_User_Guide_BIA_Test.pdf	6_Library\Manuals\EVK_RV02_User_Guide_BIA_Test.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Watch\ODM\zs308S_sdk_v1.3_20240124\zs308b_sdk_v1.3_20240124\3085s89\ATS3085Sx Datasheet V1.3 20231220.pdf	6_Library\Datasheets\ATS3085Sx Datasheet V1.3 20231220.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Watch\ODM\zs308S_sdk_v1.3_20240124\zs308b_sdk_v1.3_20240124\3085s89\ATS3089x Datasheet V1.3 20231220.pdf	6_Library\Datasheets\ATS3089x Datasheet V1.3 20231220.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Watch\Schematics\Parts\ATS3085S&S4 Datasheet V1.0 20230810.pdf	6_Library\Datasheets\ATS3085S&S4 Datasheet V1.0 20230810.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Watch\Schematics\Parts\IRRG1816C Series Datasheet - A0.pdf	6_Library\Datasheets\IRRG1816C Series Datasheet - A0.pdf
+MOVE	0_Research\1_LST\0_Bioprocessor\Watch\Schematics\Parts\JX.RA3220P94N01 Datasheet RD3 20211119.pdf	6_Library\Datasheets\JX.RA3220P94N01 Datasheet RD3 20211119.pdf
+MOVE	0_Research\1_LST\1_StressPatch\MAX30208.pdf	6_Library\Datasheets\MAX30208.pdf
+MOVE	0_Research\1_LST\99_Archive\4_Atmosic\UART_BLE\CQMS\MD-BNC400_Application Note_200804.pdf	6_Library\Manuals\MD-BNC400_Application Note_200804.pdf
+MOVE	0_Research\1_LST\99_Archive\4_Atmosic\Applications\Using Atmosic Sensor Hub Application Note ATM-ANSH-0050.pdf	6_Library\Manuals\Using Atmosic Sensor Hub Application Note ATM-ANSH-0050.pdf
+MOVE	0_Research\1_LST\99_Archive\4_Atmosic\Applications\On-demand-Wakeup-Application-Note-ATMxxxx-ANODWP-0050.pdf	6_Library\Manuals\On-demand-Wakeup-Application-Note-ATMxxxx-ANODWP-0050.pdf
+MOVE	0_Research\1_LST\99_Archive\4_Atmosic\Applications\Atmosic-BLE_bridge-Example-Application-Note-ATMx2xx-ANBLEB-0050.pdf	6_Library\Manuals\Atmosic-BLE_bridge-Example-Application-Note-ATMx2xx-ANBLEB-0050.pdf
+MOVE	0_Research\1_LST\99_Archive\4_Atmosic\Applications\HT_thermometer-Example-Application-Note-ATMx2xx-ANHTE-0051.pdf	6_Library\Manuals\HT_thermometer-Example-Application-Note-ATMx2xx-ANHTE-0051.pdf
+MOVE	0_Research\1_LST\99_Archive\4_Atmosic\Applications\Application-State-Machine-Application-Note-ATMxxxx-ANASM-0050.pdf	6_Library\Manuals\Application-State-Machine-Application-Note-ATMxxxx-ANASM-0050.pdf
+MOVE	0_Research\1_LST\EEG_루먼랩\AFE4490\afe4490.pdf	6_Library\Datasheets\afe4490.pdf
+MOVE	0_Research\1_LST\EEG_루먼랩\AFE4490\AFE4400 and AFE4490 Development Guide.pdf	6_Library\Datasheets\AFE4400 and AFE4490 Development Guide.pdf
+MOVE	0_Research\1_LST\EEG_루먼랩\AFE4490\afe4490-arduino-master\docs\afe4490-datasheet.pdf	6_Library\Datasheets\afe4490-datasheet.pdf
+MOVE	0_Research\1_LST\EEG_루먼랩\ADS1299\ads1299.pdf	6_Library\Datasheets\ads1299.pdf
+MOVE	0_Research\1_LST\EEG_루먼랩\ADS1299\Development of an 8 channel sEMG wireless device based on ADS1299 with Virtual Instrumentation.pdf	6_Library\Datasheets\Development of an 8 channel sEMG wireless device based on ADS1299 with Virtual Instrumentation.pdf
+MOVE	0_Research\1_LST\EEG_루먼랩\Max30102\MAX30101.pdf	6_Library\Datasheets\MAX30101.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Document\8_프린터매뉴얼등\Scan to email(D430)_라이프사이언스.pdf	6_Library\Manuals\Scan to email(D430)_라이프사이언스.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Document\8_프린터매뉴얼등\Scan to SMB_라이프사이언스.pdf	6_Library\Manuals\Scan to SMB_라이프사이언스.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Resources\Atmomic\On-demand Wakeup Application Note ATMxxxx-ANODWP-0050.pdf	6_Library\Manuals\On-demand Wakeup Application Note ATMxxxx-ANODWP-0050.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\AECG100 매뉴얼_UM_Mix_EN_V.1.3.0_220912.pdf	6_Library\Datasheets\AECG100 매뉴얼_UM_Mix_EN_V.1.3.0_220912.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\11_ADC\DDC264.pdf	6_Library\Datasheets\DDC264.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\11_ADC\EEG_ECG_ads1299-4.pdf	6_Library\Datasheets\EEG_ECG_ads1299-4.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\0_MCU\Arm Cortex-M4 Processor Datasheet.pdf	6_Library\Datasheets\Arm Cortex-M4 Processor Datasheet.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\0_MCU\ARM+코드+밀도와+성능+개선,+썸(Thumb)2,+ARM+아키텍처+확장.pdf	6_Library\Datasheets\ARM+코드+밀도와+성능+개선,+썸(Thumb)2,+ARM+아키텍처+확장.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\0_MCU\arm_cortexm4_processor_trm_100166_0001_04_en.pdf	6_Library\Datasheets\arm_cortexm4_processor_trm_100166_0001_04_en.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\5_FND(7Seg)\211013_FND(7_Segment)_SHF-G3361AW.pdf	6_Library\Datasheets\211013_FND(7_Segment)_SHF-G3361AW.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\Sensirion_Humidity_Sensors_SHT33DIS_Datasheet(센시리온).pdf	6_Library\Datasheets\Sensirion_Humidity_Sensors_SHT33DIS_Datasheet(센시리온).pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\Datasheet_SHT4x_V2(센시리온).pdf	6_Library\Datasheets\Datasheet_SHT4x_V2(센시리온).pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\Si7050-1-3-4-5-A20-TS100_바나나체온계.pdf	6_Library\Datasheets\Si7050-1-3-4-5-A20-TS100_바나나체온계.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\데이타시트 NTSF.pdf	6_Library\Datasheets\데이타시트 NTSF.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\NTSF4-써미스터예시.pdf	6_Library\Datasheets\NTSF4-써미스터예시.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\DS18B20-1Wire온도센서.pdf	6_Library\Datasheets\DS18B20-1Wire온도센서.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\211013_센트리온온도센서 RT table 10k 3977.pdf	6_Library\Datasheets\211013_센트리온온도센서 RT table 10k 3977.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\백신 Box用 온도 Sensor - 견적서(to. 유니반) - 2022.02.14..pdf	6_Library\Datasheets\백신 Box用 온도 Sensor - 견적서(to. 유니반) - 2022.02.14..pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\QCZH-XS-20220222-A-CWF-DT2103F3977FB1200G11A-SMH250-02 - 복사본.pdf	6_Library\Datasheets\QCZH-XS-20220222-A-CWF-DT2103F3977FB1200G11A-SMH250-02 - 복사본.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\2_온도센서\220616_DS18B20_테스트결과-최한윤.pdf	6_Library\Datasheets\220616_DS18B20_테스트결과-최한윤.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\1_Nordic\nRF5340_PS_v1.1.pdf	6_Library\Datasheets\nRF5340_PS_v1.1.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\1_Nordic\nRF52833_PS_v1.3.pdf	6_Library\Datasheets\nRF52833_PS_v1.3.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\1_Nordic\nRF52832_PS_v1.4.pdf	6_Library\Datasheets\nRF52832_PS_v1.4.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\1_Nordic\nRF52840_PS_v1.2.pdf	6_Library\Datasheets\nRF52840_PS_v1.2.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\1_Nordic\ANNA-B112_DataSheet_UBX-18011707_52832_Module.pdf	6_Library\Datasheets\ANNA-B112_DataSheet_UBX-18011707_52832_Module.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\1_Nordic\nRF52840_DK_User_Guide_v1.2.pdf	6_Library\Datasheets\nRF52840_DK_User_Guide_v1.2.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\13_Crystal\ECX-12R_32768.pdf	6_Library\Datasheets\ECX-12R_32768.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\3_IMU\DS-000189-ICM-20948-v1.3.pdf	6_Library\Datasheets\DS-000189-ICM-20948-v1.3.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\12_LDO\FC152C Series.pdf	6_Library\Datasheets\FC152C Series.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\12_LDO\LDO_NCV662S.pdf	6_Library\Datasheets\LDO_NCV662S.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\4_LCD_OLED\SHO-T12864096A-M.pdf	6_Library\Datasheets\SHO-T12864096A-M.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\10_WDG\STM6821_WDG_datasheet.pdf	6_Library\Datasheets\STM6821_WDG_datasheet.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\10_WDG\DIOD_S_A0009150405_1-2543121.pdf	6_Library\Datasheets\DIOD_S_A0009150405_1-2543121.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\7_인증서\센트리온온도센서\07717-04RC_5000pcs.pdf	6_Library\Datasheets\07717-04RC_5000pcs.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\7_인증서\센트리온온도센서\07717-04RC_1300pcs.pdf	6_Library\Datasheets\07717-04RC_1300pcs.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\6_Switch\sip32510(온도로거).pdf	6_Library\Datasheets\sip32510(온도로거).pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2-Product-Brief-ATM22xx-PB-0055.pdf	6_Library\Datasheets\ATM2-Product-Brief-ATM22xx-PB-0055.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2202 Embedded Flash Datasheet ATM2202-DS-0054.pdf	6_Library\Datasheets\ATM2202 Embedded Flash Datasheet ATM2202-DS-0054.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2_3 Wakeup Receiver White Paper ATM3xxx-WPWU-0052.pdf	6_Library\Datasheets\ATM2_3 Wakeup Receiver White Paper ATM3xxx-WPWU-0052.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Hardware Design Guide for ATMx2xx ATMx2xx-DG-0058.pdf	6_Library\Datasheets\Hardware Design Guide for ATMx2xx ATMx2xx-DG-0058.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\EVK User Guide ATMx221-UG-0059.pdf	6_Library\Datasheets\EVK User Guide ATMx221-UG-0059.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\atmevk6-d3_sch.pdf	6_Library\Datasheets\atmevk6-d3_sch.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2 Datasheet ATM22x1-DS-0110.pdf	6_Library\Datasheets\ATM2 Datasheet ATM22x1-DS-0110.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Develop with SEGGER Embedded Studio for ATM2_ATM3 Quick Start Guide ATMxxxx-QSSES-0051.pdf	6_Library\Datasheets\Develop with SEGGER Embedded Studio for ATM2_ATM3 Quick Start Guide ATMxxxx-QSSES-0051.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Atmosic ISP Tool User Guide ATMxxxx-UGISP-0053.pdf	6_Library\Datasheets\Atmosic ISP Tool User Guide ATMxxxx-UGISP-0053.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\SDK Quick Start Guide ATMx2xx-SQSG-0054.pdf	6_Library\Datasheets\SDK Quick Start Guide ATMx2xx-SQSG-0054.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\SDK User Reference Manual ATMx2xx-x1x-SWUR-0051.pdf	6_Library\Datasheets\SDK User Reference Manual ATMx2xx-x1x-SWUR-0051.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\OTA Update Service User Guide ATMx221-UGOTA-0054.pdf	6_Library\Datasheets\OTA Update Service User Guide ATMx221-UGOTA-0054.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Keil_MDK_Configuration_Guide ATMx2xx-CGK-0055.pdf	6_Library\Datasheets\Keil_MDK_Configuration_Guide ATMx2xx-CGK-0055.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2 Datasheet ATM22x1-DS-0112.pdf	6_Library\Datasheets\ATM2 Datasheet ATM22x1-DS-0112.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATMEVK6-D3a-02_(ATM2221)SCH.pdf	6_Library\Datasheets\ATMEVK6-D3a-02_(ATM2221)SCH.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Interface Board User Guide ATMx221-UGIB-0051.pdf	6_Library\Datasheets\Interface Board User Guide ATMx221-UGIB-0051.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\EVK Power Consumption Evaluation ATMx2xx-ECPE-0045.pdf	6_Library\Datasheets\EVK Power Consumption Evaluation ATMx2xx-ECPE-0045.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Register Specification ATMx2xx-x1x-RS-0052.pdf	6_Library\Datasheets\Register Specification ATMx2xx-x1x-RS-0052.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Application State Machine Application Note  ATMxxxx-ANASM-0050.pdf	6_Library\Datasheets\Application State Machine Application Note  ATMxxxx-ANASM-0050.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATMx2xx Reference Manual ATMx2xx-RM-0062.pdf	6_Library\Datasheets\ATMx2xx Reference Manual ATMx2xx-RM-0062.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2_ATM3_ATM33 Wireless SoC Family SDK Quick Start Guide ATM2_ATM3_ATM33-QSGSDK-0060.pdf	6_Library\Datasheets\ATM2_ATM3_ATM33 Wireless SoC Family SDK Quick Start Guide ATM2_ATM3_ATM33-QSGSDK-0060.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2_ATM3_ATM33 Wireless SoC Family SDK Quick Reference Guide ATM2_ATM3_ATM33-QRGSDK-0060.pdf	6_Library\Datasheets\ATM2_ATM3_ATM33 Wireless SoC Family SDK Quick Reference Guide ATM2_ATM3_ATM33-QRGSDK-0060.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2_ATM3 CT_Tracing Example User Guide ATM2_ATM3-UGCTE-0060.pdf	6_Library\Datasheets\ATM2_ATM3 CT_Tracing Example User Guide ATM2_ATM3-UGCTE-0060.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Atmosic Application Development Guide for ATM2_ATM3_ATM33 ATM2_ATM3_ATM33-DGAFW-0080.pdf	6_Library\Datasheets\Atmosic Application Development Guide for ATM2_ATM3_ATM33 ATM2_ATM3_ATM33-DGAFW-0080.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\SDK Configure Beacon Parameters in OTP  ATM2xxx-SOTP-0042.pdf	6_Library\Datasheets\SDK Configure Beacon Parameters in OTP  ATM2xxx-SOTP-0042.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\New Draft of Atmosic Production Tool User Guide.pdf	6_Library\Datasheets\New Draft of Atmosic Production Tool User Guide.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM2251 Datasheet ATM2251-DS-0111.pdf	6_Library\Datasheets\ATM2251 Datasheet ATM2251-DS-0111.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Atmosic SDK User Guide ATM-UGSDK-0071.pdf	6_Library\Datasheets\Atmosic SDK User Guide ATM-UGSDK-0071.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Atmosic SDK 5.4.0.1 Release Notes ATM-RNSDK5401-0110.pdf	6_Library\Datasheets\Atmosic SDK 5.4.0.1 Release Notes ATM-RNSDK5401-0110.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Atmosic SDK 5.3.0 Release Notes ATM-RNSDK530-0100.pdf	6_Library\Datasheets\Atmosic SDK 5.3.0 Release Notes ATM-RNSDK530-0100.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Embedded Application Development Application Note ATM-ANEPD-0090_Decrypted.pdf	6_Library\Datasheets\Embedded Application Development Application Note ATM-ANEPD-0090_Decrypted.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\BLE_att_server Application Note ATMx2xx-ANBAS-0052.pdf	6_Library\Datasheets\BLE_att_server Application Note ATMx2xx-ANBAS-0052.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Atmosic BLE_bridge Example Application Note ATMx2xx-ANBLEB-0050.pdf	6_Library\Datasheets\Atmosic BLE_bridge Example Application Note ATMx2xx-ANBLEB-0050.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Bluetooth LE Advertisement Example Application Note ATMxxxx-ANAEX-0053.pdf	6_Library\Datasheets\Bluetooth LE Advertisement Example Application Note ATMxxxx-ANAEX-0053.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Atmosic ATM33e brief summary 07-27-2023 .pdf	6_Library\Datasheets\Atmosic ATM33e brief summary 07-27-2023 .pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\Atmosic ATM33e presentaion for LST 07-27-2023 .pdf	6_Library\Datasheets\Atmosic ATM33e presentaion for LST 07-27-2023 .pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM_ESL_v12_HDK\HDK\rev10\ATM_ESL_SCH_V12(GERBER)-PDF.pdf	6_Library\Datasheets\ATM_ESL_SCH_V12(GERBER)-PDF.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM_ESL_v12_HDK\HDK\rev10\atm_esl_sch_v12_final.pdf	6_Library\Datasheets\atm_esl_sch_v12_final.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM3221-PV-RC_HDK_V02_20211108\ATM3221-PV_RC_V02_LAYOUT.pdf	6_Library\Datasheets\ATM3221-PV_RC_V02_LAYOUT.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM3221-PV-RC_HDK_V02_20211108\ATM3221-PV_RC HDK release version.pdf	6_Library\Datasheets\ATM3221-PV_RC HDK release version.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM3221-PV-RC_HDK_V02_20211108\ATM3221-PV_RC_V02_BOM.pdf	6_Library\Datasheets\ATM3221-PV_RC_V02_BOM.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\8_Atmosic\ATM3221-PV-RC_HDK_V02_20211108\ATM3221-PV_RC_V02_SCH.pdf	6_Library\Datasheets\ATM3221-PV_RC_V02_SCH.pdf
+MOVE	0_Research\1_LST\송영민(BK)\DataSheets\9_NAND\MX25R4035F, Wide Range, 4Mb, v1.4.pdf	6_Library\Datasheets\MX25R4035F, Wide Range, 4Mb, v1.4.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Exercise\nRFExer\SDK_17_1_0\components\softdevice\s140\doc\s140_nrf52_7.2.0_release-notes.pdf	6_Library\Manuals\s140_nrf52_7.2.0_release-notes.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\1_BioProcessor\Manual\Getting Started.pdf	6_Library\Manuals\Getting Started__3.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\1_BioProcessor\Manual\230307_S1SBP6A_User Manual_ALL_REV 0.20_Preliminary.pdf	6_Library\Manuals\230307_S1SBP6A_User Manual_ALL_REV 0.20_Preliminary.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\MAX30003 ECG PCG.pdf	6_Library\Datasheets\MAX30003 ECG PCG.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\ANNA-B112_DataSheet.pdf	6_Library\Datasheets\ANNA-B112_DataSheet.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\ICM20648.pdf	6_Library\Datasheets\ICM20648.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\Si7051.pdf	6_Library\Datasheets\Si7051.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\rp154-ea.pdf	6_Library\Datasheets\rp154-ea.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\MCP73831.pdf	6_Library\Datasheets\MCP73831.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\EVK-ANNA-B112_UserGuide_(UBX-18018539).pdf	6_Library\Datasheets\EVK-ANNA-B112_UserGuide_(UBX-18018539).pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\MAX30208.pdf	6_Library\Datasheets\MAX30208__2.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\ABS06-1775069.pdf	6_Library\Datasheets\ABS06-1775069.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\w25n01gw_reve_021318_unsecured-1489855.pdf	6_Library\Datasheets\w25n01gw_reve_021318_unsecured-1489855.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\MAX30003-1020789.pdf	6_Library\Datasheets\MAX30003-1020789.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\PERI_S_A0000131969_1-2544135.pdf	6_Library\Datasheets\PERI_S_A0000131969_1-2544135.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\MAX30003WING.pdf	6_Library\Datasheets\MAX30003WING.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\IMU_DS-000081-v1.01.pdf	6_Library\Datasheets\IMU_DS-000081-v1.01.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\개발자료\DATASHEET\IMU_RM-000030-v1.0.pdf	6_Library\Datasheets\IMU_RM-000030-v1.0.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\2_StressPatch\매뉴얼\Stress Patch Application User Manual_v.3.9.pdf	6_Library\Manuals\Stress Patch Application User Manual_v.3.9.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\10_야간외출제한장치\3_ColdChain\3_개발문서\220303_ColdChain 수신장치 매뉴얼 V1.01.pdf	6_Library\Manuals\220303_ColdChain 수신장치 매뉴얼 V1.01.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\10_야간외출제한장치\3_ColdChain\3_개발문서\220303_ColdChain 수신장치 매뉴얼 V1.15-송영민.pdf	6_Library\Manuals\220303_ColdChain 수신장치 매뉴얼 V1.15-송영민.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\10_야간외출제한장치\3_ColdChain\3_개발문서\앱\211227_ColdChain 매뉴얼-LST.pdf	6_Library\Manuals\211227_ColdChain 매뉴얼-LST.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\10_야간외출제한장치\3_ColdChain\3_개발문서\앱\220111_ColdChain 매뉴얼 V1.11-송영민.pdf	6_Library\Manuals\220111_ColdChain 매뉴얼 V1.11-송영민.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\8_관제시스템\스마트밴드를 활용한 통합수용관제시스템 구축_스마트밴드 사용 매뉴얼.pdf	6_Library\Manuals\스마트밴드를 활용한 통합수용관제시스템 구축_스마트밴드 사용 매뉴얼.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\8_관제시스템\스마트밴드를 활용한 통합수용관제시스템 구축_관제시스템 매뉴얼.pdf	6_Library\Manuals\스마트밴드를 활용한 통합수용관제시스템 구축_관제시스템 매뉴얼.pdf
+MOVE	0_Research\1_LST\송영민(BK)\Project\14_삼성광센서\5_W4MyData\워치4매뉴얼_SM-R86X_R87X_R88X_R89X_UM_Android_Kor_Rev.1.1_210820.pdf	6_Library\Manuals\워치4매뉴얼_SM-R86X_R87X_R88X_R89X_UM_Android_Kor_Rev.1.1_210820.pdf
+DUP	0_Research\1_LST\송영민(BK)\Project\18_AtmosicBLEModule\1_타제품\MD-BNC400_Application Note_200804.pdf	_to_delete\0_Research\1_LST\송영민(BK)\Project\18_AtmosicBLEModule\1_타제품\MD-BNC400_Application Note_200804.pdf
+DUP	0_Research\1_LST\송영민(BK)\Project\5_W4MyData\워치4매뉴얼_SM-R86X_R87X_R88X_R89X_UM_Android_Kor_Rev.1.1_210820.pdf	_to_delete\0_Research\1_LST\송영민(BK)\Project\5_W4MyData\워치4매뉴얼_SM-R86X_R87X_R88X_R89X_UM_Android_Kor_Rev.1.1_210820.pdf
+DUP	0_Research\1_LST\송영민(BK)\Project\3_ColdChain\3_개발문서\220303_ColdChain 수신장치 매뉴얼 V1.01.pdf	_to_delete\0_Research\1_LST\송영민(BK)\Project\3_ColdChain\3_개발문서\220303_ColdChain 수신장치 매뉴얼 V1.01.pdf
+DUP	0_Research\1_LST\송영민(BK)\Project\3_ColdChain\3_개발문서\220303_ColdChain 수신장치 매뉴얼 V1.15-송영민.pdf	_to_delete\0_Research\1_LST\송영민(BK)\Project\3_ColdChain\3_개발문서\220303_ColdChain 수신장치 매뉴얼 V1.15-송영민.pdf
+DUP	0_Research\1_LST\송영민(BK)\Project\3_ColdChain\3_개발문서\앱\211227_ColdChain 매뉴얼-LST.pdf	_to_delete\0_Research\1_LST\송영민(BK)\Project\3_ColdChain\3_개발문서\앱\211227_ColdChain 매뉴얼-LST.pdf
+DUP	0_Research\1_LST\송영민(BK)\Project\3_ColdChain\3_개발문서\앱\220111_ColdChain 매뉴얼 V1.11-송영민.pdf	_to_delete\0_Research\1_LST\송영민(BK)\Project\3_ColdChain\3_개발문서\앱\220111_ColdChain 매뉴얼 V1.11-송영민.pdf
+DUP	0_Research\1_LST\송영민(BK)\Project\3_ColdChain\10_품질개선\TempeLogger\SDK_17_1_0\components\softdevice\s140\doc\s140_nrf52_7.2.0_release-notes.pdf	_to_delete\0_Research\1_LST\송영민(BK)\Project\3_ColdChain\10_품질개선\TempeLogger\SDK_17_1_0\components\softdevice\s140\doc\s140_nrf52_7.2.0_release-notes.pdf
+MOVE	0_Research\1_LST\Codes\ColdChain\backup_origin\TempeLogger_250226\SDK_17_1_0\components\softdevice\s112\doc\s112_nrf52_7.2.0_release-notes.pdf	6_Library\Manuals\s112_nrf52_7.2.0_release-notes.pdf
+MOVE	0_Research\1_LST\Codes\ColdChain\backup_origin\TempeLogger_250226\SDK_17_1_0\components\softdevice\s113\doc\s113_nrf52_7.2.0_release-notes.pdf	6_Library\Manuals\s113_nrf52_7.2.0_release-notes.pdf
+MOVE	0_Research\1_LST\Codes\ColdChain\backup_origin\TempeLogger_250226\SDK_17_1_0\components\softdevice\s122\doc\s122_nrf52_8.0.0_release-notes.pdf	6_Library\Manuals\s122_nrf52_8.0.0_release-notes.pdf
+MOVE	0_Research\1_LST\Codes\ColdChain\backup_origin\TempeLogger_250226\SDK_17_1_0\components\softdevice\s132\doc\s132_nrf52_7.2.0_release-notes.pdf	6_Library\Manuals\s132_nrf52_7.2.0_release-notes.pdf
+DUP	0_Research\1_LST\Codes\ColdChain\backup_origin\TempeLogger_250226\SDK_17_1_0\components\softdevice\s140\doc\s140_nrf52_7.2.0_release-notes.pdf	_to_delete\0_Research\1_LST\Codes\ColdChain\backup_origin\TempeLogger_250226\SDK_17_1_0\components\softdevice\s140\doc\s140_nrf52_7.2.0_release-notes.pdf
+DUP	0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s112\doc\s112_nrf52_7.2.0_release-notes.pdf	_to_delete\0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s112\doc\s112_nrf52_7.2.0_release-notes.pdf
+DUP	0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s113\doc\s113_nrf52_7.2.0_release-notes.pdf	_to_delete\0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s113\doc\s113_nrf52_7.2.0_release-notes.pdf
+DUP	0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s122\doc\s122_nrf52_8.0.0_release-notes.pdf	_to_delete\0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s122\doc\s122_nrf52_8.0.0_release-notes.pdf
+DUP	0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s132\doc\s132_nrf52_7.2.0_release-notes.pdf	_to_delete\0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s132\doc\s132_nrf52_7.2.0_release-notes.pdf
+DUP	0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s140\doc\s140_nrf52_7.2.0_release-notes.pdf	_to_delete\0_Research\1_LST\Codes\ColdChain\TempeLogger\SDK_17_1_0\components\softdevice\s140\doc\s140_nrf52_7.2.0_release-notes.pdf
+MOVE	0_Research\99_Archive\2013_JHU\AFE4300 Development Guide.pdf	6_Library\Datasheets\AFE4300 Development Guide.pdf
+MOVE	0_Research\99_Archive\2013_JHU\LabVIEW\Machine Learning\Machine Learning Toolkit User Manual.pdf	6_Library\Manuals\Machine Learning Toolkit User Manual.pdf
+MOVE	0_Research\99_Archive\2013_JHU\MTT\Getting Started with MPLAB X Exercises\_Getting Started Guide v5.0.pdf	6_Library\Manuals\_Getting Started Guide v5.0.pdf
+MOVE	0_Research\99_Archive\2013_JHU\TI Programs\AFE4300 Device GUI v1.16\TUSB3410 LV Installer\data\TUSB3410 VCP Single Driver Installation.pdf	6_Library\Manuals\TUSB3410 VCP Single Driver Installation.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM308.PDF	6_Library\Datasheets\LM308.PDF
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM319.PDF	6_Library\Datasheets\LM319.PDF
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM4250.PDF	6_Library\Datasheets\LM4250.PDF
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\AN6668.PDF	6_Library\Manuals\AN6668.PDF
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM108.PDF	6_Library\Datasheets\LM108.PDF
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM124.PDF	6_Library\Datasheets\LM124.PDF
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\PWM with TL494.pdf	6_Library\Datasheets\PWM with TL494.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\ad845.pdf	6_Library\Datasheets\ad845.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\ad620.pdf	6_Library\Datasheets\ad620__2.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\ad705.pdf	6_Library\Datasheets\ad705.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM1577.pdf	6_Library\Datasheets\LM1577.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\an6048.pdf	6_Library\Manuals\an6048.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\ad624.pdf	6_Library\Datasheets\ad624.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\OPA137.pdf	6_Library\Datasheets\OPA137.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM324.pdf	6_Library\Datasheets\LM324.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\AD7541.pdf	6_Library\Datasheets\AD7541.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM1972.pdf	6_Library\Datasheets\LM1972.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM1875.pdf	6_Library\Datasheets\LM1875.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM3875.pdf	6_Library\Datasheets\LM3875.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM2902.pdf	6_Library\Datasheets\LM2902.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\TL082.pdf	6_Library\Datasheets\TL082.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\INA118.pdf	6_Library\Datasheets\INA118.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\LM318.pdf	6_Library\Datasheets\LM318.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\ad667.pdf	6_Library\Datasheets\ad667.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\INA103.pdf	6_Library\Datasheets\INA103.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Backup(ABR pc)\Study\frequent_data_sheet\etc\TL783.pdf	6_Library\Datasheets\TL783.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\RPI\Projects\Eye tracker\AN800-802.pdf	6_Library\Manuals\AN800-802.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\RPI\Projects\Eye tracker\UPID_DS_3.pdf	6_Library\Datasheets\UPID_DS_3.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\RPI\Projects\Eye tracker\AN804.pdf	6_Library\Manuals\AN804.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\RPI\Projects\Eye tracker\Papers\Eye_Tracking_Manual.pdf	6_Library\Manuals\Eye_Tracking_Manual.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\RPI\Projects\Eye tracker\schematics\LM1881.pdf	6_Library\Datasheets\LM1881.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Proposals\AABR\보건의료사업-완료\A-Abr 제품 및 문헌\ScreenerManual.pdf	6_Library\Manuals\ScreenerManual.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Tremor\LM628.pdf	6_Library\Datasheets\LM628.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Videooculogram(KOSEF, 2003)\SMI program\2D VOG\Manual.pdf	6_Library\Manuals\Manual.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이전 프로젝트_2003\Videooculogram(KOSEF, 2003)\Documents\Video board(IMAQ, DT3155)\PCI-1200 User Manual.pdf	6_Library\Manuals\PCI-1200 User Manual.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-VNG-한규철\Programs\덕현\Traditional DAQ User Manual.pdf	6_Library\Manuals\Traditional DAQ User Manual.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\MD5S datasheet.pdf	6_Library\Datasheets\MD5S datasheet.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\h1391564830_HJR1-2C.pdf	6_Library\Datasheets\h1391564830_HJR1-2C.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\LM1117S Regulator.pdf	6_Library\Datasheets\LM1117S Regulator.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\TPS715xx.pdf	6_Library\Datasheets\TPS715xx.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\Si4430-31-32.pdf	6_Library\Datasheets\Si4430-31-32.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\TRG1 D-24VDC.pdf	6_Library\Datasheets\TRG1 D-24VDC.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\a1281_104.pdf	6_Library\Datasheets\a1281_104.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\CC1120\Software examples.pdf	6_Library\Datasheets\Software examples.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Schematics\Datasheet\CC1120\Board User's guide.pdf	6_Library\Datasheets\Board User's guide.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\부품\방재 통신\EDS-100.pdf	6_Library\Datasheets\EDS-100.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\부품\방재 통신\Google 이미지 검색결과_ http_image.made-in-china.com_2f0j00rCiaVJTYOvUb_Rt3070-802-.pdf	6_Library\Datasheets\Google 이미지 검색결과_ http_image.made-in-china.com_2f0j00rCiaVJTYOvUb_Rt3070-802-.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\부품\방재 통신\Google 이미지 검색결과_ http_www.itxcanada.com_images_products_wf-vnt6566-usb-wifi-.pdf	6_Library\Datasheets\Google 이미지 검색결과_ http_www.itxcanada.com_images_products_wf-vnt6566-usb-wifi-.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\부품\방재 통신\JMOD-BT-1-2.pdf	6_Library\Datasheets\JMOD-BT-1-2.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\부품\방재 통신\USB 무선랜 송수신 모듈,수신기 모듈,송신기 모듈.pdf	6_Library\Datasheets\USB 무선랜 송수신 모듈,수신기 모듈,송신기 모듈.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\부품\방재 통신\송수신 일체형 ASIC 초음파센서 모듈 일반형 (HG-B40C) - 디바이스마트.pdf	6_Library\Datasheets\송수신 일체형 ASIC 초음파센서 모듈 일반형 (HG-B40C) - 디바이스마트.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재모터-2014-07-02\DC 기어모터 EPX33NJJ.pdf	6_Library\Datasheets\DC 기어모터 EPX33NJJ.pdf
+DUP	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재 통신\송수신 일체형 ASIC 초음파센서 모듈 일반형 (HG-B40C) - 디바이스마트.pdf	_to_delete\0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재 통신\송수신 일체형 ASIC 초음파센서 모듈 일반형 (HG-B40C) - 디바이스마트.pdf
+DUP	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재 통신\USB 무선랜 송수신 모듈,수신기 모듈,송신기 모듈.pdf	_to_delete\0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재 통신\USB 무선랜 송수신 모듈,수신기 모듈,송신기 모듈.pdf
+DUP	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재 통신\Google 이미지 검색결과_ http_image.made-in-china.com_2f0j00rCiaVJTYOvUb_Rt3070-802-.pdf	_to_delete\0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재 통신\Google 이미지 검색결과_ http_image.made-in-china.com_2f0j00rCiaVJTYOvUb_Rt3070-802-.pdf
+DUP	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재 통신\Google 이미지 검색결과_ http_www.itxcanada.com_images_products_wf-vnt6566-usb-wifi-.pdf	_to_delete\0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-산학연-방재시스템\Documents\2015-01 산학연-센샤\방제 센샤 도면 2014-11-30\부품\방재 통신\Google 이미지 검색결과_ http_www.itxcanada.com_images_products_wf-vnt6566-usb-wifi-.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-11-휴대용 U-health 디바이스\참고문헌\제품설명서\UA-767.pdf	6_Library\Manuals\UA-767.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-11-휴대용 U-health 디바이스\참고문헌\제품설명서\UB-511.pdf	6_Library\Manuals\UB-511.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2008-10-A-ABR(UBDC)\algo3i_datasheet.pdf	6_Library\Datasheets\algo3i_datasheet.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2008-10-A-ABR(UBDC)\성우가 정리\AABR\AABR제품\algo3_datasheet.pdf	6_Library\Datasheets\algo3_datasheet.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2018_한의학연구원\EZScan\EZSCAN user guide 2.3.pdf	6_Library\Manuals\EZSCAN user guide 2.3.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2018_한의학연구원\EZScan\EZSCAN user guide 2.3-1.pdf	6_Library\Manuals\EZSCAN user guide 2.3-1.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2018_한의학연구원\EZScan\EZSCAN user guide 2.3-2.pdf	6_Library\Manuals\EZSCAN user guide 2.3-2.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2018_한의학연구원\EZScan\SUDOSCAN user guide_version 1.5[1].pdf	6_Library\Manuals\SUDOSCAN user guide_version 1.5[1].pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2018_한의학연구원\Programs\LVIM3570E\LVIM3570E\IM3570 Function Manual.pdf	6_Library\Manuals\IM3570 Function Manual.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2018_한의학연구원\Programs\LVIM3570E\LVIM3570E\IM3570 Sample Program Instruction Manual.pdf	6_Library\Manuals\IM3570 Sample Program Instruction Manual.pdf
+DUP	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2018_한의학연구원\Programs\SW_prototype_program_2016\Module\Scripts\AFE4300 Device GUI v1.16\TUSB3410 LV Installer\data\TUSB3410 VCP Single Driver Installation.pdf	_to_delete\0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2018_한의학연구원\Programs\SW_prototype_program_2016\Module\Scripts\AFE4300 Device GUI v1.16\TUSB3410 LV Installer\data\TUSB3410 VCP Single Driver Installation.pdf
+DUP	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\관련제품\Master programs\1182297827_Demo_v1d\Master1\Demo_v1d_release notes.pdf	_to_delete\0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\관련제품\Master programs\1182297827_Demo_v1d\Master1\Demo_v1d_release notes.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\Documents\사용부품\dch010505d.pdf	6_Library\Datasheets\dch010505d.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\Documents\사용부품\iso124.pdf	6_Library\Datasheets\iso124.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\Documents\사용부품\AD8222.pdf	6_Library\Datasheets\AD8222.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\Documents\사용부품\LM1117.pdf	6_Library\Datasheets\LM1117.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\Documents\사용부품\Footprint\mpds294b.pdf	6_Library\Datasheets\mpds294b.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\Documents\사용부품\Footprint\mpds105.pdf	6_Library\Datasheets\mpds105.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2009-03-ASSR\Documents\사용부품\Footprint\SO8.pdf	6_Library\Datasheets\SO8.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2015-파이오니아\Documents\관련 연구 및 자문\윤세진\CR tech\TAMAS manual (kor).pdf	6_Library\Manuals\TAMAS manual (kor).pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2019-중기애로기술_PSD\Circuits\Bill of Materials\MCP3208.pdf	6_Library\Datasheets\MCP3208.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2019-중기애로기술_PSD\PSD_16GBackup\SanDiskSecureAccessV2.0\QuickStartGuide_SanDiskSecureAccessV2.0.pdf	6_Library\Manuals\QuickStartGuide_SanDiskSecureAccessV2.0.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2019-중기애로기술_PSD\PSD_16GBackup\SanDiskSecureAccessV2.0\._QuickStartGuide_SanDiskSecureAccessV2.0.pdf	6_Library\Manuals\._QuickStartGuide_SanDiskSecureAccessV2.0.pdf
+DUP	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2014-인철 논문 자료\Drivers\usbRelay\UsbRelay8UserManualV7.pdf	_to_delete\0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2014-인철 논문 자료\Drivers\usbRelay\UsbRelay8UserManualV7.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2007-한방바이오\기존 USB\USB KIT\칩셋 데이타 시트\Cypress\CY3650_USER_GUIDE.pdf	6_Library\Manuals\CY3650_USER_GUIDE.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2007-한방바이오\기존 USB\USB KIT\칩셋 데이타 시트\Cypress\CyAsm_Assem_User_Guide.pdf	6_Library\Manuals\CyAsm_Assem_User_Guide.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2007-한방바이오\기존 USB\USB KIT\스터디 자료\Anchor_EzUSB_Manual.pdf	6_Library\Manuals\Anchor_EzUSB_Manual.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2007-한방바이오\PICDEM FS USB TEST PROGRAM\DLP-2232 DAQ 보드관련 자료\AN232-03.pdf	6_Library\Manuals\AN232-03.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2007-한방바이오\PICDEM FS USB TEST PROGRAM\DLP-2232 DAQ 보드관련 자료\AN232-05.pdf	6_Library\Manuals\AN232-05.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\usb_ttl232s.pdf	6_Library\Datasheets\usb_ttl232s.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\Color-LCD-Shield-v12.pdf	6_Library\Datasheets\Color-LCD-Shield-v12.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\msp430.pdf	6_Library\Datasheets\msp430.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\SD-Socket.pdf	6_Library\Datasheets\SD-Socket.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\SMD-Button.pdf	6_Library\Datasheets\SMD-Button.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\Joystic sw.pdf	6_Library\Datasheets\Joystic sw.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\MSP430-4619LCD.pdf	6_Library\Datasheets\MSP430-4619LCD.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\LIS3LV02DL.pdf	6_Library\Datasheets\LIS3LV02DL.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\Hirose-DF23(LCD connector).pdf	6_Library\Datasheets\Hirose-DF23(LCD connector).pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\LIS3LV02DL-1.pdf	6_Library\Datasheets\LIS3LV02DL-1.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Schematics\부품 정보\._Hirose-DF23(LCD connector).pdf	6_Library\Datasheets\._Hirose-DF23(LCD connector).pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2010-동국대 아이디어센터(어지럼증)\Documents\참고문헌\IMU(MotionNode)\Getting Started.pdf	6_Library\Manuals\Getting Started__4.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2011-출혈성쇼크(특정기초)\연구진행\Programs\Heart Rate Analysis\QuickStart.pdf	6_Library\Manuals\QuickStart.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2011-출혈성쇼크(특정기초)\연구진행\Programs\Heart Rate Analysis\._QuickStart.pdf	6_Library\Manuals\._QuickStart.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2014_압력측정 보드 스펙\ICL7660-MAX1044.pdf	6_Library\Datasheets\ICL7660-MAX1044.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2014_압력측정 보드 스펙\LM324.pdf	6_Library\Datasheets\LM324__2.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2022-교내 연구비_2019\관련서류\[붙임 3]2019 연구과제 관리 매뉴얼.pdf	6_Library\Manuals\[붙임 3]2019 연구과제 관리 매뉴얼.pdf
+MOVE	0_Research\99_Archive\2003_완료된 과제\한경대 이후 프로젝트\2022-교내 연구비_2019\관련서류\[붙임 4]실행예산 변경 신청 절차 매뉴얼.pdf	6_Library\Manuals\[붙임 4]실행예산 변경 신청 절차 매뉴얼.pdf
+MOVE	0_Research\99_Archive\2014_채권석\Manual_EMCO passive loop antenna 6509.pdf	6_Library\Manuals\Manual_EMCO passive loop antenna 6509.pdf
+MOVE	0_Research\99_Archive\2014_채권석\Manual_EMCO passive loop antenna 6509_OCR.pdf	6_Library\Manuals\Manual_EMCO passive loop antenna 6509_OCR.pdf
+MOVE	0_Research\99_Archive\2014_채권석\RF generator\ETS LINDGREN 6507 Datasheet.pdf	6_Library\Datasheets\ETS LINDGREN 6507 Datasheet.pdf
+MOVE	0_Research\99_Archive\2014_채권석\RF generator\SSA3000X_Plus_ProgrammingGuide_PG0703P_E01A.pdf	6_Library\Manuals\SSA3000X_Plus_ProgrammingGuide_PG0703P_E01A.pdf
+MOVE	0_Research\99_Archive\2014_채권석\연구비_2021\2020년도 경북대학교 연구비 집행 및 관리 매뉴얼.pdf	6_Library\Manuals\2020년도 경북대학교 연구비 집행 및 관리 매뉴얼.pdf
+MOVE	0_Research\99_Archive\2014_채권석\sckim 작업중\EasySpectrum_V1.0.6.0_EN\EasySpectrum Installation Guide.pdf	6_Library\Manuals\EasySpectrum Installation Guide.pdf
+DUP	0_Research\99_Archive\2010_한의학연구원\EZSCAN_배장한_130720\EZSCAN user guide 2.3.pdf	_to_delete\0_Research\99_Archive\2010_한의학연구원\EZSCAN_배장한_130720\EZSCAN user guide 2.3.pdf
+DUP	0_Research\99_Archive\2010_한의학연구원\EZSCAN_배장한_130720\EZSCAN user guide 2.3-1.pdf	_to_delete\0_Research\99_Archive\2010_한의학연구원\EZSCAN_배장한_130720\EZSCAN user guide 2.3-1.pdf
+DUP	0_Research\99_Archive\2010_한의학연구원\EZSCAN_배장한_130720\EZSCAN user guide 2.3-2.pdf	_to_delete\0_Research\99_Archive\2010_한의학연구원\EZSCAN_배장한_130720\EZSCAN user guide 2.3-2.pdf
+DUP	0_Research\99_Archive\2010_한의학연구원\EZSCAN_배장한_130720\SUDOSCAN user guide_version 1.5[1].pdf	_to_delete\0_Research\99_Archive\2010_한의학연구원\EZSCAN_배장한_130720\SUDOSCAN user guide_version 1.5[1].pdf
+DUP	0_Research\99_Archive\2010_한의학연구원\Programs\LVIM3570E\LVIM3570E\IM3570 Function Manual.pdf	_to_delete\0_Research\99_Archive\2010_한의학연구원\Programs\LVIM3570E\LVIM3570E\IM3570 Function Manual.pdf
+DUP	0_Research\99_Archive\2010_한의학연구원\Programs\LVIM3570E\LVIM3570E\IM3570 Sample Program Instruction Manual.pdf	_to_delete\0_Research\99_Archive\2010_한의학연구원\Programs\LVIM3570E\LVIM3570E\IM3570 Sample Program Instruction Manual.pdf
+DUP	0_Research\99_Archive\2019_Driver monitor\SMI Data\iView X SDK Manual.pdf	_to_delete\0_Research\99_Archive\2019_Driver monitor\SMI Data\iView X SDK Manual.pdf
+MOVE	0_Research\99_Archive\2019_Driver monitor\SMI Data\SMI_BeGaze_Manual.pdf	6_Library\Manuals\SMI_BeGaze_Manual.pdf
+MOVE	0_Research\99_Archive\2019_Driver monitor\참고문헌\Manual And Gaze Input Cascaded.pdf	6_Library\Manuals\Manual And Gaze Input Cascaded.pdf
+DUP	0_Research\99_Archive\2010_Gaze tracking glasses\Eyecan\Documents\eyeCanv1.0koreanmanual.pdf	_to_delete\0_Research\99_Archive\2010_Gaze tracking glasses\Eyecan\Documents\eyeCanv1.0koreanmanual.pdf
+MOVE	0_Research\99_Archive\2014_어지럼증 측정\Datasheets\ADXL345.pdf	6_Library\Datasheets\ADXL345.pdf
+MOVE	0_Research\99_Archive\2014_어지럼증 측정\Datasheets\itg3205_gyro.pdf	6_Library\Datasheets\itg3205_gyro.pdf
+MOVE	99_Archive\99_Archive_Backup\Mac27\제4호.+국가연구개발사업+연구관리+표준매뉴얼.pdf	6_Library\Manuals\제4호.+국가연구개발사업+연구관리+표준매뉴얼.pdf
+MOVE	99_Archive\99_Archive_Backup\Mac27\1. Atmega128(정의, 특징, 구조).pdf	6_Library\Datasheets\1. Atmega128(정의, 특징, 구조).pdf
+MOVE	99_Archive\99_Archive_Backup\Mac27\Magic Briefcase\Sample Documents\SugarSync User Guide.pdf	6_Library\Manuals\SugarSync User Guide.pdf
+MOVE	99_Archive\99_Archive_Backup\Mac27\Magic Briefcase\Sample Documents\SugarSync QuickStart Guide.pdf	6_Library\Manuals\SugarSync QuickStart Guide.pdf
+MOVE	99_Archive\99_Archive_Backup\Mac27\수찬 홈페이지\lectures\digital logic\Getstart.pdf	6_Library\Manuals\Getstart.pdf

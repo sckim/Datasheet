@@ -1,0 +1,20 @@
+R1 = 100;
+R2 = 1000;
+
+N=11;
+Result = zeros(N, 4);
+
+interval = 500;
+for n=1:N
+   Result(n,1) = R1;
+   Result(n,2) = R2+(n-1)*interval;
+   Result(n,3) = parallel_r(R1, Result(n,2));
+   if ( n>=2 )
+      Result(n,4) = Result(n,3) - Result(n-1,3);
+   end
+end
+
+fprintf('    R1       R2      R1/R2         Diff \n');
+for n=1:N
+	fprintf('%5.3f  %5.4f  %5.4f %10.4f\n', Result(n,1),  Result(n,2), Result(n,3), Result(n,4));
+end

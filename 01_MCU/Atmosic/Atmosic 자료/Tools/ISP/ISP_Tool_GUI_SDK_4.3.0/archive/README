@@ -1,0 +1,64 @@
+Requirements
+
+ - Browsers: Firefox and Google Chrome
+ - Interface board with WinUSB driver installed (see section "WinUSB" below)
+
+
+Quick Start
+
+1) Connect an Atmosic device using an Atmosic interface board (USB port labeled UART1)
+2) Double-click isp.bat or one of its variants for Firefox or Google Chrome
+   This opens two programs -- a browser with the ISP tool loaded and the OpenOCD
+   server.  The tool will be ready in at most 5 seconds and show "Status:
+   Connected" at the bottom of the page.
+3) In the browser, use the input button next to "Atmosic Archive:" to upload a .atm
+   Note: a .atm files is created in the SDK.  This tool can only decode a .atm
+   file and download its components onto OTP/flash.
+
+4) Use the checkboxes to select the sections of the archive to be downloaded onto the device
+   By default, "OTP", "Flash NVDS", and "Firmware" are pre-selected.
+5) Click "Push"
+   Once the ISP tool has successfully downloaded the selected sections from the
+   archive onto the Atmosic device, it will pop up a window with a message that
+   reads "Push successful".
+6) Click "Shutdown" when done
+   This signals OpenOCD to shutdown and tries to close the browser.
+   Note: do not use the browser's close tab or close window buttons to shut down the ISP tool
+
+
+Limitations
+
+- One interface board at a time and no automatic WinUSB driver update
+- No OTA support
+
+
+Troubleshooting
+
+- If the browser was closed without before clicking the "Shutdown" button to
+  stop the server, simply close the cmd.exe window and repeat step #2.
+- The OpenOCD log (from the cmd.exe window) provides messages from the backend
+  server.  The front-end uses pop-up windows to communicate with the user.  The
+  JavaScript console log may contain additional information.
+
+
+WinUSB
+
+Microsoft by default installs the FTDIBUS driver for the FTDI device
+on the Atmosic board.  This makes the device show as a COM port in the
+Windows Device Manager.
+
+For Interface 0 of the Atmosic FTDI interface board, the FTDI driver must be
+replaced with WinUSB in order for it to become available as a USB device and
+usable by OpenOCD.  This can be done using InstRDI/InstRDI.exe in the top-level
+directory.
+
+Windows Administrator privileges are required for replacing a driver.  It is a
+one-time necessity.
+
+Verify the successful installation of WinUSB by going to the Windows
+Device Manager and confirming that the Atmosic FTDI USB1 device shows
+as such rather than a COM port.  (In Device Manager, expand category
+"Universal Serial Bus devices" and look for "Atmosic RDI USB1".)
+Also, verify that the driver provider is libwdi.  (Right-click on
+"Atmosic RDI USB1", go to "Properties", go to the "Driver" tab, and
+check the "Driver Provider" line.)  Restart Windows if necessary.

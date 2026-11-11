@@ -1,0 +1,59 @@
+; Code Composer Project File, Version 2.0 (do not modify or remove this line)
+
+[Project Settings]
+ProjectDir="C:\WorkTI\SW\MDK\ECG_ADS1258\Full\PG2_0\MDK_ECGSystem_C55515EVM\ECGSystem\"
+ProjectType=Executable
+CPUFamily=TMS320C55XX
+Tool="Compiler"
+Tool="CustomBuilder"
+Tool="DspBiosBuilder"
+Tool="Linker"
+Config="Debug"
+Config="Release"
+
+[Source Files]
+Source="src\cpu_clock_init.c"
+Source="src\dda_dma.c"
+Source="src\dda_spi.c"
+Source="src\dda_uart.c"
+Source="src\dda_uartCfg.c"
+Source="src\ddc_dma.c"
+Source="src\ddc_spi.c"
+Source="src\ddc_uart.c"
+Source="src\ECG_Filter_Co-efficients.c"
+Source="src\ECGSystem_main.c"
+Source="src\ECGSystemFunctions.c"
+Source="src\ECGSystemInit.c"
+Source="src\I2C.c"
+Source="src\InterruptHandlers.c"
+Source="src\lcd.c"
+Source="src\llc_spi.c"
+Source="src\llc_uart.c"
+Source="src\pal_osList.c"
+Source="src\pal_osprotect.c"
+Source="src\pal_osSem.c"
+Source="src\pal_osTime.c"
+Source="src\sar.c"
+Source="src\timer.c"
+Source="src\util_circ.c"
+Source="src\vectors.asm"
+Source="c5505.cmd"
+
+["Compiler" Settings: "Debug"]
+Options=-g -mg -pdsw225 -fr"$(Proj_dir)\Debug" -i"$(Proj_dir)\inc" -i"$(Proj_dir)\common_inc" -i"$(Proj_dir)\common_src" -d"_DEBUG" -ml -vcpu:3.3
+
+["Compiler" Settings: "Release"]
+Options=-mg -pm -pdsw225 -op0 -o3 -fr"$(Proj_dir)\Release" -i"$(Proj_dir)\inc" -i"$(Proj_dir)\src" -i"$(Proj_dir)\common_inc" -i"$(Proj_dir)\common_src"
+
+["Linker" Settings: "Debug"]
+Options=-c -ereset_isr -m".\Debug\ECGSystem.map" -o".\Debug\ECGSystem.out" -stack1000 -sysstack1000 -w -x -l"rts55x.lib"
+
+["Linker" Settings: "Release"]
+Options=-c -ereset_isr -m".\Release\ECGSystem.map" -o".\Release\ECGSystem.out" -w -x
+
+["c5505.cmd" Settings: "Debug"]
+LinkOrder=1
+
+["c5505.cmd" Settings: "Release"]
+LinkOrder=1
+

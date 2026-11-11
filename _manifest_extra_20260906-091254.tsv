@@ -1,0 +1,7 @@
+action	orig	new
+MOVE	5_Schematics\1_Schematic\KiCAD\Tutorial\Docs\getting_started_in_kicad.pdf	6_Library\Manuals\getting_started_in_kicad.pdf
+DUP	5_Schematics\2_Simulation\Multisim\Tutorial\NI ELVIS Courseware\Digital\Tutorial - Getting Started with Multisim.pdf	_to_delete\5_Schematics\2_Simulation\Multisim\Tutorial\NI ELVIS Courseware\Digital\Tutorial - Getting Started with Multisim.pdf
+MOVE	5_Schematics\2_Simulation\Multisim\Sensor_IF\Force sensor\FlexiForce-Calibration-QuickStart-(Rev A).pdf	6_Library\Manuals\FlexiForce-Calibration-QuickStart-(Rev A).pdf
+MOVE	1_Lectures\31_Microcontroller\3_참고자료\마프자료_이대종\MPF-Multi_MPU(20110523)매뉴얼.pdf	6_Library\Manuals\MPF-Multi_MPU(20110523)매뉴얼.pdf
+MOVE	1_Lectures\31_Microcontroller\SampleCodes\AVR328P\110_SPI_MAX7219\max7219.pdf	6_Library\Datasheets\max7219.pdf
+MOVE	1_Lectures\20_Digital_Engineering\1_강의자료\1_2_실습가이드\Quartus\DE2 실습자료\DE2-115_V.3.0.1_SystemCD\DE2_115_datasheets\Cyclone IV\cyclone4-handbook[1].pdf	6_Library\Datasheets\cyclone4-handbook[1].pdf

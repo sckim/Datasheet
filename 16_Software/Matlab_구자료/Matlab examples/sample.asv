@@ -1,0 +1,24 @@
+[Y,FS,NBITS,OPTS]=WAVREAD('startup.wav');
+fft_Y=abs(fft(Y));
+d_hz = linspace(1, FS, length(Y));
+figure(1)
+subplot(3,1,1);
+plot(d_hz, fft_Y);
+axis([0 FS/2 0 1400])
+wavplay(Y,FS);
+
+y_down = downsample(Y,2);
+fft_Y_down=abs(fft(y_down));
+d_hz = linspace(1, FS, length(y_down));
+subplot(3,1,2);
+plot(d_hz, fft_Y_down);
+axis([0 FS/2 0 1400/2])
+wavplay(y_down,FS);
+
+y_up = upsample(Y,2);
+fft_Y_up=abs(fft(y_up));
+d_hz = linspace(1, FS, length(y_up));
+subplot(3,1,3);
+plot(d_hz, fft_Y_up);
+axis([0 FS/2 0 1400])
+wavplay(y_up,FS);

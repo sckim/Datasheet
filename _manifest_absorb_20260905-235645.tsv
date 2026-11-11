@@ -1,0 +1,363 @@
+action	원분류	원상대경로	새경로
+MOVE	Diode	Diode\1N4148 - Fast Switching Diode.pdf	6_Library\Datasheets\1N4148 - Fast Switching Diode.pdf
+MOVE	Diode	Diode\Infrared LED.pdf	6_Library\Datasheets\Infrared LED.pdf
+MOVE	Diode	Diode\1N4728-4764 - 1W Zener Diodes.pdf	6_Library\Datasheets\1N4728-4764 - 1W Zener Diodes.pdf
+MOVE	Sensor	Sensor\Spectran5000-E.pdf	6_Library\Datasheets\Spectran5000-E.pdf
+MOVE	Sensor	Sensor\OTP-538U - Infrared Thermopile Sensor.pdf	6_Library\Datasheets\OTP-538U - Infrared Thermopile Sensor.pdf
+MOVE	Sensor	Sensor\BMP085 - Digital Barometric Pressure Sensor.pdf	6_Library\Datasheets\BMP085 - Digital Barometric Pressure Sensor.pdf
+MOVE	Sensor	Sensor\LM75 - Digital Temperature Sensor and Thermal Watchdog.pdf	6_Library\Datasheets\LM75 - Digital Temperature Sensor and Thermal Watchdog.pdf
+MOVE	Sensor	Sensor\HC-SR04 - Ultrasonic Ranging Module.pdf	6_Library\Datasheets\HC-SR04 - Ultrasonic Ranging Module.pdf
+MOVE	Sensor	Sensor\SHT1x-Breakout-v13.pdf	6_Library\Datasheets\SHT1x-Breakout-v13.pdf
+MOVE	Sensor	Sensor\Polar-HeartRate-v17.pdf	6_Library\Datasheets\Polar-HeartRate-v17.pdf
+MOVE	Sensor	Sensor\Amplified-Mic-Electret-v14.pdf	6_Library\Datasheets\Amplified-Mic-Electret-v14.pdf
+MOVE	Sensor	Sensor\AFE\AD8232-ECG.pdf	6_Library\Datasheets\AD8232-ECG.pdf
+MOVE	Sensor	Sensor\AFE\AFE4300 - Weight-Scale and Body Composition AFE.pdf	6_Library\Datasheets\AFE4300 - Weight-Scale and Body Composition AFE.pdf
+MOVE	Sensor	Sensor\AFE\AFE4300EVM-PDK Firmware Update Procedure.pdf	6_Library\Datasheets\AFE4300EVM-PDK Firmware Update Procedure.pdf
+MOVE	Sensor	Sensor\AFE\AFE4300_ADG408 스위치 부품배치도.pdf	6_Library\Datasheets\AFE4300_ADG408 스위치 부품배치도.pdf
+MOVE	Sensor	Sensor\AFE\AFE4300_ADG408 스위치 회로도.pdf	6_Library\Datasheets\AFE4300_ADG408 스위치 회로도.pdf
+MOVE	Sensor	Sensor\AFE\AFE4300 Development Guide_sbau201a.pdf	6_Library\Datasheets\AFE4300 Development Guide_sbau201a.pdf
+MOVE	Sensor	Sensor\AFE\afe4300-Analog Front End for Body Composition.pdf	6_Library\Datasheets\afe4300-Analog Front End for Body Composition.pdf
+MOVE	Sensor	Sensor\AFE\Message Communication Protocol - AFE4300EVM-PDK.pdf	6_Library\Datasheets\Message Communication Protocol - AFE4300EVM-PDK.pdf
+MOVE	Sensor	Sensor\IMU\MPU-9150 - Nine-Axis MotionTracking Device.pdf	6_Library\Datasheets\MPU-9150 - Nine-Axis MotionTracking Device.pdf
+MOVE	Sensor	Sensor\IMU\Gyro\LPR530AL - Dual-Axis Pitch and Roll Gyroscope.pdf	6_Library\Datasheets\LPR530AL - Dual-Axis Pitch and Roll Gyroscope.pdf
+MOVE	Sensor	Sensor\IMU\Gyro\LY530ALH - Single-Axis Yaw Gyroscope.pdf	6_Library\Datasheets\LY530ALH - Single-Axis Yaw Gyroscope.pdf
+MOVE	Sensor	Sensor\IMU\Gyro\ENV-03M - Piezoelectric Gyroscope.pdf	6_Library\Datasheets\ENV-03M - Piezoelectric Gyroscope.pdf
+MOVE	Sensor	Sensor\IMU\Gyro\LISY300AL - Single-Axis Yaw Gyroscope.pdf	6_Library\Datasheets\LISY300AL - Single-Axis Yaw Gyroscope.pdf
+MOVE	Sensor	Sensor\IMU\Gyro\PS-ITG-3200-00-01.4.pdf	6_Library\Datasheets\PS-ITG-3200-00-01.4.pdf
+MOVE	Sensor	Sensor\IMU\Mag\HMC6343 - 3-Axis Digital Compass.pdf	6_Library\Datasheets\HMC6343 - 3-Axis Digital Compass.pdf
+MOVE	Sensor	Sensor\IMU\Mag\HMC5843 - 3-Axis Digital Compass.pdf	6_Library\Datasheets\HMC5843 - 3-Axis Digital Compass.pdf
+MOVE	Sensor	Sensor\IMU\Mag\AN4248 - Tilt-Compensated eCompass Application Note.pdf	6_Library\Datasheets\AN4248 - Tilt-Compensated eCompass Application Note.pdf
+MOVE	Sensor	Sensor\IMU\Mag\TLE4997_Data_Sheet_v2.08.pdf	6_Library\Datasheets\TLE4997_Data_Sheet_v2.08.pdf
+MOVE	Sensor	Sensor\IMU\Mag\honeywell-sensing-ss490 series-solidstate-product-sheet-005843-1-EN.pdf	6_Library\Datasheets\honeywell-sensing-ss490 series-solidstate-product-sheet-005843-1-EN.pdf
+MOVE	Sensor	Sensor\IMU\Mag\HMC5883L - 3-Axis Digital Compass.pdf	6_Library\Datasheets\HMC5883L - 3-Axis Digital Compass.pdf
+MOVE	Sensor	Sensor\IMU\Mag\MAG3110 - 3-Axis Digital Magnetometer.pdf	6_Library\Datasheets\MAG3110 - 3-Axis Digital Magnetometer.pdf
+MOVE	Sensor	Sensor\IMU\Acc\ADXL105 - Precision Single-Axis Accelerometer.pdf	6_Library\Datasheets\ADXL105 - Precision Single-Axis Accelerometer.pdf
+MOVE	Sensor	Sensor\IMU\Acc\LIS3LV02DL - 3-Axis Digital Accelerometer.pdf	6_Library\Datasheets\LIS3LV02DL - 3-Axis Digital Accelerometer.pdf
+MOVE	Sensor	Sensor\IMU\Acc\Measuring Tilt with Low-g Accelerometers.pdf	6_Library\Datasheets\Measuring Tilt with Low-g Accelerometers.pdf
+MOVE	Sensor	Sensor\IMU\Acc\Tilt Sensing Using Linear Accelerometers.pdf	6_Library\Datasheets\Tilt Sensing Using Linear Accelerometers.pdf
+MOVE	Sensor	Sensor\IMU\Acc\MMA7260Q - 3-Axis Low-g Accelerometer.pdf	6_Library\Datasheets\MMA7260Q - 3-Axis Low-g Accelerometer.pdf
+MOVE	Sensor	Sensor\IMU\Acc\ADXL345 - 3-Axis Digital Accelerometer.pdf	6_Library\Datasheets\ADXL345 - 3-Axis Digital Accelerometer.pdf
+MOVE	Opamp	Opamp\AD741 - Operational Amplifier.pdf	6_Library\Datasheets\AD741 - Operational Amplifier.pdf
+MOVE	Opamp	Opamp\HA17741 - Operational Amplifier.pdf	6_Library\Datasheets\HA17741 - Operational Amplifier.pdf
+MOVE	Opamp	Opamp\OPA2336 - Single-Supply CMOS Operational Amplifier.pdf	6_Library\Datasheets\OPA2336 - Single-Supply CMOS Operational Amplifier.pdf
+MOVE	Opamp	Opamp\INA118 - Precision Low-Power Instrumentation Amplifier.pdf	6_Library\Datasheets\INA118 - Precision Low-Power Instrumentation Amplifier.pdf
+MOVE	Opamp	Opamp\MC1496P - Balanced Modulator-Demodulator.pdf	6_Library\Datasheets\MC1496P - Balanced Modulator-Demodulator.pdf
+MOVE	Opamp	Opamp\TL082 - Dual JFET-Input Operational Amplifier.pdf	6_Library\Datasheets\TL082 - Dual JFET-Input Operational Amplifier.pdf
+MOVE	Opamp	Opamp\OPA2335 - Zero-Drift CMOS Operational Amplifier - v2.pdf	6_Library\Datasheets\OPA2335 - Zero-Drift CMOS Operational Amplifier - v2.pdf
+MOVE	Opamp	Opamp\UAF42 - Universal Active Filter.pdf	6_Library\Datasheets\UAF42 - Universal Active Filter.pdf
+MOVE	Opamp	Opamp\uA741 - General-Purpose Operational Amplifier.pdf	6_Library\Datasheets\uA741 - General-Purpose Operational Amplifier.pdf
+MOVE	Opamp	Opamp\25W HiFi Audio Amplifier Module LM1875.pdf	6_Library\Datasheets\25W HiFi Audio Amplifier Module LM1875.pdf
+MOVE	Opamp	Opamp\ISO165.pdf	6_Library\Datasheets\ISO165.pdf
+MOVE	Opamp	Opamp\AD210 - Precision 3-Port Isolation Amplifier.pdf	6_Library\Datasheets\AD210 - Precision 3-Port Isolation Amplifier.pdf
+MOVE	Opamp	Opamp\AD630 - Balanced Modulator-Demodulator.pdf	6_Library\Datasheets\AD630 - Balanced Modulator-Demodulator.pdf
+MOVE	Opamp	Opamp\OPA2335 - Zero-Drift CMOS Operational Amplifier.pdf	6_Library\Datasheets\OPA2335 - Zero-Drift CMOS Operational Amplifier.pdf
+MOVE	Power	Power\DCMOT-L298_REVA_SCH.pdf	6_Library\Datasheets\DCMOT-L298_REVA_SCH.pdf
+MOVE	Power	Power\MIC5205 - 150mA Low-Noise LDO Voltage Regulator.pdf	6_Library\Datasheets\MIC5205 - 150mA Low-Noise LDO Voltage Regulator.pdf
+MOVE	Power	Power\LM7805 - 5V Positive Voltage Regulator.pdf	6_Library\Datasheets\LM7805 - 5V Positive Voltage Regulator.pdf
+MOVE	Power	Power\AL8805 - 680mA Buck LED Driver.pdf	6_Library\Datasheets\AL8805 - 680mA Buck LED Driver.pdf
+MOVE	Power	Power\L293D - Quadruple Half-H Drivers with Diodes.pdf	6_Library\Datasheets\L293D - Quadruple Half-H Drivers with Diodes.pdf
+MOVE	Power	Power\md1213db1 - High Speed ±100V 2A Pulser.pdf	6_Library\Datasheets\md1213db1 - High Speed ±100V 2A Pulser.pdf
+MOVE	Power	Power\L293 - Quadruple Half-H Drivers.pdf	6_Library\Datasheets\L293 - Quadruple Half-H Drivers.pdf
+MOVE	Power	Power\28byj48-Stepper-Motor-Datasheet.pdf	6_Library\Datasheets\28byj48-Stepper-Motor-Datasheet.pdf
+MOVE	Power	Power\Universal Power supply.pdf	6_Library\Datasheets\Universal Power supply.pdf
+MOVE	Power	Power\78xx - Positive Voltage Regulators.pdf	6_Library\Datasheets\78xx - Positive Voltage Regulators.pdf
+MOVE	Power	Power\TC1015 2.5V.pdf	6_Library\Datasheets\TC1015 2.5V.pdf
+MOVE	Transistor	Transistor\2N5460_5462 - P-Channel JFET.pdf	6_Library\Datasheets\2N5460_5462 - P-Channel JFET.pdf
+MOVE	Transistor	Transistor\6N138 - Low Input Current High Gain Optocoupler.pdf	6_Library\Datasheets\6N138 - Low Input Current High Gain Optocoupler.pdf
+MOVE	Transistor	Transistor\4N25 - Phototransistor Optocoupler.pdf	6_Library\Datasheets\4N25 - Phototransistor Optocoupler.pdf
+MOVE	Transistor	Transistor\ULN2001 - Seven Darlington Array.pdf	6_Library\Datasheets\ULN2001 - Seven Darlington Array.pdf
+MOVE	Transistor	Transistor\ULN2003A - Seven Darlington Array.pdf	6_Library\Datasheets\ULN2003A - Seven Darlington Array.pdf
+MOVE	Transistor	Transistor\2N7000 - N-Channel MOSFET.pdf	6_Library\Datasheets\2N7000 - N-Channel MOSFET.pdf
+MOVE	Transistor	Transistor\2N4091 - N-Channel JFET.pdf	6_Library\Datasheets\2N4091 - N-Channel JFET.pdf
+MOVE	Transistor	Transistor\2N5457-5459 - N-Channel JFET.pdf	6_Library\Datasheets\2N5457-5459 - N-Channel JFET.pdf
+MOVE	Transistor	Transistor\2N5458 - N-Channel JFET.pdf	6_Library\Datasheets\2N5458 - N-Channel JFET.pdf
+MOVE	Transistor	Transistor\2N5457-D.pdf	6_Library\Datasheets\2N5457-D.pdf
+MOVE	Transistor	Transistor\2N5462 - P-Channel JFET.pdf	6_Library\Datasheets\2N5462 - P-Channel JFET.pdf
+MOVE	Transistor	Transistor\2N5460-D.pdf	6_Library\Datasheets\2N5460-D.pdf
+MOVE	Transistor	Transistor\2N2222A - NPN Switching Transistor (Philips).pdf	6_Library\Datasheets\2N2222A - NPN Switching Transistor (Philips).pdf
+MOVE	Transistor	Transistor\2N2222A - NPN Switching Transistor (ST).pdf	6_Library\Datasheets\2N2222A - NPN Switching Transistor (ST).pdf
+MOVE	Transistor	Transistor\2N3904 - NPN General Purpose Transistor.pdf	6_Library\Datasheets\2N3904 - NPN General Purpose Transistor.pdf
+MOVE	Transistor	Transistor\IRF520.pdf	6_Library\Datasheets\IRF520.pdf
+MOVE	Transistor	Transistor\CMOS\AppendixC_CMOS_IC_PIN.pdf	6_Library\Datasheets\AppendixC_CMOS_IC_PIN.pdf
+MOVE	Transistor	Transistor\CMOS\Digital Logic Pocket Data Book.pdf	6_Library\Datasheets\Digital Logic Pocket Data Book.pdf
+MOVE	Transistor	Transistor\MOSFET\IRF730 - N-Channel Power MOSFET.pdf	6_Library\Datasheets\IRF730 - N-Channel Power MOSFET.pdf
+MOVE	Transistor	Transistor\MOSFET\IRFP240 - N-Channel Power MOSFET.pdf	6_Library\Datasheets\IRFP240 - N-Channel Power MOSFET.pdf
+MOVE	Transistor	Transistor\MOSFET\2N7008 - N-Channel MOSFET.pdf	6_Library\Datasheets\2N7008 - N-Channel MOSFET.pdf
+MOVE	Logic	Logic\DM74LS74 - Dual D-Type Positive Edge-Triggered Flip-Flop.pdf	6_Library\Datasheets\DM74LS74 - Dual D-Type Positive Edge-Triggered Flip-Flop.pdf
+MOVE	Logic	Logic\SN74LS76 - Dual J-K Flip-Flop with Preset and Clear.pdf	6_Library\Datasheets\SN74LS76 - Dual J-K Flip-Flop with Preset and Clear.pdf
+MOVE	Logic	Logic\DM74LS32 - Quad 2-Input OR Gate.pdf	6_Library\Datasheets\DM74LS32 - Quad 2-Input OR Gate.pdf
+MOVE	Logic	Logic\27C128 - 128K CMOS EPROM.pdf	6_Library\Datasheets\27C128 - 128K CMOS EPROM.pdf
+MOVE	Logic	Logic\74LS11 - Triple 3-Input AND Gate.pdf	6_Library\Datasheets\74LS11 - Triple 3-Input AND Gate.pdf
+MOVE	Logic	Logic\74LS02-Quad 2-Input NOR Gates.pdf	6_Library\Datasheets\74LS02-Quad 2-Input NOR Gates.pdf
+MOVE	Logic	Logic\74LS05 - Hex Inverter (Open Collector).pdf	6_Library\Datasheets\74LS05 - Hex Inverter (Open Collector).pdf
+MOVE	Logic	Logic\74LS10 - Triple 3-Input NAND Gate.pdf	6_Library\Datasheets\74LS10 - Triple 3-Input NAND Gate.pdf
+MOVE	Logic	Logic\74LS04 - Hex Inverter.pdf	6_Library\Datasheets\74LS04 - Hex Inverter.pdf
+MOVE	Logic	Logic\74LS266 - Quad 2-Input Exclusive-NOR Gate (Open Collector).pdf	6_Library\Datasheets\74LS266 - Quad 2-Input Exclusive-NOR Gate (Open Collector).pdf
+MOVE	Logic	Logic\74LS194 - 4-Bit Bidirectional Universal Shift Register.pdf	6_Library\Datasheets\74LS194 - 4-Bit Bidirectional Universal Shift Register.pdf
+MOVE	Logic	Logic\74LS191 - Presettable Binary Up-Down Counter.pdf	6_Library\Datasheets\74LS191 - Presettable Binary Up-Down Counter.pdf
+MOVE	Logic	Logic\74LS247 - BCD to 7-Segment Decoder-Driver (Open Collector).pdf	6_Library\Datasheets\74LS247 - BCD to 7-Segment Decoder-Driver (Open Collector).pdf
+MOVE	Logic	Logic\74LS164 - 8-Bit Serial-In Parallel-Out Shift Register.pdf	6_Library\Datasheets\74LS164 - 8-Bit Serial-In Parallel-Out Shift Register.pdf
+MOVE	Logic	Logic\74LS373_374 - Octal Transparent Latch and Flip-Flop.pdf	6_Library\Datasheets\74LS373_374 - Octal Transparent Latch and Flip-Flop.pdf
+MOVE	Logic	Logic\74LS266A - Quad 2-Input Exclusive-NOR Gate (Open Collector).pdf	6_Library\Datasheets\74LS266A - Quad 2-Input Exclusive-NOR Gate (Open Collector).pdf
+MOVE	Logic	Logic\54LS20 - Dual 4-Input NAND Gate.pdf	6_Library\Datasheets\54LS20 - Dual 4-Input NAND Gate.pdf
+MOVE	Logic	Logic\74AC74-Dual D-Type Positive Edge-Triggered Flip-Flop.pdf	6_Library\Datasheets\74AC74-Dual D-Type Positive Edge-Triggered Flip-Flop.pdf
+MOVE	Logic	Logic\7404 - Hex Inverter.pdf	6_Library\Datasheets\7404 - Hex Inverter.pdf
+MOVE	Logic	Logic\7410 - Triple 3-Input NAND Gate.pdf	6_Library\Datasheets\7410 - Triple 3-Input NAND Gate.pdf
+MOVE	Logic	Logic\74LS175P - Quad D-Type Flip-Flop with Clear.pdf	6_Library\Datasheets\74LS175P - Quad D-Type Flip-Flop with Clear.pdf
+MOVE	Logic	Logic\74LS76AP-Dual J-K Flip-Flops.pdf	6_Library\Datasheets\74LS76AP-Dual J-K Flip-Flops.pdf
+MOVE	Logic	Logic\MC54F08 - Quad 2-Input AND Gate.pdf	6_Library\Datasheets\MC54F08 - Quad 2-Input AND Gate.pdf
+MOVE	Logic	Logic\74LS90 - Decade Counter.pdf	6_Library\Datasheets\74LS90 - Decade Counter.pdf
+MOVE	Logic	Logic\74LS86 - Quad 2-Input Exclusive-OR Gate.pdf	6_Library\Datasheets\74LS86 - Quad 2-Input Exclusive-OR Gate.pdf
+MOVE	Logic	Logic\74LS112A - Dual J-K Flip-Flop with Preset and Clear.pdf	6_Library\Datasheets\74LS112A - Dual J-K Flip-Flop with Preset and Clear.pdf
+MOVE	Logic	Logic\74LS13_14 - Dual 4-Input NAND Schmitt Trigger _ Hex Inverter Schmitt Trigger.pdf	6_Library\Datasheets\74LS13_14 - Dual 4-Input NAND Schmitt Trigger _ Hex Inverter Schmitt Trigger.pdf
+MOVE	Logic	Logic\74165-8-Bit Parallel-to-Serial Converter.pdf	6_Library\Datasheets\74165-8-Bit Parallel-to-Serial Converter.pdf
+MOVE	Logic	Logic\74LS195 - Universal 4-Bit Shift Register.pdf	6_Library\Datasheets\74LS195 - Universal 4-Bit Shift Register.pdf
+MOVE	Logic	Logic\74LS91 - 8-Bit Shift Register.pdf	6_Library\Datasheets\74LS91 - 8-Bit Shift Register.pdf
+MOVE	Logic	Logic\74LS165 - 8-Bit Parallel-In Serial-Out Shift Register.pdf	6_Library\Datasheets\74LS165 - 8-Bit Parallel-In Serial-Out Shift Register.pdf
+MOVE	Logic	Logic\74LS160 - BCD Decade Counter.pdf	6_Library\Datasheets\74LS160 - BCD Decade Counter.pdf
+MOVE	Logic	Logic\74LS190 - Presettable BCD Decade Up-Down Counter.pdf	6_Library\Datasheets\74LS190 - Presettable BCD Decade Up-Down Counter.pdf
+MOVE	Logic	Logic\74LS42 - BCD to Decimal Decoder.pdf	6_Library\Datasheets\74LS42 - BCD to Decimal Decoder.pdf
+MOVE	Logic	Logic\74LS192 - Presettable BCD Decade Up-Down Counter (Dual Clock).pdf	6_Library\Datasheets\74LS192 - Presettable BCD Decade Up-Down Counter (Dual Clock).pdf
+MOVE	Logic	Logic\74LS148 - 8-Line to 3-Line Priority Encoder.pdf	6_Library\Datasheets\74LS148 - 8-Line to 3-Line Priority Encoder.pdf
+MOVE	Logic	Logic\74LS138 - 3-to-8 Line Decoder-Demultiplexer.pdf	6_Library\Datasheets\74LS138 - 3-to-8 Line Decoder-Demultiplexer.pdf
+MOVE	Logic	Logic\74F08 - Quad 2-Input AND Gate.pdf	6_Library\Datasheets\74F08 - Quad 2-Input AND Gate.pdf
+MOVE	Logic	Logic\4051B - 8-Channel Analog Multiplexer-Demultiplexer.pdf	6_Library\Datasheets\4051B - 8-Channel Analog Multiplexer-Demultiplexer.pdf
+MOVE	Logic	Logic\AppendixB_TTL_IC_Databook.PDF	6_Library\Datasheets\AppendixB_TTL_IC_Databook.PDF
+MOVE	Logic	Logic\74137 - 3-to-8 Line Decoder-Demultiplexer with Address Latches.pdf	6_Library\Datasheets\74137 - 3-to-8 Line Decoder-Demultiplexer with Address Latches.pdf
+MOVE	Logic	Logic\74HC595 - 8-Bit Serial-In Parallel-Out Shift Register.pdf	6_Library\Datasheets\74HC595 - 8-Bit Serial-In Parallel-Out Shift Register.pdf
+MOVE	Logic	Logic\74LS163 - Synchronous 4-Bit Binary Counter.pdf	6_Library\Datasheets\74LS163 - Synchronous 4-Bit Binary Counter.pdf
+MOVE	Logic	Logic\74LS00-Quad 2-Input NAND Gates.pdf	6_Library\Datasheets\74LS00-Quad 2-Input NAND Gates.pdf
+MOVE	Logic	Logic\74LS08 - Quad 2-Input AND Gate.pdf	6_Library\Datasheets\74LS08 - Quad 2-Input AND Gate.pdf
+MOVE	Logic	Logic\74LS32P - Quadruple 2-Input Positive OR Gate.pdf	6_Library\Datasheets\74LS32P - Quadruple 2-Input Positive OR Gate.pdf
+MOVE	Logic	Logic\74LS161 - Synchronous 4-Bit Binary Counter.pdf	6_Library\Datasheets\74LS161 - Synchronous 4-Bit Binary Counter.pdf
+MOVE	Logic	Logic\74181 - 4-Bit Arithmetic Logic Unit.pdf	6_Library\Datasheets\74181 - 4-Bit Arithmetic Logic Unit.pdf
+MOVE	Logic	Logic\74LS245 - Octal Bus Transceiver with 3-State Outputs.pdf	6_Library\Datasheets\74LS245 - Octal Bus Transceiver with 3-State Outputs.pdf
+MOVE	Logic	Logic\74LS83 - 4-Bit Binary Full Adder with Fast Carry.pdf	6_Library\Datasheets\74LS83 - 4-Bit Binary Full Adder with Fast Carry.pdf
+MOVE	Logic	Logic\74LS157 - Quad 2-to-1 Line Data Selector-Multiplexer.pdf	6_Library\Datasheets\74LS157 - Quad 2-to-1 Line Data Selector-Multiplexer.pdf
+MOVE	Logic	Logic\74LS283 - 4-Bit Binary Full Adder with Fast Carry.pdf	6_Library\Datasheets\74LS283 - 4-Bit Binary Full Adder with Fast Carry.pdf
+MOVE	Logic	Logic\74LS182 - Look-Ahead Carry Generator.pdf	6_Library\Datasheets\74LS182 - Look-Ahead Carry Generator.pdf
+MOVE	Logic	Logic\74LS280 - 9-Bit Odd-Even Parity Generator-Checker.pdf	6_Library\Datasheets\74LS280 - 9-Bit Odd-Even Parity Generator-Checker.pdf
+MOVE	Logic	Logic\74LS158 - Quad 2-to-1 Line Data Selector-Multiplexer (Inverting).pdf	6_Library\Datasheets\74LS158 - Quad 2-to-1 Line Data Selector-Multiplexer (Inverting).pdf
+MOVE	Logic	Logic\74LS85 - 4-Bit Magnitude Comparator.pdf	6_Library\Datasheets\74LS85 - 4-Bit Magnitude Comparator.pdf
+MOVE	Logic	Logic\74LS47 - BCD-to-7-Segment Decoder-Driver.pdf	6_Library\Datasheets\74LS47 - BCD-to-7-Segment Decoder-Driver.pdf
+MOVE	Logic	Logic\DM74LS48 - BCD-to-7-Segment Decoder-Driver.pdf	6_Library\Datasheets\DM74LS48 - BCD-to-7-Segment Decoder-Driver.pdf
+MOVE	Logic	Logic\DM74150 - 1-of-16 Data Selector-Multiplexer.pdf	6_Library\Datasheets\DM74150 - 1-of-16 Data Selector-Multiplexer.pdf
+MOVE	Logic	Logic\SN74HC153 - Dual 4-to-1 Line Data Selector-Multiplexer.pdf	6_Library\Datasheets\SN74HC153 - Dual 4-to-1 Line Data Selector-Multiplexer.pdf
+MOVE	Logic	Logic\74LS153 - Dual 4-to-1 Line Data Selector-Multiplexer.pdf	6_Library\Datasheets\74LS153 - Dual 4-to-1 Line Data Selector-Multiplexer.pdf
+MOVE	Logic	Logic\74LS154 - 4-to-16 Line Decoder-Demultiplexer.pdf	6_Library\Datasheets\74LS154 - 4-to-16 Line Decoder-Demultiplexer.pdf
+MOVE	Logic	Logic\74LS151 - 8-Input Data Selector-Multiplexer.pdf	6_Library\Datasheets\74LS151 - 8-Input Data Selector-Multiplexer.pdf
+MOVE	Logic	Logic\74LS147_148 - 10-to-4 Line _ 8-to-3 Line Priority Encoders.pdf	6_Library\Datasheets\74LS147_148 - 10-to-4 Line _ 8-to-3 Line Priority Encoders.pdf
+MOVE	Logic	Logic\74LS139 - Dual 2-to-4 Line Decoder-Demultiplexer.pdf	6_Library\Datasheets\74LS139 - Dual 2-to-4 Line Decoder-Demultiplexer.pdf
+MOVE	Logic	Logic\74LS74A - Dual D-Type Positive Edge-Triggered Flip-Flop.pdf	6_Library\Datasheets\74LS74A - Dual D-Type Positive Edge-Triggered Flip-Flop.pdf
+MOVE	Logic	Logic\74LS90_92_93 - Decade _ Divide-by-12 _ 4-Bit Binary Counters.pdf	6_Library\Datasheets\74LS90_92_93 - Decade _ Divide-by-12 _ 4-Bit Binary Counters.pdf
+MOVE	Logic	Logic\74LS173 - 4-Bit D-Type Register.pdf	6_Library\Datasheets\74LS173 - 4-Bit D-Type Register.pdf
+MOVE	Logic	Logic\74HC595 - 8-Bit Shift Register with 3-State Output Register.pdf	6_Library\Datasheets\74HC595 - 8-Bit Shift Register with 3-State Output Register.pdf
+MOVE	Logic	Logic\74LS00D.pdf	6_Library\Datasheets\74LS00D.pdf
+MOVE	Logic	Logic\MM74HC595 - 8-Bit Shift Register with 3-State Output Register.pdf	6_Library\Datasheets\MM74HC595 - 8-Bit Shift Register with 3-State Output Register.pdf
+MOVE	Logic	Logic\CD4511B.PDF - CMOS BCD-7-segments decoder.pdf	6_Library\Datasheets\CD4511B.PDF - CMOS BCD-7-segments decoder.pdf
+MOVE	MCU	MCU\MSP430FG4618 Experimenter Board.pdf	6_Library\Datasheets\MSP430FG4618 Experimenter Board.pdf
+MOVE	MCU	MCU\MSP430-4619LCD.pdf	6_Library\Datasheets\MSP430-4619LCD__2.pdf
+MOVE	MCU	MCU\stm32f103c8-CortexM3_72MHz.pdf	6_Library\Datasheets\stm32f103c8-CortexM3_72MHz.pdf
+MOVE	MCU	MCU\MCS-4_UsersManual_Feb73.pdf	6_Library\Datasheets\MCS-4_UsersManual_Feb73.pdf
+MOVE	MCU	MCU\DSP\TMS320C6713 - Floating-Point Digital Signal Processor.pdf	6_Library\Datasheets\TMS320C6713 - Floating-Point Digital Signal Processor.pdf
+MOVE	MCU	MCU\Atmosic\ATM2 Datasheet ATM22xx-002-DS-0101-잠금 해제됨(최근).pdf	6_Library\Datasheets\ATM2 Datasheet ATM22xx-002-DS-0101-잠금 해제됨(최근).pdf
+MOVE	MCU	MCU\Atmosic\ATM3202-Product-Brief-ATM3202-PB-0050.pdf	6_Library\Datasheets\ATM3202-Product-Brief-ATM3202-PB-0050.pdf
+MOVE	MCU	MCU\Atmosic\ATM32xx Energy Harvesting Application Notes ATM32xx-ANHV-0054.pdf	6_Library\Datasheets\ATM32xx Energy Harvesting Application Notes ATM32xx-ANHV-0054.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic SDK Quick Reference Guide ATM-QRGSDK-0070.pdf	6_Library\Datasheets\Atmosic SDK Quick Reference Guide ATM-QRGSDK-0070.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic SDK Quick Start Guide ATM-QSGSDK-0061.pdf	6_Library\Datasheets\Atmosic SDK Quick Start Guide ATM-QSGSDK-0061.pdf
+MOVE	MCU	MCU\Atmosic\ATM2202 - Bluetooth Low Energy Wireless SoC.pdf	6_Library\Datasheets\ATM2202 - Bluetooth Low Energy Wireless SoC.pdf
+MOVE	MCU	MCU\Atmosic\ATM2_ATM3 Evaluation Kit User Guide ATM2_ATM3-UGEVK-P062.pdf	6_Library\Datasheets\ATM2_ATM3 Evaluation Kit User Guide ATM2_ATM3-UGEVK-P062.pdf
+MOVE	MCU	MCU\Atmosic\Hardware Design Guide for ATMx2xx ATMx2xx-DG-0058-잠금 해제됨.pdf	6_Library\Datasheets\Hardware Design Guide for ATMx2xx ATMx2xx-DG-0058-잠금 해제됨.pdf
+DUP	MCU	MCU\Atmosic\Atmosic ATM33e brief summary 07-27-2023 .pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic ATM33e brief summary 07-27-2023 .pdf
+DUP	MCU	MCU\Atmosic\Atmosic ATM33e presentaion for LST 07-27-2023 .pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic ATM33e presentaion for LST 07-27-2023 .pdf
+DUP	MCU	MCU\Atmosic\Atmosic 교육 자료\Embedded Application Development Application Note ATM-ANEPD-0090_Decrypted.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 교육 자료\Embedded Application Development Application Note ATM-ANEPD-0090_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 교육 자료\SDK-User-Reference-Manual-ATMx2xx-x1x-SWUR-0051.pdf	6_Library\Datasheets\SDK-User-Reference-Manual-ATMx2xx-x1x-SWUR-0051.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 교육 자료\Samsung_Atmosic low power BLE for Samsung 12-Dec.pdf	6_Library\Datasheets\Samsung_Atmosic low power BLE for Samsung 12-Dec.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 교육 자료\ATM_EVK_Introduction.pdf	6_Library\Datasheets\ATM_EVK_Introduction.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 교육 자료\ATM2EVK_measurement_demo.pdf	6_Library\Datasheets\ATM2EVK_measurement_demo.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 교육 자료\ATM33EVK_measurement_demo.pdf	6_Library\Datasheets\ATM33EVK_measurement_demo.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Atmosic Application Development Guide ATMx2xx-DGAFW-0070.pdf	6_Library\Datasheets\Atmosic Application Development Guide ATMx2xx-DGAFW-0070.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Application State Machine Application Note  ATMxxxx-ANASM-0050.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Application State Machine Application Note  ATMxxxx-ANASM-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\ATM_ancsc Application Note ATMxxxx-ANCSC-0050.pdf	6_Library\Datasheets\ATM_ancsc Application Note ATMxxxx-ANCSC-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\CT_Tracing Example Application Note ATMx2xx-ANCTT-0054.pdf	6_Library\Datasheets\CT_Tracing Example Application Note ATMx2xx-ANCTT-0054.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\BLE_att_server Application Note ATMx2xx-ANBAS-0052.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\BLE_att_server Application Note ATMx2xx-ANBAS-0052.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\BLE_att_client Application Note ATMxxxx-ANBAC-0050.pdf	6_Library\Datasheets\BLE_att_client Application Note ATMxxxx-ANBAC-0050.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Atmosic BLE_bridge Example Application Note ATMx2xx-ANBLEB-0050.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Atmosic BLE_bridge Example Application Note ATMx2xx-ANBLEB-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\HT_thermometer Example Application Note ATMx2xx-ANHTE-0051.pdf	6_Library\Datasheets\HT_thermometer Example Application Note ATMx2xx-ANHTE-0051.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\HID_keyboard Example Application Note ATMx2xx-ANKE-0050.pdf	6_Library\Datasheets\HID_keyboard Example Application Note ATMx2xx-ANKE-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Key Matrix Application Note ATMxxxx-ANKM-0050.pdf	6_Library\Datasheets\Key Matrix Application Note ATMxxxx-ANKM-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\NVDS Over UART Application Note ATMxxxx-ANVDS-0050.pdf	6_Library\Datasheets\NVDS Over UART Application Note ATMxxxx-ANVDS-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\On-demand Wakeup Application Note ATMxxxx-ANODWP-0050.pdf	6_Library\Datasheets\On-demand Wakeup Application Note ATMxxxx-ANODWP-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\BLE_att_client Application Note ATMxxxx-ANBAC-0050_Decrypted.pdf	6_Library\Datasheets\BLE_att_client Application Note ATMxxxx-ANBAC-0050_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Application State Machine Application Note  ATMxxxx-ANASM-0050_Decrypted.pdf	6_Library\Datasheets\Application State Machine Application Note  ATMxxxx-ANASM-0050_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\CT_Tracing Example Application Note ATMx2xx-ANCTT-0054_Decrypted.pdf	6_Library\Datasheets\CT_Tracing Example Application Note ATMx2xx-ANCTT-0054_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\On-demand Wakeup Application Note ATMxxxx-ANODWP-0050_Decrypted.pdf	6_Library\Datasheets\On-demand Wakeup Application Note ATMxxxx-ANODWP-0050_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\HID_remote Example Application Note ATMxxxx-ANHID-0053.pdf	6_Library\Datasheets\HID_remote Example Application Note ATMxxxx-ANHID-0053.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\ATM2_ATM3 Series HID KB with Zephyr RTOS Application Note ATM2_ATM3-ANHIDKB-0051.pdf	6_Library\Datasheets\ATM2_ATM3 Series HID KB with Zephyr RTOS Application Note ATM2_ATM3-ANHIDKB-0051.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\ATM32xx Energy Harvesting Application Note ATM32xx-ANHV-P056.pdf	6_Library\Datasheets\ATM32xx Energy Harvesting Application Note ATM32xx-ANHV-P056.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Atmosic-Chip-Revisions-Application-Note-ATMx2xx-ANCHR-0052-1.pdf	6_Library\Datasheets\Atmosic-Chip-Revisions-Application-Note-ATMx2xx-ANCHR-0052-1.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Bluetooth-LE-Advertisement-Example-Application-Note-ATMxxxx-ANAEX-0053.pdf	6_Library\Datasheets\Bluetooth-LE-Advertisement-Example-Application-Note-ATMxxxx-ANAEX-0053.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\ATM32x1-Harvesting-Meter-Application-Note-ATM32x1-ANEHM-0054.pdf	6_Library\Datasheets\ATM32x1-Harvesting-Meter-Application-Note-ATM32x1-ANEHM-0054.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\Bluetooth-LE-Advertisement-Example-Application-Note-ATMxxxx-ANAEX-0053_Decrypted.pdf	6_Library\Datasheets\Bluetooth-LE-Advertisement-Example-Application-Note-ATMxxxx-ANAEX-0053_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Application Notes\HT_thermometer Example Application Note ATMx2xx-ANHTE-0051_Decrypted.pdf	6_Library\Datasheets\HT_thermometer Example Application Note ATMx2xx-ANHTE-0051_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Design Guides\Hardware Design Guide for ATMx2xx ATMx2xx-DG-0059.pdf	6_Library\Datasheets\Hardware Design Guide for ATMx2xx ATMx2xx-DG-0059.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Datasheets\ATM3 Datasheet ATM32x1-DS-0122.pdf	6_Library\Datasheets\ATM3 Datasheet ATM32x1-DS-0122.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Datasheets\ATM2 Datasheet ATM22x1-DS-0121.pdf	6_Library\Datasheets\ATM2 Datasheet ATM22x1-DS-0121.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Datasheets\ATM3202 Embedded Flash Datasheet ATM3202-DS-0111.pdf	6_Library\Datasheets\ATM3202 Embedded Flash Datasheet ATM3202-DS-0111.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Datasheets\ATM2251 Datasheet ATM2251-DS-0111.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\Datasheets\ATM2251 Datasheet ATM2251-DS-0111.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2_ATM3 Evaluation Kit User Guide ATM2_ATM3-UGEVK-P061 .pdf	6_Library\Datasheets\ATM2_ATM3 Evaluation Kit User Guide ATM2_ATM3-UGEVK-P061 .pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2_ATM3 EVK Power Consumption Evaluation User Guide ATM2_ATM3-UGPCE-P062.pdf	6_Library\Datasheets\ATM2_ATM3 EVK Power Consumption Evaluation User Guide ATM2_ATM3-UGPCE-P062.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2_ATM3 EVK Power Consumption Evaluation User Guide ATM2_ATM3-UGPCE-P062_Decrypted.pdf	6_Library\Datasheets\ATM2_ATM3 EVK Power Consumption Evaluation User Guide ATM2_ATM3-UGPCE-P062_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2201 EVK (rev E2a)\ATMEVK5-01-E2a-02-ATM2201-SCH.pdf	6_Library\Datasheets\ATMEVK5-01-E2a-02-ATM2201-SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2201 EVK (rev E2a)\ATMEVK5-01-E2-ATMx20x-Assembly.pdf	6_Library\Datasheets\ATMEVK5-01-E2-ATMx20x-Assembly.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2251 (CSP) EVK(Rev A1)\Block Diagram.pdf	6_Library\Datasheets\Block Diagram.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2251 (CSP) EVK(Rev A1)\Module Carrier Board\ATM2251_ModuleCB_revA1_SCH.pdf	6_Library\Datasheets\ATM2251_ModuleCB_revA1_SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2251 (CSP) EVK(Rev A1)\Module Carrier Board\ATM2251_ModuleCB_revA1_ASSY.pdf	6_Library\Datasheets\ATM2251_ModuleCB_revA1_ASSY.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2251 (CSP) EVK(Rev A1)\Module\ATM2251-Module_revA1-02_SCH.pdf	6_Library\Datasheets\ATM2251-Module_revA1-02_SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2251 (CSP) EVK(Rev A1)\Module\ATM2251_Module_revA1_ASSY.pdf	6_Library\Datasheets\ATM2251_Module_revA1_ASSY.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2202 EVK (rev E2b)\EVK User Guide ATMx201-UG-0059.pdf	6_Library\Datasheets\EVK User Guide ATMx201-UG-0059.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2202 EVK (rev E2b)\ATMEVK5-01-E2b-02-ATM2202-SCH.pdf	6_Library\Datasheets\ATMEVK5-01-E2b-02-ATM2202-SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM2202 EVK (rev E2b)\EVK Power Consumption Evaluation ATMx2xx-ECPE-0044.pdf	6_Library\Datasheets\EVK Power Consumption Evaluation ATMx2xx-ECPE-0044.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM3201 EVK (rev E2)\ATMEVK5-01-E2-02-ATM3201-SCH.pdf	6_Library\Datasheets\ATMEVK5-01-E2-02-ATM3201-SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATM3202 EVK (rev E2c)\ATMEVK5-01-E2c-02-ATM3202-SCH.pdf	6_Library\Datasheets\ATMEVK5-01-E2c-02-ATM3202-SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\Interface Board (rev C)\Interface Board User Guide ATMx221-UGIB-0052.pdf	6_Library\Datasheets\Interface Board User Guide ATMx221-UGIB-0052.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\Interface Board (rev C)\Interface Board 3.1-SCH.pdf	6_Library\Datasheets\Interface Board 3.1-SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\Interface Board (rev C)\RD-Interfaces-V3.1-Assembly.pdf	6_Library\Datasheets\RD-Interfaces-V3.1-Assembly.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\RF Source 900Mhz Transmitter Board (rev 2)\RF Source Transmitter Board User Guide ATM3xxx-UGTB-0053.pdf	6_Library\Datasheets\RF Source Transmitter Board User Guide ATM3xxx-UGTB-0053.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\RF Source 900Mhz Transmitter Board (rev 2)\Zeus-V2-SCH.pdf	6_Library\Datasheets\Zeus-V2-SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\RF Source 900Mhz Transmitter Board (rev 2)\Zeus-V2-Assembly.pdf	6_Library\Datasheets\Zeus-V2-Assembly.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATMx221 EVK\EVK User Guide ATMx221-UG-0059.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATMx221 EVK\EVK User Guide ATMx221-UG-0059.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATMx221 EVK\ATMEVK6-D3a-02_SCH.pdf	6_Library\Datasheets\ATMEVK6-D3a-02_SCH.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\EVKs\ATMx221 EVK\ATMEVK6-D3-Assembly.pdf	6_Library\Datasheets\ATMEVK6-D3-Assembly.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Quick Start Guides\SDK Configure Beacon Parameters in OTP  ATM2xxx-SOTP-0042.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\Quick Start Guides\SDK Configure Beacon Parameters in OTP  ATM2xxx-SOTP-0042.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Quick Start Guides\ATM32xx EVK Energy Harvesting Quick Start Guide ATM32xx-QSGEHV-P061.pdf	6_Library\Datasheets\ATM32xx EVK Energy Harvesting Quick Start Guide ATM32xx-QSGEHV-P061.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\RCU\PV Remote Control User Guide ATM3xxx-UGPVRC-0050.pdf	6_Library\Datasheets\PV Remote Control User Guide ATM3xxx-UGPVRC-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\RCU\PV Remote Control User Guide ATM3231-UGPVRC-0050.pdf	6_Library\Datasheets\PV Remote Control User Guide ATM3231-UGPVRC-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\RCU\ATMRC-3231-CC-V03_20221201\ATM3231-PV_RC_V03_Battery Free_CR2032_HDK\ATM3231-PV_RC Battery Free_CR2032_HDK release version.PDF	6_Library\Datasheets\ATM3231-PV_RC Battery Free_CR2032_HDK release version.PDF
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\RCU\ATMRC-3231-CC-V03_20221201\ATM3231-PV_RC_V03_Battery Free_CR2032_HDK\SCH\ATM3231-PV_RC BATTERY_FREE_V03_SCH_CR2032.PDF	6_Library\Datasheets\ATM3231-PV_RC BATTERY_FREE_V03_SCH_CR2032.PDF
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\RCU\ATMRC-3231-CC-V03_20221201\ATM3231-PV_RC_V03_Battery Free_CR2032_HDK\ASSEMBLY\ATM3231-PV_RC_BATTERY_FREE_CR2032_V03_XY_LOCATION.pdf	6_Library\Datasheets\ATM3231-PV_RC_BATTERY_FREE_CR2032_V03_XY_LOCATION.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\RCU\ATMRC-3231-CC-V03_20221201\ATM3231-PV_RC_V03_Battery Free_CR2032_HDK\BOM\ATM3231-PV_RC Battery_Free_V03_BOM_CR2032.pdf	6_Library\Datasheets\ATM3231-PV_RC Battery_Free_V03_BOM_CR2032.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\RCU\ATMRC-3231-CC-V03_20221201\ATM3231-PV_RC_V03_Battery Free_CR2032_HDK\GERBER\ATM3231-PV_RC_BATTERY_FREE_V03_CR2032_GERBER.pdf	6_Library\Datasheets\ATM3231-PV_RC_BATTERY_FREE_V03_CR2032_GERBER.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\RCU\ATMRC-3231-CC-V03_20221201\ATM3231-PV_RC_V03_Battery Free_CR2032_HDK\PCB\ATM3231-PV_RC_BATTERY_FREE_V03_CR2032_LAYOUT.PDF	6_Library\Datasheets\ATM3231-PV_RC_BATTERY_FREE_V03_CR2032_LAYOUT.PDF
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Reference Manuals\ATMx2xx Reference Manual ATMx2xx-RM-0062.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\Reference Manuals\ATMx2xx Reference Manual ATMx2xx-RM-0062.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\Reference Manuals\Register-Specification-ATMx2xx-x1x-RS-0052.pdf	6_Library\Datasheets\Register-Specification-ATMx2xx-x1x-RS-0052.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\User Guides\PV Keyboard User Guide ATM3xxx-UGPVKB-0060.pdf	6_Library\Datasheets\PV Keyboard User Guide ATM3xxx-UGPVKB-0060.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\User Guides\PV Beacon User Guide ATM3xx2-UGPVB-P064.pdf	6_Library\Datasheets\PV Beacon User Guide ATM3xx2-UGPVB-P064.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\User Guides\Atmosic AT Command for ATM2_ATM3 Wireless SoC Family User Guide ATM2_ATM3-UGATC-0052.pdf	6_Library\Datasheets\Atmosic AT Command for ATM2_ATM3 Wireless SoC Family User Guide ATM2_ATM3-UGATC-0052.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\User Guides\ATM2_ATM3 CT_Tracing Example User Guide ATM2_ATM3-UGCTE-0060.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\User Guides\ATM2_ATM3 CT_Tracing Example User Guide ATM2_ATM3-UGCTE-0060.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\User Guides\ATM2_ATM3 CT_Tracing Example User Guide ATM2_ATM3-UGCTE-0060_Decrypted.pdf	6_Library\Datasheets\ATM2_ATM3 CT_Tracing Example User Guide ATM2_ATM3-UGCTE-0060_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\Understanding ATMx2xx Low Power Modes ATMx2xx-WPLP-0056.pdf	6_Library\Datasheets\Understanding ATMx2xx Low Power Modes ATMx2xx-WPLP-0056.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\ATMxxxx Bluetooth LE Coded PHY White Paper ATMxxxx-002-WPCP-0051.pdf	6_Library\Datasheets\ATMxxxx Bluetooth LE Coded PHY White Paper ATMxxxx-002-WPCP-0051.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\ATM2_3 Wakeup Receiver White Paper ATM3xxx-WPWU-0052.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\ATM2_3 Wakeup Receiver White Paper ATM3xxx-WPWU-0052.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\ATM2_ATM3 Sensor Hub White Paper ATMxxxx-002-WPSH-0032.pdf	6_Library\Datasheets\ATM2_ATM3 Sensor Hub White Paper ATMxxxx-002-WPSH-0032.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\ATM2_ATM3 Sensor Hub White Paper ATMxxxx-002-WPSH-0032_Decrypted.pdf	6_Library\Datasheets\ATM2_ATM3 Sensor Hub White Paper ATMxxxx-002-WPSH-0032_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\Understanding ATMx2xx Low Power Modes ATMx2xx-WPLP-0056_Decrypted.pdf	6_Library\Datasheets\Understanding ATMx2xx Low Power Modes ATMx2xx-WPLP-0056_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\ATMxxxx Bluetooth LE Coded PHY White Paper ATMxxxx-002-WPCP-0051_Decrypted.pdf	6_Library\Datasheets\ATMxxxx Bluetooth LE Coded PHY White Paper ATMxxxx-002-WPCP-0051_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\ATM2_3 Wakeup Receiver White Paper ATM3xxx-WPWU-0052_Decrypted.pdf	6_Library\Datasheets\ATM2_3 Wakeup Receiver White Paper ATM3xxx-WPWU-0052_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\Pin Assignment and Pinmux Programming White Paper ATMx2xx-WPPA-0051.pdf	6_Library\Datasheets\Pin Assignment and Pinmux Programming White Paper ATMx2xx-WPPA-0051.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM2_3\White Papers\ATM3-Energy-Harvesting-White-Paper-ATM3xxx-WPEH-0052.pdf	6_Library\Datasheets\ATM3-Energy-Harvesting-White-Paper-ATM3xxx-WPEH-0052.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\SDK\Reference Manuals\ATM33_e Series SDK User Reference Manual ATM33_e-URMSDK-0054.pdf	6_Library\Datasheets\ATM33_e Series SDK User Reference Manual ATM33_e-URMSDK-0054.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\SDK\Reference Manuals\ATM33_e Series SDK User Reference Manual ATM33_e-URMSDK-0054_Decrypted.pdf	6_Library\Datasheets\ATM33_e Series SDK User Reference Manual ATM33_e-URMSDK-0054_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\SDK\Quick Start Guides\Develop-with-SEGGER-Embedded-Studio-for-ATM2_ATM3-Quick-Start-Guide-ATMxxxx-QSSES-0051.pdf	6_Library\Datasheets\Develop-with-SEGGER-Embedded-Studio-for-ATM2_ATM3-Quick-Start-Guide-ATMxxxx-QSSES-0051.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\SDK\Quick Start Guides\SDK-Quick-Start-Guide-ATMx2xx-SQSG-0054.pdf	6_Library\Datasheets\SDK-Quick-Start-Guide-ATMx2xx-SQSG-0054.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\SDK\SDK Release\Atmosic SDK 5.4.0.1 Release Notes ATM-RNSDK5401-0110.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\SDK\SDK Release\Atmosic SDK 5.4.0.1 Release Notes ATM-RNSDK5401-0110.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\SDK\SDK Release\Atmosic SDK User Guide ATM-UGSDK-0071_Decrypted.pdf	6_Library\Datasheets\Atmosic SDK User Guide ATM-UGSDK-0071_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\ATM33_e Series Product Brief ATM33_e-PB-0065.pdf	6_Library\Datasheets\ATM33_e Series Product Brief ATM33_e-PB-0065.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\EVKs\ATM33_e Series Evaluation Kit User Guide ATM33_e-UGEVK-0065.pdf	6_Library\Datasheets\ATM33_e Series Evaluation Kit User Guide ATM33_e-UGEVK-0065.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\EVKs\ATM33_e Series EVK Power Consumption Evaluation User Guide ATM33_e-UGPCE-0051.pdf	6_Library\Datasheets\ATM33_e Series EVK Power Consumption Evaluation User Guide ATM33_e-UGPCE-0051.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\EVKs\ATMEVK-3325-QK-5x5-V3_1-SCH-20230331.pdf	6_Library\Datasheets\ATMEVK-3325-QK-5x5-V3_1-SCH-20230331.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\EVKs\ATM33_e Series EVK Power Consumption Evaluation User Guide ATM33_e-UGPCE-0051_Decrypted.pdf	6_Library\Datasheets\ATM33_e Series EVK Power Consumption Evaluation User Guide ATM33_e-UGPCE-0051_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Datasheets\ATM33e Series Datasheet ATM33e-DS-0074.pdf	6_Library\Datasheets\ATM33e Series Datasheet ATM33e-DS-0074.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Datasheets\ATM33 Series Datasheet ATM33-DS-0077.pdf	6_Library\Datasheets\ATM33 Series Datasheet ATM33-DS-0077.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Datasheets\ATM33 Series Datasheet ATM33-DS-0080_Samsung.pdf	6_Library\Datasheets\ATM33 Series Datasheet ATM33-DS-0080_Samsung.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\Using Secure Debug with ATM33_e Application Note ATM33_e-ANSD-0050.pdf	6_Library\Datasheets\Using Secure Debug with ATM33_e Application Note ATM33_e-ANSD-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\HID_Remote Example Application Note ATM-ANHID-0060.pdf	6_Library\Datasheets\HID_Remote Example Application Note ATM-ANHID-0060.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\Digital Biquad Filter with Software Implementation Application Notes ATM3330e_ATM3330-ANDBF-0050.pdf	6_Library\Datasheets\Digital Biquad Filter with Software Implementation Application Notes ATM3330e_ATM3330-ANDBF-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\ATM33e Series Energy Harvesting Application Note ATM33e-ANEHV-0061.pdf	6_Library\Datasheets\ATM33e Series Energy Harvesting Application Note ATM33e-ANEHV-0061.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\ATM33_e Support for External Energy Storage Devices Application Note ATM33_e-ANSESD-0052.pdf	6_Library\Datasheets\ATM33_e Support for External Energy Storage Devices Application Note ATM33_e-ANSESD-0052.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\ATM33_e Series Pulse Width Modulation Application Note ATM33_e-ANPWM-0050.pdf	6_Library\Datasheets\ATM33_e Series Pulse Width Modulation Application Note ATM33_e-ANPWM-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\ATM33_e Series MCUboot Application Note ATM33_e-ANMB-0050.pdf	6_Library\Datasheets\ATM33_e Series MCUboot Application Note ATM33_e-ANMB-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\ATM33_e Series General Purpose ADC Application Note ATM33_e-ANGADC-0050.pdf	6_Library\Datasheets\ATM33_e Series General Purpose ADC Application Note ATM33_e-ANGADC-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Application Note\ATM33_e Support for External Energy Storage Devices Application Note ATM33_e-ANSESD-0052_Decrypted.pdf	6_Library\Datasheets\ATM33_e Support for External Energy Storage Devices Application Note ATM33_e-ANSESD-0052_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Design Guides\ATM33_e Series Hardware Design Guide ATM33_e-DGHW-0056.pdf	6_Library\Datasheets\ATM33_e Series Hardware Design Guide ATM33_e-DGHW-0056.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Design Guides\ATM33_e Series Hardware Design Guide ATM33_e-DGHW-0056_Decrypted.pdf	6_Library\Datasheets\ATM33_e Series Hardware Design Guide ATM33_e-DGHW-0056_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Quick Start Guides\ATM33e Series Energy Harvesting EVK Quick Start Guide ATM33e-QSGEHV-0063.pdf	6_Library\Datasheets\ATM33e Series Energy Harvesting EVK Quick Start Guide ATM33e-QSGEHV-0063.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Quick Start Guides\ATM33_e AoA Demo Quick Start Guide ATM33_e-QSGAoA-0060.pdf	6_Library\Datasheets\ATM33_e AoA Demo Quick Start Guide ATM33_e-QSGAoA-0060.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Reference Manuals\ATM33_e Series Preliminary Reference Manual ATM33_e-RM-0057.pdf	6_Library\Datasheets\ATM33_e Series Preliminary Reference Manual ATM33_e-RM-0057.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Reference Manuals\ATM33_e Register Specification ATM33_e-RSB-0053.pdf	6_Library\Datasheets\ATM33_e Register Specification ATM33_e-RSB-0053.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\Reference Manuals\ATM33_e Series Preliminary Reference Manual ATM33_e-RM-0057_Decrypted.pdf	6_Library\Datasheets\ATM33_e Series Preliminary Reference Manual ATM33_e-RM-0057_Decrypted.pdf
+DUP	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\ATM2_ATM3_ATM33 Wireless SoC Family SDK Quick Reference Guide ATM2_ATM3_ATM33-QRGSDK-0060.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\MCU\Atmosic\Atmosic 자료\ATM33\User Guides\ATM2_ATM3_ATM33 Wireless SoC Family SDK Quick Reference Guide ATM2_ATM3_ATM33-QRGSDK-0060.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\Atmosic Remote Control Functional Tester User Guide ATM-UGRCFT-0050.pdf	6_Library\Datasheets\Atmosic Remote Control Functional Tester User Guide ATM-UGRCFT-0050.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\IDE Auxiliary Flash Programming Tool User Guide ATM-UGIDEFPT-0051.pdf	6_Library\Datasheets\IDE Auxiliary Flash Programming Tool User Guide ATM-UGIDEFPT-0051.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\SEGGER Embedded Studio for ATM2_ATM3_ATM33 Wireless SoC Family User Guide ATM2_ATM3_ATM33-UGSEG-0061.pdf	6_Library\Datasheets\SEGGER Embedded Studio for ATM2_ATM3_ATM33 Wireless SoC Family User Guide ATM2_ATM3_ATM33-UGSEG-0061.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\ATM33_e OTA Update Service User Guide ATM33_e-UGOTA-0052.pdf	6_Library\Datasheets\ATM33_e OTA Update Service User Guide ATM33_e-UGOTA-0052.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\IAR Workbench User Guide ATM-UGIAR-0061.pdf	6_Library\Datasheets\IAR Workbench User Guide ATM-UGIAR-0061.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\ATM2_ATM3_ATM33_Keil MDK Configuration Guide ATM2_ATM3_ATM33-UGKMDK-0060.pdf	6_Library\Datasheets\ATM2_ATM3_ATM33_Keil MDK Configuration Guide ATM2_ATM3_ATM33-UGKMDK-0060.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\ATM2_ATM3_ATM33_Keil MDK Configuration Guide ATM2_ATM3_ATM33-UGKMDK-0060_Decrypted.pdf	6_Library\Datasheets\ATM2_ATM3_ATM33_Keil MDK Configuration Guide ATM2_ATM3_ATM33-UGKMDK-0060_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\IAR Workbench User Guide ATM-UGIAR-0061_Decrypted.pdf	6_Library\Datasheets\IAR Workbench User Guide ATM-UGIAR-0061_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\User Guides\SEGGER Embedded Studio for ATM2_ATM3_ATM33 Wireless SoC Family User Guide ATM2_ATM3_ATM33-UGSEG-0061_Decrypted.pdf	6_Library\Datasheets\SEGGER Embedded Studio for ATM2_ATM3_ATM33 Wireless SoC Family User Guide ATM2_ATM3_ATM33-UGSEG-0061_Decrypted.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\ATM33\White Paper\Understanding Low Power Modes for ATM33_e Series White Paper ATM33_e-WPLP-0051.pdf	6_Library\Datasheets\Understanding Low Power Modes for ATM33_e Series White Paper ATM33_e-WPLP-0051.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\Tools\MP\Atmosic MPTool User Guide ATM-UGMPT-0059.pdf	6_Library\Datasheets\Atmosic MPTool User Guide ATM-UGMPT-0059.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\Tools\ISP\Atmosic-ISP-Tool-User-Guide-ATMxxxx-UGISP-0053.pdf	6_Library\Datasheets\Atmosic-ISP-Tool-User-Guide-ATMxxxx-UGISP-0053.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\Tools\RF\Atmosic RF Test Tool User Guide ATM-UGRF-0060.pdf	6_Library\Datasheets\Atmosic RF Test Tool User Guide ATM-UGRF-0060.pdf
+MOVE	MCU	MCU\Atmosic\Atmosic 자료\Tools\RF\Atmosic RF Test Tool User Guide ATM-UGRF-0060_Decrypted.pdf	6_Library\Datasheets\Atmosic RF Test Tool User Guide ATM-UGRF-0060_Decrypted.pdf
+MOVE	MCU	MCU\Atmel\Twi-module-as-i2c-slave_applicationnote_avr311.pdf	6_Library\Datasheets\Twi-module-as-i2c-slave_applicationnote_avr311.pdf
+MOVE	MCU	MCU\Atmel\AVR328 short.pdf	6_Library\Datasheets\AVR328 short.pdf
+MOVE	MCU	MCU\Atmel\ATmega128A - 8-Bit Microcontroller.pdf	6_Library\Datasheets\ATmega128A - 8-Bit Microcontroller.pdf
+MOVE	MCU	MCU\Atmel\ATmega128L - 8-Bit Microcontroller.pdf	6_Library\Datasheets\ATmega128L - 8-Bit Microcontroller.pdf
+MOVE	MCU	MCU\Atmel\AVR315  I2C.pdf	6_Library\Datasheets\AVR315  I2C.pdf
+MOVE	MCU	MCU\Atmel\ATmega328 - 8-Bit Microcontroller.pdf	6_Library\Datasheets\ATmega328 - 8-Bit Microcontroller.pdf
+MOVE	MCU	MCU\Atmel\Atmega128L short.pdf	6_Library\Datasheets\Atmega128L short.pdf
+MOVE	MCU	MCU\Atmel\Atmel AVR instruction set_2016.pdf	6_Library\Datasheets\Atmel AVR instruction set_2016.pdf
+MOVE	MCU	MCU\Atmel\AVR assembler.pdf	6_Library\Datasheets\AVR assembler.pdf
+MOVE	MCU	MCU\Atmel\Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf	6_Library\Datasheets\Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf
+MOVE	MCU	MCU\Atmel\ATmega328P datasheet_2016_11.pdf	6_Library\Datasheets\ATmega328P datasheet_2016_11.pdf
+MOVE	MCU	MCU\RaspberryPi\bcm2711-peripherals.pdf	6_Library\Datasheets\bcm2711-peripherals.pdf
+MOVE	MCU	MCU\RaspberryPi\cortex_a72_mpcore_trm_100095_0003_06_en.pdf	6_Library\Datasheets\cortex_a72_mpcore_trm_100095_0003_06_en.pdf
+MOVE	MCU	MCU\Nordic\MDBT50Q_Datasheet.pdf	6_Library\Datasheets\MDBT50Q_Datasheet.pdf
+MOVE	MCU	MCU\Nordic\BMD-340_DataSheet_UBX-19033353.pdf	6_Library\Datasheets\BMD-340_DataSheet_UBX-19033353.pdf
+MOVE	MCU	MCU\TI\msp430f1121.pdf	6_Library\Datasheets\msp430f1121.pdf
+MOVE	MCU	MCU\TI\Hands-on Capacitive Touch Sensing with MSP430.pdf	6_Library\Datasheets\Hands-on Capacitive Touch Sensing with MSP430.pdf
+MOVE	MCU	MCU\TI\Programmers_Guide_MSP430_USB_API.pdf	6_Library\Datasheets\Programmers_Guide_MSP430_USB_API.pdf
+MOVE	MCU	MCU\TI\MSP430_Graphics_Library-1_00_01_00.pdf	6_Library\Datasheets\MSP430_Graphics_Library-1_00_01_00.pdf
+MOVE	MCU	MCU\TI\MSP430_DriverLib_Users_Guide-1_30_00_00.pdf	6_Library\Datasheets\MSP430_DriverLib_Users_Guide-1_30_00_00.pdf
+MOVE	MCU	MCU\TI\MSP430FR57xx_DriverLib_Users_Guide-1_30_00_00.pdf	6_Library\Datasheets\MSP430FR57xx_DriverLib_Users_Guide-1_30_00_00.pdf
+MOVE	MCU	MCU\TI\MSP430F5xx_6xx_DriverLib_Users_Guide-1_30_00_00.pdf	6_Library\Datasheets\MSP430F5xx_6xx_DriverLib_Users_Guide-1_30_00_00.pdf
+MOVE	MCU	MCU\TI\MSP430FR5xx_6xx_DriverLib_Users_Guide-1_30_00_00.pdf	6_Library\Datasheets\MSP430FR5xx_6xx_DriverLib_Users_Guide-1_30_00_00.pdf
+MOVE	MCU	MCU\TI\MSP430Flasher_Doc.pdf	6_Library\Datasheets\MSP430Flasher_Doc.pdf
+MOVE	MCU	MCU\STM32\nucleo-f103rb.pdf	6_Library\Datasheets\nucleo-f103rb.pdf
+MOVE	MCU	MCU\STM32\um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf	6_Library\Datasheets\um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf
+MOVE	MCU	MCU\STM32\F103RB_mb1136-default-c05_schematic.pdf	6_Library\Datasheets\F103RB_mb1136-default-c05_schematic.pdf
+MOVE	Interface	Interface\EDR201 - Relay-Optoisolator.pdf	6_Library\Datasheets\EDR201 - Relay-Optoisolator.pdf
+MOVE	Interface	Interface\FT232R - USB to Serial UART IC.pdf	6_Library\Datasheets\FT232R - USB to Serial UART IC.pdf
+MOVE	Interface	Interface\DS1307 - 64 x 8 Serial I2C Real-Time Clock.pdf	6_Library\Datasheets\DS1307 - 64 x 8 Serial I2C Real-Time Clock.pdf
+MOVE	Interface	Interface\7SEG - 7-Segment Display.pdf	6_Library\Datasheets\7SEG - 7-Segment Display.pdf
+MOVE	Interface	Interface\TVP5150 - Low Power Video Decoder.pdf	6_Library\Datasheets\TVP5150 - Low Power Video Decoder.pdf
+MOVE	Interface	Interface\ADG1408_1409 - 8-Channel_Differential 4-Channel Multiplexers.pdf	6_Library\Datasheets\ADG1408_1409 - 8-Channel_Differential 4-Channel Multiplexers.pdf
+MOVE	Interface	Interface\ADG1404 - 4-Channel iCMOS Multiplexer.pdf	6_Library\Datasheets\ADG1404 - 4-Channel iCMOS Multiplexer.pdf
+MOVE	Interface	Interface\AD5162 - Dual 256-Position SPI Digital Potentiometer.pdf	6_Library\Datasheets\AD5162 - Dual 256-Position SPI Digital Potentiometer.pdf
+MOVE	Interface	Interface\LF100ED - 1W Dual-Output DC-DC Converter.pdf	6_Library\Datasheets\LF100ED - 1W Dual-Output DC-DC Converter.pdf
+MOVE	Interface	Interface\HCRN201 - Optocoupler.pdf	6_Library\Datasheets\HCRN201 - Optocoupler.pdf
+MOVE	Interface	Interface\MCP23017 - gpio expander.pdf	6_Library\Datasheets\MCP23017 - gpio expander.pdf
+MOVE	Interface	Interface\MCP41xx - digital potentiometer.pdf	6_Library\Datasheets\MCP41xx - digital potentiometer.pdf
+MOVE	Interface	Interface\PCF8574 - Remote 8-Bit IO Expander for I2C Bus.pdf	6_Library\Datasheets\PCF8574 - Remote 8-Bit IO Expander for I2C Bus.pdf
+MOVE	Interface	Interface\MAX7219 - Serially Interfaced 8-Digit LED Display Driver.pdf	6_Library\Datasheets\MAX7219 - Serially Interfaced 8-Digit LED Display Driver.pdf
+MOVE	Interface	Interface\LM555 - Timer.pdf	6_Library\Datasheets\LM555 - Timer.pdf
+MOVE	Interface	Interface\MCP416x_SPI Digital POT.pdf	6_Library\Datasheets\MCP416x_SPI Digital POT.pdf
+DUP	Interface	Interface\usb_ttl232s.pdf	_to_delete\5_Schematics\9_Reference\Datasheet\Interface\usb_ttl232s.pdf
+MOVE	Interface	Interface\ADG706.pdf	6_Library\Datasheets\ADG706.pdf
+MOVE	Interface	Interface\MCP41010 - digital potentiometer.pdf	6_Library\Datasheets\MCP41010 - digital potentiometer.pdf
+MOVE	Interface	Interface\DS1302 - Trickle-Charge Timekeeping Chip.pdf	6_Library\Datasheets\DS1302 - Trickle-Charge Timekeeping Chip.pdf
+MOVE	AppNotes	AppNotes\Lvc.pdf	6_Library\Manuals\Lvc.pdf
+MOVE	AppNotes	AppNotes\new_series(Digital).pdf	6_Library\Manuals\new_series(Digital).pdf
+MOVE	AppNotes	AppNotes\Using The Analog Devices Active Filter Design Tool.pdf	6_Library\Manuals\Using The Analog Devices Active Filter Design Tool.pdf
+MOVE	AppNotes	AppNotes\GNU Compiler Collection.pdf	6_Library\Manuals\GNU Compiler Collection.pdf
+MOVE	AppNotes	AppNotes\IR Formats 1.pdf	6_Library\Manuals\IR Formats 1.pdf
+MOVE	AppNotes	AppNotes\What's Watt.pdf	6_Library\Manuals\What's Watt.pdf
+MOVE	AppNotes	AppNotes\arduino cheat sheet.pdf	6_Library\Manuals\arduino cheat sheet.pdf
+MOVE	AppNotes	AppNotes\Safety, ethical considerations, and application guidelines for the use.pdf	6_Library\Manuals\Safety, ethical considerations, and application guidelines for the use.pdf
+MOVE	AppNotes	AppNotes\19.Electrical_Safety.pdf	6_Library\Manuals\19.Electrical_Safety.pdf
+MOVE	AppNotes	AppNotes\TI\ECG Implementation on the TMS320C5515 DSP Medical Development Kit (MDK) with the ADS1298 ECG-FE.pdf	6_Library\Manuals\ECG Implementation on the TMS320C5515 DSP Medical Development Kit (MDK) with the ADS1298 ECG-FE.pdf
+MOVE	AppNotes	AppNotes\TI\ECG Implementation on the TMS320C5515 DSP Medical Development Kit (MDK).pdf	6_Library\Manuals\ECG Implementation on the TMS320C5515 DSP Medical Development Kit (MDK).pdf
+MOVE	AppNotes	AppNotes\TI\MDK_ECGSystem_C55515EVM\C5515_ADS1258_ECG_Open Source Software Manifest.pdf	6_Library\Manuals\C5515_ADS1258_ECG_Open Source Software Manifest.pdf
+MOVE	FPGA	FPGA\Cyclone V device Handbook.pdf	6_Library\Datasheets\Cyclone V device Handbook.pdf

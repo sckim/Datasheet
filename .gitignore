@@ -1,0 +1,18 @@
+﻿# GitHub 100MB 제한 초과 파일 제외
+01_MCU/Atmosic/Atmosic 자료/Tools/Atmosic Utilities 1_42.zip
+# Google Drive / OS 잡파일
+desktop.ini
+.DS_Store
+Thumbs.db
+~$*
+.tmp.driveupload/
+
+# Google 네이티브 문서 바로가기 (실제 내용 없음)
+*.gslides
+*.gdoc
+*.gsheet
+*.gdraw
+*.gform
+*.gmap
+*.gsite
+*.gjam

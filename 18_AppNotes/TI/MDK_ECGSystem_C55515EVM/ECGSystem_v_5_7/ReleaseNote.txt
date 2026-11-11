@@ -1,0 +1,5 @@
+Release Note
+
+MDK_ECGSystem_C5515EVM vesrsion 5.7 has been modified from MDK5505_ECG_v_5_6 to be able to run on the C5515 EVM. 
+Software features have not been changes and the same as the MDK5505_ECG_v_5_6. 
+
